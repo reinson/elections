@@ -1,0 +1,662 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+        <style>
+
+            circle {
+            	
+            	stroke: black;
+            	stroke-width: 0.5;
+            	opacity: 0.7; 
+            }
+            h2 {
+              padding: 0px;
+              margin: 0px;
+            }
+            .axis {
+               font-family: sans-serif ;
+               font-size: 0.6em;
+            }
+          path {
+              fill: none;
+              stroke: black;
+              stroke-width: 2px;
+           }
+          .tick {
+              fill: none;
+              stroke: black;
+           }
+          .label {
+            font: sans-serif;
+            font-size: 20px;
+            fill: #636363;
+          }
+          .legendGuide{
+            font: sans-serif;
+            font-size: 14px;
+            fill: #636363;
+            font-style: italic;
+          }
+          .legend{
+            font: sans-serif;
+            font-size: 14px;
+          }
+
+        div.tooltip {   
+            position: absolute;           
+            text-align: center;  
+            padding:10px;         
+                                                        
+            margin: 2px;             
+            font: 14px sans-serif;        
+            background: gray;   
+            border: 1px;
+            border-color: gray;
+            border-style: solid;      
+            border-radius: 5px;           
+            pointer-events: none;         
+          }
+
+         .tip_name{
+          font-size: 16px;
+         }
+         .tip_info{
+          font-size: 11px;
+         }
+
+         hr{
+            margin-right: -5px;
+            margin-left: -5px;
+
+           }
+        </style>
+
+    <script type="text/javascript">
+
+       var color_array = {"REF":"#ffd92f", //given colors for big parties
+                          "SDE":"#d62728",
+                          "IRL":"#8da0cb",
+                          "KESK":"#a6d854",
+                          "EKRE":"#8c564b",
+                          "EVA":"#9467bd",
+                          "OTHERS":"black"};
+
+      var color_array_keys = Object.keys(color_array), //collect all the big party names into an array
+           given_vote_filters = ["0-100","101-1000","1001-10000","10001-30000"],
+             //These are the filter ranges shown in the legend
+           menu_options = ["Total votes","Political party","District name",
+                           "Age of the candidate","Sex of the candidate","Registration number"],
+           provided_annotation_tables = ["District name","Political party"],
+           numerical_annotation_fields = ["Average salary (€)", "Non-Estonians (%)", "Seats in parliament"];
+           quantitative_x_axis_cateegories = ["Total votes","Age of the candidate","Registration number"];
+
+      function draw(data) {
+          //initiate variable for holding active vote filters
+          var active_vote_filters = d3.set(given_vote_filters);
+          // initiate variable for holding active party names
+          var parties_on_screen = d3.set();
+          // initiate variable for holding names of small parties 
+          var other_parties = d3.set();
+          data.forEach(function(d){
+            parties_on_screen.add(d["Party"]);
+            if (color_array_keys.indexOf(d["Party"]) === -1){
+              other_parties.add(d["Party"]);
+            };
+          });
+          parties_on_screen.add("OTHERS");
+
+          function key_func(d) {return d.candidateId;}
+
+          "use strict";
+          var margin = 75,
+              width = 1400 - margin,
+              height = 600 - margin
+              x_axis_end = width - 150;
+
+          d3.select("body")
+              .append("h2")
+              .text("Estonian parliamentary election, 2015");
+          d3.select("body")
+              .append("text")
+              .text("The favorites of electronic voters");
+
+          //Create dropdown menu:
+          var menu = d3.select("body")
+              .append("p")
+              .attr("id","menu")
+              .text("Change the horizontal axis: ")
+              .append("select")
+              .on("change", change_x_axis);
+          menu.selectAll("option")
+              .data(menu_options)
+              .enter().append("option")
+              .text(function(d) { return d; }); 
+
+          var svg = d3.select("body")
+              .append("svg")
+              .attr("width", width + margin)
+              .attr("height", height + margin)
+              .append('g')
+              .attr('class', 'chart');
+
+          //create scales:
+          var vote_max = d3.max(data, function(d){return d["Total votes"];});
+          var radius = d3.scale.sqrt().domain([0, vote_max]).range([1.5, 25]);
+          var x_scale = d3.scale.linear()
+              .range([margin, x_axis_end])
+              .domain([0,vote_max]).nice();
+          var evf_scale = d3.scale.linear()
+              .range([height, margin])
+              .domain([0,0]);
+
+          //create axis:
+          var vote_axis = d3.svg.axis()
+              .scale(x_scale)
+              .orient("bottom");
+          var evf_axis = d3.svg.axis()
+              .scale(evf_scale)
+              .orient("left");
+          d3.select("svg")
+              .append('g')
+              .attr('class', 'y axis')
+              .attr('transform', "translate(" + margin + ",0)")
+              .call(evf_axis);
+          d3.select("svg")
+              .append('g')
+              .attr('class', 'x axis')
+              .attr('transform', "translate(0," + height + ")")
+              .call(vote_axis);
+
+          //Create y-axis label
+          svg.append("text")
+              .attr("class", "y label")
+              .attr("text-anchor", "end")
+              .attr("y", 40)
+              .attr("x",-70)
+              .attr("transform", "rotate(-90)")
+              .style("fill","white")
+              .transition()
+              .delay(1300)
+              .style("fill","#636363")
+              .text("Electronic votes (% of total votes)");
+
+          //Create x-axis label
+          svg.append("text")
+              .attr("class", "x label")
+              .attr("text-anchor", "start")
+              .attr("x", x_axis_end)
+              .attr("y", height + 35)
+              .text("Total votes");
+          
+          //Create legend guides 
+          svg.append("text")
+              .attr("class", "legendGuide")
+              .attr("x", x_axis_end+5)
+              .attr("y", 35)
+              .text("Filter by parties");
+          svg.append("text")
+              .attr("class", "legendGuide")
+              .attr("x", x_axis_end+5)
+              .attr("y", 235)
+              .text("Filter by votes");
+          svg.append("text")
+              .attr("class", "hover legendGuide")
+              .attr("x", x_axis_end+5)
+              .attr("y", 365)
+              .text("Hover for annotations")
+              .style("fill","white");
+          svg.append("text")
+              .attr("class", "legendGuide")
+              .attr("x", x_axis_end+10)
+              .attr("y", height-10)
+              .text("Created by Tormi Reinson");
+
+          //create parties legend
+          var legend = svg.append("g")
+              .attr("class", "legend")
+              .attr("transform", "translate(" + x_axis_end + "," + 50 + ")")
+              .selectAll("g")
+              .data(color_array_keys)
+              .enter().append("g");
+          legend.append("circle")
+              .attr("cy", function(d, i) {return i * 25 ;})
+              .attr("cx",20)
+              .attr("r", 7)
+              .attr("fill", function(d) {return color_array[d]})
+              .attr("id",function(d) {return "ID" + d})
+              .on("click",function(d){update(d,"");});
+          legend.append("text")
+              .attr("y", function(d, i) {return i * 25 + 5;})
+              .attr("x", 40)
+              .text(function(d) {return d;});
+
+          //create votes legend:
+          var votes_legend = svg.append("g")
+              .attr("class", "legend")
+              .attr("transform", "translate(" + x_axis_end + "," + 250 + ")")
+              .selectAll("g")
+              .data(active_vote_filters.values())
+              .enter().append("g");
+          votes_legend.append("circle")
+              .attr("cy", function(d, i) {return i * 25 ;})
+              .attr("cx", 20)
+              .attr("id",function(d){return "ID"+d})
+              .attr("r", function(d,i){return radius(Math.min(10000,10*Math.pow(5,i+1)));})
+              .attr("fill", function(d) {return color_array[d]})
+              .on("click",function(vote_filter){ update("",vote_filter); });
+          votes_legend.append("text")
+              .attr("y", function(d, i) {return i * 25 + 5; })
+              .attr("x", 40)
+              .text(function(d) {return d; });
+
+          //tooltip for candidate mouseover
+          var tooltip = d3.select("body").append("div")
+              .attr("class", "tooltip")
+              .style("opacity", 0);
+          tooltip.append("div").attr("class","tip_name")
+          tooltip.append("div").attr("class","tip_percent")
+          tooltip.append("div").attr("class","tip_info")
+
+
+
+          svg.append("text")
+              .attr("class", "nameAnnotation")
+              .attr("x", 700)
+              .attr("y", 320)
+              .text("Taavi Rõivas, the Prime Minister")
+              .style("fill","white")
+              .transition()
+              .delay(1000)
+              .style("fill","#636363");
+
+          svg.append("text")
+              .attr("class", "nameAnnotation")
+              .attr("x", 1080)
+              .attr("y", 460)
+              .text("Edgar Savisaar, the opposition leader")
+              .style("fill","white")
+              .transition()
+              .delay(1000)
+              .style("fill","#636363");
+
+
+
+ 
+          //Create x function for the first call of draw_bubbles
+          var funx = function(d) {return x_scale(d['Total votes']); }
+          var data_on_screen = data.sort(function(a,b){return b.totalVotes - a.totalVotes;});
+          draw_bubbles(data,funx);
+
+
+          function draw_bubbles(data_to_draw,x_function){
+
+            var circles = svg.selectAll(".bubble")
+              .data(data_to_draw,key_func);
+            
+            circles.exit().transition().duration(500).ease("sin")
+              .attr("cy",height)
+              .style("opacity",0)
+              .remove();
+            
+            circles.enter()
+              .append("circle")
+              .attr("class","bubble")
+              .attr('cx', margin)
+              .attr('cy', height)
+              .attr('r', function(d){return radius(d["Total votes"])})
+              .attr('fill', function(d) {return color_array[d["Party"]]})
+              .on("mouseover",tooltip_entry)
+              .on("mouseout",function (d) {
+                   tooltip.transition()
+                   .duration(500)
+                   .style("opacity",0)
+              });
+
+            var evf_max = d3.max(data_to_draw, function(d){return d["e_vote_fraction"];});
+            evf_scale.domain([0,evf_max]).nice();
+
+            //redraw everything:             
+            d3.selectAll(".x.axis").transition().duration(1000).call(vote_axis);
+            d3.selectAll(".y.axis").transition().duration(2000).call(evf_axis);
+            d3.selectAll(".bubble")
+              .data(data_to_draw,key_func)
+              .transition()
+              .duration(1000)
+              .attr("cx", x_function)
+              .attr("cy",function(d){return evf_scale(d["e_vote_fraction"])});
+            
+          //end of draw_bubbles 
+          }
+          
+          function update(party,vote_range){
+            //Gets called if legend circles are clicked
+            //Updates global filter variables > filters data > redraws graph
+            
+            //first update global filter lists
+            if (party !== ""){update_parties_on_screen(party);}
+            if (vote_range !== ""){update_filters(active_vote_filters,vote_range);}
+            //update global data_on_screen variable (from the initial data)
+            data_on_screen = data.filter(function(d){
+                return parties_on_screen.has(d.Party) === true; 
+              });
+            data_on_screen = data_on_screen.filter(vote_filtering);
+
+            //redraw plot starting from recreating x-axis
+            change_x_axis();
+            
+            function update_parties_on_screen(party){
+                //call every small parties separately to filter them all.
+                if (party === "OTHERS"){
+                    other_parties.forEach(function(p){
+                    update_filters(parties_on_screen,p);
+                  });
+                }
+                update_filters(parties_on_screen,party);
+              };
+
+            function update_filters(on_scr,fil){
+              //update global filter variables
+              //update legend circle colors               
+                var legend_circle = svg.select("#ID" + fil);
+                if (on_scr.has(fil) === true){
+                  on_scr.remove(fil);
+                  legend_circle.attr("fill","white");    
+                  } else {
+                    on_scr.add(fil);
+                    legend_circle.attr("fill",color_array[fil]);
+                  }
+              }
+
+            function vote_filtering(data_line){
+              //return true if number of votes corresponds to a global vote filter              
+                for (index in active_vote_filters.values()){
+                  var filter = active_vote_filters.values()[index];
+                  var start = +filter.substring(0,filter.indexOf("-"));
+                  var end = +filter.substring(filter.indexOf("-")+1,filter.length);
+                  if (data_line["Total votes"] >= start && 
+                      data_line["Total votes"] <= end){
+                    return true;
+                  }
+                }
+                return false;
+              }
+          }
+          
+          function tooltip_entry(d){//create candidate tooltip entries
+            eVotes = d.e_vote_fraction.toString().substring(0,4);
+            Age = d["Age of the candidate"].toString().substring(0,2);
+               
+            tooltip.transition().duration(200).style("opacity" , 0.9);
+            //Add names:
+            tooltip.select(".tip_name").html("<strong>" + d.forename + " " + d.Name + '</strong> ');
+            //Add e-vote percents and total vote number:
+            tooltip.select(".tip_percent").html(
+              "e-votes: <strong>" + eVotes + "% </strong><br>" + 
+              "total votes: <strong>" + d["Total votes"] + "</strong> <hr>"
+              );
+            //Add candidate info:
+            tooltip.select(".tip_info").html(
+              d.employment + "<br>" + d["Political party"] + "<br>" + 
+              d["Candidate's education"] + "<br>" + Age + " years old"
+              );
+
+            tooltip.style('left', d3.select(this).attr("cx") + "px")
+                .style("top", d3.select(this).attr("cy") - 40  + "px")
+                .style("background",color_array[d.Party]);
+              }
+
+          function change_x_axis(){
+            //Called if dropdown menu is changed, or legend is clicked for filtering
+            var active_menu_value = menu.property("value");
+            
+            //remove any previous labels and mean lines (if any)
+            if (svg.selectAll(".labels")[0].length !== 0){             
+                      svg.selectAll(".labels").remove();
+                      svg.selectAll(".mlines").remove();
+                    }
+
+            d3.selectAll(".nameAnnotation").remove()
+
+            // if the new category is quantitative, create the new x location function and redraw the plot
+            if (quantitative_x_axis_cateegories.indexOf(active_menu_value) !== -1){
+              //update domain
+              x_scale.domain(d3.extent(data_on_screen, function(d) {return d[active_menu_value]})).nice();
+              //update x axis text and location
+              d3.select(".x.label").text(active_menu_value).transition().duration(500).attr("y",height+37);
+              var x_function = function(data_line){
+                 return x_scale(data_line[active_menu_value]);
+                }
+              draw_bubbles(data_on_screen,x_function);
+
+            } else { //for not quantitative x axis
+                x_scale.domain([0,0]); //get rid of x axis ticks and numbers
+                //update x label text and location
+                d3.select(".x.label").text(active_menu_value).transition().duration(500).attr("y",height+23);
+
+                var nested = d3.nest()
+                  .key(function(d) {return d[active_menu_value];})
+                  .rollup(function(leaves) {
+                      var sum = d3.sum(leaves,function(d){return d["Total votes"];})
+                      var mean = d3.mean(leaves, function(d){
+                          return d["e_vote_fraction"]*d["Total votes"]/sum*leaves.length;
+                        })
+                        return {"mean": mean};
+                      })
+                  .entries(data_on_screen);
+
+                if (active_menu_value !== "Sequence number in district"){//sort categories, except for one
+                   nested.sort(function (a,b){return b.values.mean - a.values.mean;});
+                 }
+
+                var nested_array_keys = [];
+                for (i in nested){nested_array_keys.push(nested[i].key);}
+                var ord_scale = d3.scale.ordinal().domain(nested_array_keys).rangeBands([margin,x_axis_end],0.4);
+
+                var x_function = function(data_line){
+                  var jitter = Math.random() * ord_scale.rangeBand();
+                  return ord_scale(data_line[active_menu_value]) + jitter;
+                  }
+
+                //rescale evf axis
+                var evf_max = d3.max(data_on_screen, function(d){return d["e_vote_fraction"];});
+                evf_scale.domain([0,evf_max]).nice();
+
+                //Create black lines representing the mean values of groups
+                svg.selectAll("line")
+                  .data(nested)
+                  .enter()
+                  .append("line")
+                  .attr("class","mlines")
+                  .attr("x1",function(d){return ord_scale(d.key);})
+                  .attr("x2",function(d){return ord_scale(d.key)+ord_scale.rangeBand();})
+                  .attr("y1", function(d){return evf_scale(d.values.mean);})
+                  .attr("y2", function(d){return evf_scale(d.values.mean);})
+                  .style("opacity",0)
+                  .transition()
+                  .delay(function(d,i){return 1000 + i*(1000/nested.length);})
+                  .attr("stroke-width",2)
+                  .style("opacity",1)
+                  .style("stroke", "black")
+                  ;
+
+                //create text labels for the mean lines
+                svg.append("g")
+                  .selectAll("g")
+                  .data(nested)
+                  .enter()
+                  .append("text")
+                  .attr("class", "mlines")
+                  .attr("x",function(d){return ord_scale(d.key) + ord_scale.rangeBand() + 20;})
+                  .attr("y",function(d){return evf_scale(d.values.mean);})
+                  .attr("text-anchor", "middle")
+                  .text(function(d){return d.values.mean.toString().substring(0,4)})
+                //  .text(function(d){return Math.round(d.values.mean)})
+                  .attr("font-size","0px")
+                  .on("mouseover",function(d){
+                    debugger;
+                    d3.select(".tooltip")
+                    tooltip.transition()
+                        .duration(200)
+                        .style("opacity" , 0.9);
+                    tooltip.select(".tip_percent").html("Average % of e-votes, <br> weighted with total votes");
+                    tooltip.select(".tip_name").html("");
+                    tooltip.select(".tip_info").html("");
+                    tooltip.style('left', d3.select(this).attr("x") + "px")
+                        .style("top", d3.select(this).attr("y") -(-40) + "px")
+                        .style("background","Lavender");
+                  })
+                  .on("mouseout",function (d) {
+                       tooltip.transition()
+                       .duration(500)
+                       .style("opacity",0)
+                  })
+                  .transition()
+                  .delay(function(d,i){return 1000 + i*(1000/nested.length);})
+                  .attr("font-size","12px")
+
+                //Create group labels
+                var xAxis = d3.svg.axis()
+                  .scale(ord_scale)
+                  .orient("bottom");
+                svg.append("g")
+                  .attr("class", "x labels")
+                  .style("opacity","0")
+                  .attr("transform", "translate(0," + height + ")")
+                  .call(xAxis)
+                  .selectAll(".tick text")
+                  .style("fill","black")
+                  .attr("stroke","none")
+                  .attr("font-size","16px")
+                  .call(wrap, (x_axis_end-margin)/nested.length*0.85);
+
+                d3.selectAll(".x.labels").transition().delay(700).style("opacity","1");
+
+                draw_bubbles(data_on_screen,x_function);
+
+
+                function annotation_callback(annotation_data){
+                  //creates annotation boxes in the legend from external csv data file
+
+                  categories = Object.keys(annotation_data[0]);
+                  categories.shift(); //remove first row (equals to active_menu_alue)
+
+                  //create info boxes into the legend
+                  var info_boxes = svg.append("g")
+                    .attr("class", "labels")
+                  // .attr("transform", "translate(" + margin + "," + 0 + ")")
+                    .selectAll("g")
+                    .data(categories)
+                    .enter().append("g")
+                    .on("mouseover",function(d){draw_annotation_rects(d)})
+                    .on("mouseout",function(){svg.selectAll(".annotation_rect").remove(); })
+                  info_boxes.append("text")
+                    .attr("x", x_axis_end + 20)
+                    .attr("y", function(d,i){return 385 + i*25;})
+                    .attr("text-anchor", "left")
+                    .text(function(d) {return d;})
+                    .attr("font-size","0px")
+                    .transition()
+                    .delay(500)
+                    .attr("font-size","16px");
+
+                  d3.select(".hover.legendGuide").transition().delay(500).style("fill","#636363");
+
+
+
+                  function draw_annotation_rects(category){debugger;
+
+                      //filter out data that is not currently on screen
+                      filtered_annotation_data = annotation_data.filter(function(d){
+                        return d[category] !== "" && nested_array_keys.indexOf(d[active_menu_value]) !== -1;
+                        });
+
+                      var distinct_values = d3.map(filtered_annotation_data, function(d) {return d[category];});
+                      distinct_values = Object.keys(distinct_values._);
+                      
+                      //create scales for coloring annotation rects
+                      if (numerical_annotation_fields.indexOf(category) !== -1){//apply linear scale
+                        var ex = d3.extent(filtered_annotation_data, function(d){return +d[category];});
+                        var color = d3.scale.linear().domain(ex).range(["#c6dbef","#08306b"]);
+                      } else {//apply ordinal scale
+                        var color = d3.scale.ordinal().domain(distinct_values).range(["#053061","#4393c3"]);
+                      }
+
+                      //create annotation rects and texts
+                      var annotations = svg.selectAll(".annotation_rect")
+                          .data(filtered_annotation_data)
+                          .enter()
+                          .append("g")
+
+                      annotations.attr("class","annotation_rect")
+                          .append("rect")
+                          .attr("x",function(d){
+                            return ord_scale(d[active_menu_value]) - ord_scale.rangeBand()*0.2;
+                          })
+                          .attr("y",margin-25)
+                          .attr("width",ord_scale.rangeBand()*1.4)
+                          .attr("height",height-margin+25)
+                          .attr("fill",function(d){ return color(d[category]);
+                          })
+                          .attr("opacity",0.5);
+                      annotations.append("text")
+                          .attr("text-anchor", "middle")
+                          .attr("class","annotation_text")
+                          .attr("x", function(d){return ord_scale(d[active_menu_value]) + ord_scale.rangeBand()/2;})
+                          .attr("y",margin-5)
+                          .attr("fill","white")
+                          .text(function(d){return d[category];});
+
+                    }//end of draw_annotation_rects
+                  }//end of annotation_callback
+                  
+                  //Load and create annotations if annoatation table is provided
+                  if (provided_annotation_tables.indexOf(active_menu_value) !== -1){
+                    d3.csv(active_menu_value + ".csv", annotation_callback); }
+                }                   
+              }
+
+          function wrap(text, width) {//from Mike Bostock text wrapping block
+            text.each(function() {
+              var text = d3.select(this),
+                  words = text.text().split(/\s+/).reverse(),
+                  word,
+                  line = [],
+                  lineNumber = 0,
+                  lineHeight = 1.1, // ems
+                  y = text.attr("y"),
+                  dy = parseFloat(text.attr("dy")),
+                  tspan = text.text(null).append("tspan").attr("x", 0).attr("y", y).attr("dy", dy + "em");
+              while (word = words.pop()) {
+                line.push(word);
+                tspan.text(line.join(" "));
+                if (tspan.node().getComputedTextLength() > width) {
+                  line.pop();
+                  tspan.text(line.join(" "));
+                  line = [word];
+                  tspan = text.append("tspan").attr("x", 0).attr("y", y).attr("dy", ++lineNumber * lineHeight + dy + "em").text(word);
+                }
+              }
+            });
+          }
+        }
+
+    </script>
+  </head>
+<body>
+  <script type="text/javascript">
+  
+  d3.csv("electionData.csv", function(d) {
+        d['e_vote_fraction'] = +d["eVotePercentage"];
+        d['Total votes'] = +d["Total votes"];
+        d["Party"] = d["partyCode"];
+        d["Name"] = d["surname"];
+        d["Age of the candidate"] = +d["Age of the candidate"];
+        return d;
+    }, draw);
+  </script>
+ 
+</body>
+</html>

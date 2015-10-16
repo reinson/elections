@@ -1,0 +1,873 @@
+eVotePercentage,partyCode,candidateId,surname,Age of the candidate,Total votes,Political party,Sex of the candidate,District number,District name,forename,sequenceNumberInAdminUnit,Registration number,Candidate's education,electronicVotes,employment,Sequence number in district
+38.18181818,RÜE,32490,ISBERG,47.22,55,Party of People's Unity,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",VERONIKA,10,101,Higher education,21,"POLITSEI- JA PIIRIVALVEAMET, ÕIGUSBÜROO JURIST",1
+25,RÜE,32491,ŠAPTŠENKO,25.897,20,Party of People's Unity,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",VADIM,24,102,Basic education,5,Vabatahtlik ettevõtja,2
+28.57142857,RÜE,32493,JUKKUM,37.528,14,Party of People's Unity,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",AIMAR,30,103,Basic education,4,"AS SAKU ÕLLETEHAS, VILLIMISE OPERAATOR",3
+13.15789474,RÜE,32492,APOLINSKY,34.982,38,Party of People's Unity,Male,2,"Kesklinn, Lasnamäe, Pirita",ALEKSANDR,6,104,Higher education,5,õppejõud,1
+24,RÜE,32494,FENICE,45.112,25,Party of People's Unity,Female,2,"Kesklinn, Lasnamäe, Pirita",BEATRICE,13,105,Basic education,6,"Beatrice Mass Modelnet OÜ, juhatuse liige",2
+26.66666667,RÜE,32498,PITK,30.946,15,Party of People's Unity,Female,2,"Kesklinn, Lasnamäe, Pirita",MARITA,15,106,Secondary education,4,"ARITAM GRUPP OÜ, tegevjuht",3
+37.20930233,RÜE,32501,GREEN,26.623,43,Party of People's Unity,Female,2,"Kesklinn, Lasnamäe, Pirita",KERLI,27,107,Higher education,16,"Rahva Ühtsuse Erakond, tegevsekretär",4
+41.46341463,RÜE,32503,SNAITH,45.654,41,Party of People's Unity,Female,3,"Mustamäe, Nõmme",JANE,8,108,Higher education,17,"MTÜ Igale Lapsele Pere, projektijuht",1
+22.22222222,RÜE,32505,GREEN,35.871,18,Party of People's Unity,Male,3,"Mustamäe, Nõmme",ANDREA,18,109,Secondary education,4,"Callcenter OÜ, juhatuse liige",2
+42.10526316,RÜE,32507,MÄRTSON,29.35,19,Party of People's Unity,Male,3,"Mustamäe, Nõmme",MARIO,28,110,Secondary education,8,"Credit Invest OÜ, turundusjuht",3
+33.17073171,RÜE,32495,KÄGU,60.219,205,Party of People's Unity,Male,4,"Harju, Rapla",RAIMO,4,111,Higher education,68,OÜ MARRIOT juhatuse liige,1
+42.5,RÜE,32497,ŠARŠOV,39.302,40,Party of People's Unity,Male,4,"Harju, Rapla",ANDREI,14,112,Secondary education,17,"OÜ Tallinna Bekkeri Sadam, juhatuse liige",2
+36,RÜE,32499,ALGUR,50.056,25,Party of People's Unity,Male,4,"Harju, Rapla",RAIVO,23,113,Secondary education,9,"USS Security Eesti AS, turvatöötaja",3
+43.75,RÜE,32500,KEEDUS,35.524,16,Party of People's Unity,Male,4,"Harju, Rapla",TAAVI,34,114,Secondary education,7,"Eesti Telekom AS, IT-spetsialist",4
+17.64705882,RÜE,32502,TRISBERG,49.854,17,Party of People's Unity,Female,4,"Harju, Rapla",SILJA,33,115,Higher education,3,"MTÜ LILLELAPSED, VABATAHTLIK",5
+28,RÜE,32504,JAANISTE,46.404,50,Party of People's Unity,Female,5,"Hiiu, Lääne, Saare",KAIE,12,116,Secondary education,14,"MAKSU- JA TOLLIAMET, VANEMSPETSIALIST",1
+20,RÜE,32506,SAARNAK,23.759,25,Party of People's Unity,Male,5,"Hiiu, Lääne, Saare",ALEKS,32,117,Basic education,5,"AS SELVER, PAGAR",2
+25.27472527,RÜE,32509,OJULAND,48.203,273,Party of People's Unity,Female,6,Lääne-Viru,KRISTIINA,1,118,Higher education,69,Kodune,1
+16.66666667,RÜE,32510,JAAKUS,48.413,12,Party of People's Unity,Male,6,Lääne-Viru,ALLAN,19,119,Higher education,2,Vanema hooldaja,2
+12.82051282,RÜE,32513,RAUDSEPP,42.253,39,Party of People's Unity,Female,6,Lääne-Viru,ÕNNELA,25,120,Secondary education,5,"Rakvere Spordiselts Kalev, juhatuse esimees",3
+19.58762887,RÜE,32508,DANILOV,31.239,97,Party of People's Unity,Female,7,Ida-Viru,EVELYN,5,121,Higher education,19,"West Wind OÜ juhatuse liige, jurist",1
+25.58139535,RÜE,32511,PERSIDSKI,42.773,43,Party of People's Unity,Male,7,Ida-Viru,ARNOLD,16,122,Higher education,11,Ida-Viru Keskhaigla EMO vanemarst,2
+5.882352941,RÜE,32512,DOROŠENKO,38.609,34,Party of People's Unity,Female,7,Ida-Viru,LJUBOV,31,123,Secondary education,2,"MTÜ Igale Lapsele Pere, vabatahtlik",3
+25.68807339,RÜE,32514,RAUDSEPP,41.391,109,Party of People's Unity,Male,8,"Järva, Viljandi",PAVO,7,124,Secondary education,28,"P.Õ.M.M. OÜ, tegevjuht",1
+37.5,RÜE,32516,PENER,43.806,16,Party of People's Unity,Male,8,"Järva, Viljandi",RAMO,26,125,Higher education,6,"Paide valla lasteaed-kool, õpetaja",2
+35,RÜE,32519,KUKK,30.765,80,Party of People's Unity,Male,8,"Järva, Viljandi",OTT,17,126,Higher education,28,"Viljandi Kutseõppekeskus, arvutiõppeosakonna juht",3
+22.51655629,RÜE,32521,KALJA,41.383,151,Party of People's Unity,Male,9,"Jõgeva, Tartu",TÕNU,11,127,Higher education,34,"LÜÜDIK&KALJA OÜ, LOOMAARST KLIINIKU JUHATAJA",1
+26.38888889,RÜE,32515,KUUSIK,31.285,72,Party of People's Unity,Male,10,Tartu linn,SILVER,29,129,Higher education,19,Ettevõtja,1
+53.84615385,RÜE,32517,ABEDI,34.667,13,Party of People's Unity,Female,10,Tartu linn,MERLIN,20,130,Higher education,7,Ettevõtja,2
+13.04347826,RÜE,32518,FISCHER,54.913,23,Party of People's Unity,Male,10,Tartu linn,AULIS,9,131,Secondary education,3,FIE,3
+21.30177515,RÜE,32520,HALJEND,43.521,169,Party of People's Unity,Female,11,"Võru, Valga, Põlva",PIRET,3,132,Higher education,36,"OÜ Võru Arst, pereõde",1
+7.894736842,RÜE,32524,METSALU,50.371,38,Party of People's Unity,Male,11,"Võru, Valga, Põlva",JAAK,21,133,Secondary education,3,"Ülempreester, MPEÕK Narva Kristuse Ülestõusmise Katedraal, Jacob-Antiquitas OÜ ja Liivimaa-Antiik MTÜ omanik",2
+20.54794521,RÜE,32528,LIIV,64.917,73,Party of People's Unity,Male,11,"Võru, Valga, Põlva",JUHAN,35,134,Secondary education,15,G4S turvatöötaja,3
+22.3495702,RÜE,32526,SOOPALU,52.758,349,Party of People's Unity,Male,12,Pärnu,ANDRUS,2,135,Higher education,78,"HÄÄDEMEESTE APTEEK OÜ, JUHATAJA",1
+25,RÜE,32527,LAINELA,26.976,32,Party of People's Unity,Male,12,Pärnu,ANDRES,22,136,Secondary education,8,"FILMITEGIJA OÜ, produtsent",2
+30.9535218,EKRE,31707,ESPENBERG,53.656,2087,Conservative People's Party of Estonia,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",URMAS,10,137,Higher education,646,"TE TEENUSED OÜ, omanik ja juhataja",1
+33.4519573,EKRE,31708,VALGEPEA,27.19,281,Conservative People's Party of Estonia,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",NELE,31,138,Higher education,94,"KONSULTANT, OÜ SCORO",2
+25.30120482,EKRE,31709,PÕRK,71.039,83,Conservative People's Party of Estonia,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",TAIVO,41,139,Higher education,21,pensionär,3
+28.57142857,EKRE,31711,JAKOBIŠVILI,62.27,28,Conservative People's Party of Estonia,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",NIKOLAI,54,140,Higher education,8,"FIE ARHITEKT, HÜÜBI tn 12",4
+25.86206897,EKRE,31712,RAUSMA,58.565,116,Conservative People's Party of Estonia,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",RIHO,67,141,Secondary education,30,ETTEVÕTJA,5
+21.42857143,EKRE,31714,ISTAHL,60.797,28,Conservative People's Party of Estonia,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",MARIKA,82,142,Higher education,6,pensionär,6
+20.79207921,EKRE,31715,SOOTS,44.266,101,Conservative People's Party of Estonia,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",ANNIKA,97,143,Secondary education,21,"OÜ Marja Ilusalong, kosmeetik",7
+17.85714286,EKRE,31717,TŠERNIKOV,51.828,28,Conservative People's Party of Estonia,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",ALEKSANDER,98,144,Higher education,5,"EESTI MEELELAHUTAJATE LIIT, JUHATUSE LIIGE",8
+23.40425532,EKRE,31718,SIEMER,53.01,47,Conservative People's Party of Estonia,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",URMAS,103,145,Secondary education,11,"Baltika Tailor OÜ, teenistuse juht",9
+14.03508772,EKRE,31720,PIKA,64.857,57,Conservative People's Party of Estonia,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",REIN,99,146,Secondary education,8,PENSIONÄR,10
+38.46153846,EKRE,31721,JÕGI,26.04,130,Conservative People's Party of Estonia,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",MARET,114,147,Secondary education,50,"TALLINNA LASTEAED ""SINILILL"", ÕPETAJA",11
+25.93555094,EKRE,31710,LIIGER,57.251,1924,Conservative People's Party of Estonia,Female,2,"Kesklinn, Lasnamäe, Pirita",MARE,15,148,Higher education,499,"Kuusamo Tervisekeskus, arst",1
+41.66666667,EKRE,31713,GRASSMANN,40.044,132,Conservative People's Party of Estonia,Female,2,"Kesklinn, Lasnamäe, Pirita",KAIRET,32,149,Higher education,55,"MTÜ Lillelapsed, direktor  Melg-Auto OÜ, personalijuht",2
+36,EKRE,31716,OKTAIN,25.867,125,Conservative People's Party of Estonia,Male,2,"Kesklinn, Lasnamäe, Pirita",ORHAN,8,150,Higher education,45,"Eesti Välisministeerium, seirespetsialist",3
+28.38709677,EKRE,31719,STAHL,52.747,155,Conservative People's Party of Estonia,Male,2,"Kesklinn, Lasnamäe, Pirita",GUNNAR,42,151,Secondary education,44,disainer,4
+28.29268293,EKRE,31723,RULL,50.133,205,Conservative People's Party of Estonia,Male,2,"Kesklinn, Lasnamäe, Pirita",TOOMAS,55,152,Secondary education,58,"G.Otsa nim.Tallinna Muusikakool, pedagoog",5
+49.42528736,EKRE,31724,VALGEPEA,50.675,87,Conservative People's Party of Estonia,Male,2,"Kesklinn, Lasnamäe, Pirita",VEIKO HARTWIG,27,153,Higher education,43,"Eventlab OÜ, juhataja",6
+36.98113208,EKRE,31727,ÖPIK,63.661,265,Conservative People's Party of Estonia,Male,2,"Kesklinn, Lasnamäe, Pirita",RAUL,26,154,Higher education,98,erukolonel,7
+27.27272727,EKRE,31730,NÜÜD,56.635,44,Conservative People's Party of Estonia,Male,2,"Kesklinn, Lasnamäe, Pirita",RIHO,69,155,Secondary education,12,"OÜ HT Laevateenindus (Tallink), vanemmehaanik",8
+27.5862069,EKRE,31734,PIIR,65.454,29,Conservative People's Party of Estonia,Male,2,"Kesklinn, Lasnamäe, Pirita",OLEV,68,156,Secondary education,8,pensionär,9
+25.33333333,EKRE,31737,TÖLP,73.385,225,Conservative People's Party of Estonia,Male,2,"Kesklinn, Lasnamäe, Pirita",REIN,30,157,Higher education,57,"Eesti Pensionäride Liit, tegevjuht",10
+39.70588235,EKRE,31740,EHALA,61.114,68,Conservative People's Party of Estonia,Male,2,"Kesklinn, Lasnamäe, Pirita",ALAR,123,158,Secondary education,27,"Kaitseliit, Tallinna malev, haldusspetsialist",11
+28.57142857,EKRE,31743,KOBIN,61.12,35,Conservative People's Party of Estonia,Male,2,"Kesklinn, Lasnamäe, Pirita",JUHAN,60,159,Secondary education,10,penionär,12
+35.8490566,EKRE,31745,VAN DOORSLAER,42.289,53,Conservative People's Party of Estonia,Female,2,"Kesklinn, Lasnamäe, Pirita",TRIIN,94,160,Higher education,19,"lektor, tõlkija",13
+42.85714286,EKRE,31748,KRASS,43.888,49,Conservative People's Party of Estonia,Male,2,"Kesklinn, Lasnamäe, Pirita",VEIKO,115,161,Secondary education,21,tööotsija,14
+28.04934823,EKRE,31722,HELME,38.85,4296,Conservative People's Party of Estonia,Male,3,"Mustamäe, Nõmme",MARTIN,2,162,Higher education,1205,"juhataja, Kirjastus Kunst",1
+21.875,EKRE,31725,LEBERECHT,60.879,32,Conservative People's Party of Estonia,Male,3,"Mustamäe, Nõmme",ANDRUS,33,163,Secondary education,7,"AS Ühisteenused, klienditeenindaja",2
+35.29411765,EKRE,31726,ROOSAARE,60.616,51,Conservative People's Party of Estonia,Male,3,"Mustamäe, Nõmme",KAAREL JAAK,43,164,Higher education,18,"TALLINNA ÜLIKOOL, ÕIGUSAKADEEMIA, ÕPPEJÕUD",3
+28.57142857,EKRE,31728,ALLIK,29.561,21,Conservative People's Party of Estonia,Male,3,"Mustamäe, Nõmme",WESSE,56,165,Secondary education,6,"G4S AS, Lennujulgestaja",4
+41.66666667,EKRE,31729,REEMETS,70.738,12,Conservative People's Party of Estonia,Male,3,"Mustamäe, Nõmme",MARGUS,70,166,Higher education,5,"pensionär, ajakirjanik, ajaloohuviline",5
+9.090909091,EKRE,31731,VIIGIMÄE,71.584,11,Conservative People's Party of Estonia,Male,3,"Mustamäe, Nõmme",EDGAR,83,167,Higher education,1,Pensionär,6
+31.57894737,EKRE,31733,PAEMURRU,52.435,76,Conservative People's Party of Estonia,Female,3,"Mustamäe, Nõmme",PIIA,84,168,Higher education,24,"Eesti Muusika- ja Teatriakadeemia, lektor",7
+13.33333333,EKRE,31735,VIMM,68.479,15,Conservative People's Party of Estonia,Male,3,"Mustamäe, Nõmme",JAAK,104,169,Secondary education,2,"Eesti Infotehnoloogia Kolledž,Administraator",8
+15.625,EKRE,31738,RATAS,41.123,32,Conservative People's Party of Estonia,Male,3,"Mustamäe, Nõmme",IVO,88,170,Higher education,5,"Paktor OÜ, juhatuse liige",9
+16.66666667,EKRE,31739,MÄTIK,82.453,24,Conservative People's Party of Estonia,Male,3,"Mustamäe, Nõmme",KALJU,116,171,Higher education,4,"TTÜ Eesti Mereakadeemia, õppejõud",10
+29.77488977,EKRE,31741,PÕLLUAAS,55.036,4309,Conservative People's Party of Estonia,Male,4,"Harju, Rapla",HENN,3,172,Higher education,1283,"Saue Linnavalitsus, linnapea",1
+20.56737589,EKRE,31742,POHLAK,29.796,1128,Conservative People's Party of Estonia,Male,4,"Harju, Rapla",SIIM,19,173,Secondary education,232,MTÜ TRE RAADIO ÜHING,2
+29.10216718,EKRE,31744,JÄRVIK,59.023,323,Conservative People's Party of Estonia,Male,4,"Harju, Rapla",MART,18,174,Higher education,94,"Järvakandi Vallavalitsus, vallavanem",3
+49.13793103,EKRE,31746,PUUSTUSMAA,50.483,116,Conservative People's Party of Estonia,Male,4,"Harju, Rapla",PAUL,22,175,Higher education,57,"AA-Juriidilised Teenused OÜ, juhataja",4
+19.35483871,EKRE,31747,DERKUN,55.658,31,Conservative People's Party of Estonia,Male,4,"Harju, Rapla",JÜRI,44,176,Higher education,6,ETTEVÕTJA,5
+26.11111111,EKRE,31749,KOKK,34.99,180,Conservative People's Party of Estonia,Male,4,"Harju, Rapla",RENE,45,177,Higher education,47,"Jarex Invest OÜ, juhatuse liige",6
+35.42857143,EKRE,31750,RIMMEL,62.267,175,Conservative People's Party of Estonia,Female,4,"Harju, Rapla",KAI,34,178,Higher education,62,"KR Teenused OÜ, juhatuse liige",7
+17.5257732,EKRE,31751,LÕIVEKE,73.049,97,Conservative People's Party of Estonia,Male,4,"Harju, Rapla",HEINO,57,179,Higher education,17,"Eesti Taimekasvatuse Instituut, vanemspetsialist, põllumajandusdoktor",8
+42.62295082,EKRE,31753,LASIMER,33.303,122,Conservative People's Party of Estonia,Male,4,"Harju, Rapla",LAURI,71,180,Higher education,52,"Kaitseliit, Harju Malev, Valvekompanii Rühmaülem",9
+32,EKRE,31755,VÄRK,47.915,50,Conservative People's Party of Estonia,Male,4,"Harju, Rapla",VEIKO,39,181,Higher education,16,"PKC Eesti AS, Protsessiarendusjuht",10
+17.94871795,EKRE,31757,TUTT,59.247,39,Conservative People's Party of Estonia,Male,4,"Harju, Rapla",OLAVI,72,182,Higher education,7,"OLLMANN GR OÜ, JUHATAJA",11
+24,EKRE,31759,KRUUS,57.747,25,Conservative People's Party of Estonia,Male,4,"Harju, Rapla",OLAV,73,183,Higher education,6,"Tallinna Linnavalitsus Kultuuriväärtuste Amet, peaspetsialist",12
+16.66666667,EKRE,31760,KIRTSI,65.292,18,Conservative People's Party of Estonia,Male,4,"Harju, Rapla",TOIVO,85,184,Higher education,3,pensionär,13
+46,EKRE,31762,LEOSK,24.252,100,Conservative People's Party of Estonia,Female,4,"Harju, Rapla",ANETT,86,185,Secondary education,46,"Tallinna Liivalossi lasteaed, õpetaja",14
+25.64102564,EKRE,31763,TAPU,21.27,39,Conservative People's Party of Estonia,Male,4,"Harju, Rapla",TAAVI,106,186,Secondary education,10,"3R Computers, Tugitehnik/helpdesk",15
+32.55033557,EKRE,31765,PAJO,64.35,298,Conservative People's Party of Estonia,Male,4,"Harju, Rapla",MAIDO,125,187,Higher education,97,"jurist, pensionär",16
+26.13588995,EKRE,31752,HELME,48.646,2399,Conservative People's Party of Estonia,Female,5,"Hiiu, Lääne, Saare",HELLE-MOONIKA,16,188,Higher education,627,PLMF pedagoog,1
+33.98328691,EKRE,31754,REHKALT,42.984,359,Conservative People's Party of Estonia,Male,5,"Hiiu, Lääne, Saare",HARDI,36,189,Secondary education,122,Ohtla Põld OÜ juhatuse liige,2
+30.31674208,EKRE,31756,SELIRAND,66.568,442,Conservative People's Party of Estonia,Male,5,"Hiiu, Lääne, Saare",URMAS,46,190,Higher education,134,pensinär,3
+14.89361702,EKRE,31758,LEPPMAA,54.437,188,Conservative People's Party of Estonia,Male,5,"Hiiu, Lääne, Saare",ELVO,58,191,Secondary education,28,"Piirsalu Põllumajanduse OÜ, tegevjuht",4
+31.03448276,EKRE,31761,MERILA,68.411,87,Conservative People's Party of Estonia,Male,5,"Hiiu, Lääne, Saare",REIN,74,192,Higher education,27,"Tallinna Vangla, kriminaalhooldusametnik",5
+27.08333333,EKRE,31764,MALK,44.745,144,Conservative People's Party of Estonia,Male,5,"Hiiu, Lääne, Saare",MEELIS,87,193,Secondary education,39,"Diakon, EELK Karuse Margareeta kogudus",6
+26.76056338,EKRE,31766,ROHILAID,59.176,71,Conservative People's Party of Estonia,Male,5,"Hiiu, Lääne, Saare",AIVAR,110,194,Secondary education,19,"OÜ AIMARO, tegevjuht",7
+20,EKRE,31769,KOLLO,50.368,80,Conservative People's Party of Estonia,Female,5,"Hiiu, Lääne, Saare",PIRET,107,195,Secondary education,16,"Tallinna Paekaare Lasteaed, õpetaja",8
+25.625,EKRE,31767,POOLAMETS,44.019,2080,Conservative People's Party of Estonia,Male,6,Lääne-Viru,ANTI,9,196,Higher education,533,"jurist, lektor",1
+28.26086957,EKRE,31768,SAARNE,49.098,46,Conservative People's Party of Estonia,Male,6,Lääne-Viru,ARE,28,197,Secondary education,13,"KÜ Kuldnoka 8, juhatuse liige",2
+37.34939759,EKRE,31770,PÕDER,44.342,83,Conservative People's Party of Estonia,Male,6,Lääne-Viru,AIGAR,37,198,Higher education,31,ETTEVÕTJA,3
+31.37254902,EKRE,31771,TRUMM,50.404,102,Conservative People's Party of Estonia,Male,6,Lääne-Viru,UNO,47,199,Higher education,32,"SA VIRUMAA MUUSEUMID, TEADUR",4
+15.87301587,EKRE,31773,PIKHOF,64.216,63,Conservative People's Party of Estonia,Male,6,Lääne-Viru,ARNO,59,200,Secondary education,10,pensionär,5
+18.18181818,EKRE,31774,SIIMSON,26.494,22,Conservative People's Party of Estonia,Male,6,Lääne-Viru,KRISTJAN,75,201,Secondary education,4,"Tarkvara arhitekt, Cach On Go Ltd",6
+19.79166667,EKRE,31775,KALAUS,28.747,96,Conservative People's Party of Estonia,Male,6,Lääne-Viru,KALMER,102,202,Secondary education,19,"AS Katus, ehitaja",7
+28.86002886,EKRE,31772,KODU,58.957,693,Conservative People's Party of Estonia,Male,7,Ida-Viru,ARNO,20,203,Secondary education,200,"pensionär, Viru Vangla finants-majandusosakonna juhataja",1
+25.53191489,EKRE,31776,LILLEMETS,23.581,141,Conservative People's Party of Estonia,Female,7,Ida-Viru,MARI-LIIS,38,204,Higher education,36,"MTÜ Lillelapsed, õpetaja",2
+36.53846154,EKRE,31777,IRD,50.234,52,Conservative People's Party of Estonia,Female,7,Ida-Viru,KAI,48,205,Higher education,19,"Viru Vangla, meditsiiniosakonna juhataja",3
+31.03448276,EKRE,31780,VÕHMA,21.613,29,Conservative People's Party of Estonia,Female,7,Ida-Viru,KSENIA,61,206,Secondary education,9,üliõpilane,4
+15.78947368,EKRE,31782,KALAUS,64.252,95,Conservative People's Party of Estonia,Male,7,Ida-Viru,MART,105,207,Higher education,15,penionär,5
+21.05263158,EKRE,31784,ÕUN,25.558,19,Conservative People's Party of Estonia,Male,7,Ida-Viru,LAURI,76,208,Secondary education,4,"administraator, töötav üliõpilane",6
+26.66666667,EKRE,31786,KARP,23.921,15,Conservative People's Party of Estonia,Male,7,Ida-Viru,LAURI,89,209,Secondary education,4,töötu,7
+16.66666667,EKRE,31788,JANIS,57.478,6,Conservative People's Party of Estonia,Female,7,Ida-Viru,PIRET,120,210,Secondary education,1,"sotsiaaltöötaja, OY SOL",8
+16.66666667,EKRE,31789,LIIVA,23.743,18,Conservative People's Party of Estonia,Male,7,Ida-Viru,TANEL,101,211,Secondary education,3,"OÜ Sell It, müügikonsultant",9
+23.52628784,EKRE,31778,MADISON,23.858,1883,Conservative People's Party of Estonia,Male,8,"Järva, Viljandi",JAAK,5,212,Secondary education,443,üliõpilane,1
+14.21319797,EKRE,31779,SUURKASK,46.765,197,Conservative People's Party of Estonia,Male,8,"Järva, Viljandi",REIN,17,213,Secondary education,28,"maaler, LATOOG OÜ",2
+31.4516129,EKRE,31781,PIIP,36.285,124,Conservative People's Party of Estonia,Female,8,"Järva, Viljandi",MARVE,49,214,Secondary education,39,OÜ KAFFA MARIIN JUHATUSE LIIGE,3
+27.43764172,EKRE,31783,SARV,55.677,441,Conservative People's Party of Estonia,Male,8,"Järva, Viljandi",ENN,62,215,Higher education,121,"Ettevõtja, FIE",4
+26.26262626,EKRE,31785,HINTS,40.181,99,Conservative People's Party of Estonia,Male,8,"Järva, Viljandi",TARMO,77,216,Secondary education,26,"AJAKESKUS WITTEWSTEIN, JÄRVAMAA MUUSEUM, kultuuri- ja programmijuht",5
+29.78723404,EKRE,31787,ASUKÜLA,67.003,94,Conservative People's Party of Estonia,Male,8,"Järva, Viljandi",RAIVO,90,217,Higher education,28,"KIRIKUÕPETAJA, PAISTU KOGUDUS",6
+23.68421053,EKRE,31790,KALAUS,33.555,38,Conservative People's Party of Estonia,Male,8,"Järva, Viljandi",TIMO,108,218,Basic education,9,"KATUS AS, LAMEKATUSE TÖÖLINE",7
+31.16883117,EKRE,31792,SINIVÄLI,61.687,77,Conservative People's Party of Estonia,Male,8,"Järva, Viljandi",GUSTAV,111,219,Secondary education,24,Jämejala Psühhiaatria Haigla sundravi osakonna hooldaja,8
+13.86138614,EKRE,31794,LIIK,58.073,101,Conservative People's Party of Estonia,Female,8,"Järva, Viljandi",HELGI,119,220,Higher education,14,OÜ Avitar hooldusõde,9
+24.47777183,EKRE,31791,PÄRN,69.766,1867,Conservative People's Party of Estonia,Female,9,"Jõgeva, Tartu",MALLE,23,221,Higher education,457,"vabakutseline näitleja ja teoloog, pensionär",1
+20.23939064,EKRE,31793,PÕLDARU,63.756,919,Conservative People's Party of Estonia,Male,9,"Jõgeva, Tartu",RAIVO,6,222,Higher education,186,pensionär,2
+28.35820896,EKRE,31795,SUVE,38.609,67,Conservative People's Party of Estonia,Male,9,"Jõgeva, Tartu",KRISTIAN,50,223,Secondary education,19,"Salmonfarm OÜ, kalatöötleja",3
+22.44318182,EKRE,31796,ROSIN,65.793,352,Conservative People's Party of Estonia,Male,9,"Jõgeva, Tartu",TIIT,63,224,Higher education,79,"Puumajatehase OÜ, tootmisjuht",4
+19.83471074,EKRE,31799,KÖHLER,77.785,121,Conservative People's Party of Estonia,Male,9,"Jõgeva, Tartu",MATI,78,225,Higher education,24,pensionär,5
+27.93296089,EKRE,31803,TEDER,56.936,179,Conservative People's Party of Estonia,Male,9,"Jõgeva, Tartu",OLEV,91,226,Higher education,50,pensionär,6
+31.05590062,EKRE,31807,TENNOSAAR,71.74,161,Conservative People's Party of Estonia,Female,9,"Jõgeva, Tartu",KAI,29,227,Higher education,50,pensionär,7
+26.08695652,EKRE,31811,AVI,25.361,46,Conservative People's Party of Estonia,Male,9,"Jõgeva, Tartu",TIMO,112,228,Secondary education,12,õpilane,8
+17.64705882,EKRE,31815,RÄTSEP,78.472,34,Conservative People's Party of Estonia,Female,9,"Jõgeva, Tartu",MARET,100,229,Secondary education,6,pensionär,9
+22.05882353,EKRE,31818,AVI,33.257,68,Conservative People's Party of Estonia,Female,9,"Jõgeva, Tartu",MARGIT,118,230,Secondary education,15,"OÜ SOFTCOM, juurdelõikaja",10
+24.41344325,EKRE,31797,MÜRK,37.673,1577,Conservative People's Party of Estonia,Male,10,Tartu linn,IMRE,7,231,Higher education,385,"ANALÜÜTIK, BALTI UURINGUTE INSTITUUT",1
+23.8317757,EKRE,31798,ESSENSON,52.931,214,Conservative People's Party of Estonia,Male,10,Tartu linn,KALEV,24,232,Secondary education,51,OÜ Terasplast juhatuse esiimees,2
+21.39737991,EKRE,31801,LILLENBERG,61.158,229,Conservative People's Party of Estonia,Female,10,Tartu linn,MERIKE,21,233,Higher education,49,EMÜ dotsent,3
+19.60784314,EKRE,31802,KAALEP,21.44,102,Conservative People's Party of Estonia,Male,10,Tartu linn,RUUBEN,14,234,Secondary education,20,üliõpilane,4
+18.63468635,EKRE,31804,KALDA,54.231,542,Conservative People's Party of Estonia,Male,10,Tartu linn,INDREK,51,235,Secondary education,101,FIE,5
+34.58646617,EKRE,31806,SUUROJA,74.442,133,Conservative People's Party of Estonia,Male,10,Tartu linn,TOIVO,64,236,Higher education,46,EMÜ emeriitprofessor,6
+25.27472527,EKRE,31808,TUHKANEN,49.172,91,Conservative People's Party of Estonia,Female,10,Tartu linn,AILI,79,237,Higher education,23,"Tartu Ülikool, õppejõud",7
+31.16883117,EKRE,31809,PÄRNPUU,53.864,77,Conservative People's Party of Estonia,Female,10,Tartu linn,TIINA,109,238,Higher education,24,tõlkija,8
+19.82758621,EKRE,31812,SÄRG,48.846,116,Conservative People's Party of Estonia,Male,10,Tartu linn,INDREK,121,239,Higher education,23,TTA õppejõud,9
+32.14285714,EKRE,31813,VÄRSI,22.264,28,Conservative People's Party of Estonia,Male,10,Tartu linn,RANDON,92,240,Secondary education,9,üliõpilane,10
+24.9031544,EKRE,31800,KASKPEIT,57.728,1807,Conservative People's Party of Estonia,Male,11,"Võru, Valga, Põlva",UNO,12,241,Higher education,450,Pensionär,1
+25.08960573,EKRE,31805,AART,61.916,279,Conservative People's Party of Estonia,Female,11,"Võru, Valga, Põlva",MERRY,13,242,Higher education,70,"OÜ MERMIKO Consult, juhatuse liige, konsulent",2
+14.91395794,EKRE,31810,SILD,67.847,523,Conservative People's Party of Estonia,Male,11,"Võru, Valga, Põlva",ARNO,4,243,Higher education,78,Pensionär,3
+22.13247173,EKRE,31814,TAUL,64.983,619,Conservative People's Party of Estonia,Male,11,"Võru, Valga, Põlva",ANTS,52,244,Higher education,137,Pensionär,4
+19.31818182,EKRE,31817,KARASK,52.819,88,Conservative People's Party of Estonia,Male,11,"Võru, Valga, Põlva",ARTUR,65,245,Secondary education,17,"ABOVO OÜ, autovaruosade konsultant",5
+12.5,EKRE,31820,SUSI,74.845,56,Conservative People's Party of Estonia,Male,11,"Võru, Valga, Põlva",ENDEL-HALJAND,35,246,Higher education,7,Läänemaa Kergejõustikuklubi president,6
+41.52046784,EKRE,31823,KIROTAJA,32.627,171,Conservative People's Party of Estonia,Male,11,"Võru, Valga, Põlva",MARTTI,93,247,Higher education,71,Keskkonnaameti üldosakonna spetsialist,7
+23.1441048,EKRE,31825,SABALISK,57.366,229,Conservative People's Party of Estonia,Female,11,"Võru, Valga, Põlva",RIINA,95,248,Higher education,53,Orava vallavanem,8
+20.86956522,EKRE,31826,HÕRAK,70.261,115,Conservative People's Party of Estonia,Female,11,"Võru, Valga, Põlva",VEEVI,113,249,Higher education,24,"Lõuna-Eesti Haigla AS, õde",9
+22.41992883,EKRE,31829,MESIKÄPP,48.12,281,Conservative People's Party of Estonia,Male,11,"Võru, Valga, Põlva",AIVAR,117,250,Higher education,63,Notar,10
+19.62616822,EKRE,31833,RAUBA,81.547,107,Conservative People's Party of Estonia,Male,11,"Võru, Valga, Põlva",VAINO,124,251,Higher education,21,Pensionär,11
+22.57968424,EKRE,31816,HELME,65.331,6714,Conservative People's Party of Estonia,Male,12,Pärnu,MART,1,252,Higher education,1516,pensionär,1
+37.12121212,EKRE,31819,PAULSON,51.86,132,Conservative People's Party of Estonia,Male,12,Pärnu,HELDUR,11,253,Higher education,49,"KAUPLUSE JUHATAJA, LL MERGE GRUPP AS",2
+21.42857143,EKRE,31821,KULLERKUPP,53.199,70,Conservative People's Party of Estonia,Female,12,Pärnu,HELLE,25,254,Higher education,15,"OÜ TERVE PERE STUUDIO, juhataja",3
+28.57142857,EKRE,31822,KALAMEES,61.073,84,Conservative People's Party of Estonia,Female,12,Pärnu,KÄDE,40,255,Higher education,24,"Eesti Maakarja Kasvatajate Seltsi tegevjuht, tõuraamatupidaja",4
+41.66666667,EKRE,31824,LELOV,44.298,24,Conservative People's Party of Estonia,Male,12,Pärnu,ANDRUS,53,256,Higher education,10,"NOTE Pärnu OÜ, planeerija",5
+39.28571429,EKRE,31828,LEHOLA,71.718,28,Conservative People's Party of Estonia,Male,12,Pärnu,MATI,66,257,Higher education,11,Eruohvitser,6
+21.42857143,EKRE,31830,MERIRAND,59.587,28,Conservative People's Party of Estonia,Male,12,Pärnu,HEIKI,80,258,Secondary education,6,"FIE, MTÜ Pärnumaa Rannakalurite Esindus",7
+29.31034483,EKRE,31831,KALLASTE,50.171,58,Conservative People's Party of Estonia,Female,12,Pärnu,IIVI,81,259,Higher education,17,"Eesti Patsientide Esindusühing, Pärnu kontor, huvikaitsja",8
+26.82926829,EKRE,31834,TOOMJÕE,43.795,41,Conservative People's Party of Estonia,Female,12,Pärnu,TIINA,96,260,Secondary education,11,"OÜ Terve Pere Stuudio, sekretär/assistent",9
+33.33333333,EKRE,31836,ESPENBERG,45.062,9,Conservative People's Party of Estonia,Female,12,Pärnu,TIINA,122,261,Higher education,3,"AS DEMJANOV, PEARAAMTUPIDAJA",10
+50.23080151,REF,31876,MICHAL,39.636,4766,Estonian Reform Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",KRISTEN,11,262,Higher education,2394,Riigikogu  Eesti Reformierakonna fraktsiooni esimees,1
+54.67560158,REF,31878,PURGA,39.953,3283,Estonian Reform Party,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",HEIDY,40,263,Higher education,1795,Eesti Laul produtsent,2
+56.31768953,REF,31880,HOLSMER,34.442,1385,Estonian Reform Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",REMO,22,264,Higher education,780,Eesti Reformierakonna fraktsiooni aseesimees,3
+46.55532359,REF,31883,SAVISAAR-TOOMAST,52.542,2395,Estonian Reform Party,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",VILJA,29,265,Higher education,1115,Tööotsija,4
+58.13715455,REF,31885,LOKK-TRAMBERG,59.414,977,Estonian Reform Party,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",TIINA,65,266,Higher education,568,Riigikogu kultuurikomisjoni liige,5
+50.1754386,REF,31890,LEEMETS,64.687,570,Estonian Reform Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",ANTS,62,267,Higher education,286,Tallinna Linnavolikogu liige,6
+47.22222222,REF,31906,MURAVJOVA,66.127,144,Estonian Reform Party,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",TATJANA,92,268,Higher education,68,pensionär,7
+54.66666667,REF,31907,PÄRTEL,55.89,150,Estonian Reform Party,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",KARIN,115,269,Higher education,82,Tallinna Kristiine Gümnaasiumi õpetaja,8
+46.19565217,REF,31909,HERMAKÜLA,73.462,184,Estonian Reform Party,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",LIINA,81,270,Higher education,85,Näitleja,9
+46.11650485,REF,31910,ARO,44.808,206,Estonian Reform Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",ANDRES,77,271,Higher education,95,"Ettevõtja, jurist",10
+50.56179775,REF,31912,SILKIN,36.011,89,Estonian Reform Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",GEROL,112,272,Higher education,45,Ettevõtja,11
+49.79006298,REF,31888,PENTUS-ROSIMANNUS,38.992,5716,Estonian Reform Party,Female,2,"Kesklinn, Lasnamäe, Pirita",KEIT,6,273,Higher education,2846,Välisminister,1
+59.23718713,REF,31889,AAS,34.724,2517,Estonian Reform Party,Male,2,"Kesklinn, Lasnamäe, Pirita",ARTO,14,274,Higher education,1491,Riigikogu majanduskomisjoni esimees,2
+49.31102362,REF,31892,NOVOSJOLOV,34.724,1016,Estonian Reform Party,Male,2,"Kesklinn, Lasnamäe, Pirita",NIKOLAI,69,275,Secondary education,501,"Eesti Vehklemisliit, sportlane",3
+55.54553652,REF,31893,SUTROP,58.73,1109,Estonian Reform Party,Male,2,"Kesklinn, Lasnamäe, Pirita",URMAS,71,276,Higher education,616,Eesti Keele Instituudi direktor,4
+48.68667917,REF,31895,RAJASALU,61.818,1066,Estonian Reform Party,Female,2,"Kesklinn, Lasnamäe, Pirita",ÜLLE,53,277,Higher education,519,Harju maavanem,5
+52.80685062,REF,31896,SOOÄÄR,45.966,2102,Estonian Reform Party,Male,2,"Kesklinn, Lasnamäe, Pirita",IMRE,49,278,Higher education,1110,Riigikogu väliskomisjoni liige,6
+51.53664303,REF,31898,KALLEMETS,35.869,423,Estonian Reform Party,Male,2,"Kesklinn, Lasnamäe, Pirita",KALEV,60,279,Higher education,218,Riigikogu majanduskomisjoni liige,7
+48.89836532,REF,31940,EENMAA,71.745,1407,Estonian Reform Party,Female,2,"Kesklinn, Lasnamäe, Pirita",IVI,33,280,Higher education,688,Tallinna Linnavolikogu Reformierakonna fraktsiooni esimees,8
+52.45901639,REF,31943,PÄRNASTE,64.027,183,Estonian Reform Party,Female,2,"Kesklinn, Lasnamäe, Pirita",EVE,98,281,Higher education,96,"Ettevõtja, pensionär",9
+59.77011494,REF,31947,AHER,60.805,174,Estonian Reform Party,Male,2,"Kesklinn, Lasnamäe, Pirita",GEORG,118,282,Higher education,104,MTÜ Koolitus- ja Nõustamiskeskus HARED juhatuse liige,10
+62.5,REF,31950,AŠIHMINA,30.856,40,Estonian Reform Party,Female,2,"Kesklinn, Lasnamäe, Pirita",OLGA,124,283,Higher education,25,"AS Leibur, tootmis- ja väljastusteenistuse juht",11
+61.05263158,REF,31953,VIKS,45.489,95,Estonian Reform Party,Male,2,"Kesklinn, Lasnamäe, Pirita",TOOMAS,105,284,Higher education,58,Siseministeeriumi pressinõunik,12
+58.59375,REF,31957,KUKK,63.743,256,Estonian Reform Party,Male,2,"Kesklinn, Lasnamäe, Pirita",KALEV,66,285,Higher education,150,Tallinna Ülikooli inimgeograafia külalisõppejõud,13
+51.90839695,REF,31959,TOPPI,24.871,131,Estonian Reform Party,Male,2,"Kesklinn, Lasnamäe, Pirita",TAAVI,123,286,Higher education,68,Nõunik,14
+43.50533808,REF,31899,PAET,40.862,7868,Estonian Reform Party,Male,3,"Mustamäe, Nõmme",URMAS,4,287,Higher education,3423,Euroopa Parlamendi liige,1
+55.98407564,REF,31900,LAURI,49.161,4019,Estonian Reform Party,Female,3,"Mustamäe, Nõmme",MARIS,27,288,Higher education,2250,rahandusminister,2
+45.73045267,REF,31901,KROSS,47.477,1944,Estonian Reform Party,Male,3,"Mustamäe, Nõmme",EERIK-NIILES,42,289,Higher education,889,Trustcorp OÜ; Tallinna Linnavolikogu liige,3
+46.27192982,REF,31902,KUKK,27.543,456,Estonian Reform Party,Male,3,"Mustamäe, Nõmme",MARTIN,5,290,Higher education,211,Reformierkonna peasekretär,4
+51.71339564,REF,31903,RUMMO,73.112,642,Estonian Reform Party,Male,3,"Mustamäe, Nõmme",PAUL-EERIK,31,291,Higher education,332,Riigikogu kultuurikomisjoni liige,5
+44.27480916,REF,31904,KAABERMA,46.281,131,Estonian Reform Party,Male,3,"Mustamäe, Nõmme",KAIDO,87,292,Secondary education,58,"Eesti Vehklemisliit, peatreener",6
+51.875,REF,31905,VÄNTO,27.272,160,Estonian Reform Party,Male,3,"Mustamäe, Nõmme",JOONAS,58,293,Secondary education,83,siseministri nõunik,7
+45.71428571,REF,31908,JESSE,34.423,70,Estonian Reform Party,Male,3,"Mustamäe, Nõmme",JOEL,106,294,Higher education,32,Harju Maavalitsuse arengu- ja planeeringuosakonna arengutalituse juhataja,8
+47.76632302,REF,31911,MERILIND,43.863,291,Estonian Reform Party,Male,3,"Mustamäe, Nõmme",EERO,111,295,Higher education,139,perearst,9
+55.66502463,REF,31913,PILLAK,32.016,203,Estonian Reform Party,Female,3,"Mustamäe, Nõmme",ÕNNE,50,296,Secondary education,113,Tallinna Linnavolikogu Reformierakonna fraktsiooni aseesimees,10
+40.44455639,REF,31914,RÕIVAS,35.428,15881,Estonian Reform Party,Male,4,"Harju, Rapla",TAAVI,1,297,Higher education,6423,Peaminister,1
+42.10836278,REF,31915,RANDJÄRV,50.585,1698,Estonian Reform Party,Female,4,"Harju, Rapla",LAINE,16,298,Higher education,715,Riigikogu I aseesimees,2
+32.70735524,REF,31917,PALLING,30.004,1917,Estonian Reform Party,Male,4,"Harju, Rapla",KALLE,15,299,Higher education,627,Riigikogu Euroopa Liidu asjade komisjoni esimees,3
+50.79189687,REF,31918,ALENDER,35.715,2715,Estonian Reform Party,Female,4,"Harju, Rapla",YOKO,38,300,Higher education,1379,Tallinna Linnavolikogu liige,4
+56.47288715,REF,31920,SÕERD,50.27,2047,Estonian Reform Party,Male,4,"Harju, Rapla",AIVAR,25,301,Higher education,1156,Riigikogu rahanduskomisjoni liige,5
+48.21428571,REF,31921,LILLO,48.249,168,Estonian Reform Party,Male,4,"Harju, Rapla",KALEV,8,302,Higher education,81,Riigikogu liige,6
+52.3943662,REF,31923,KÕIV,44.337,355,Estonian Reform Party,Male,4,"Harju, Rapla",TÕNIS,43,303,Higher education,186,Riigikogu keskkonnakomisjoni liige,7
+34.16789396,REF,31924,SEPP,43.348,679,Estonian Reform Party,Male,4,"Harju, Rapla",ANDRE,74,304,Higher education,232,Riigikogu väliskomisjoni liige,8
+36.04240283,REF,31926,FELS,60.482,566,Estonian Reform Party,Male,4,"Harju, Rapla",ENNO,97,305,Higher education,204,Keila linnapea,9
+55.28455285,REF,31928,VÕRKLAEV,30.752,615,Estonian Reform Party,Male,4,"Harju, Rapla",MART,76,306,Higher education,340,"Rae Vallavalitsus, vallavanem",10
+45.25745257,REF,31929,UMBOJA,38.253,369,Estonian Reform Party,Male,4,"Harju, Rapla",ANDRUS,99,307,Secondary education,167,Jõelähtme vallavanem,11
+51.18397086,REF,31932,KÕIV,42.721,549,Estonian Reform Party,Female,4,"Harju, Rapla",ANNELIIS,109,308,Higher education,281,"Rahvakultuurikeskus, rahvakultuuri osakonna juhataja",12
+48.8372093,REF,31934,MILLING,44.266,2580,Estonian Reform Party,Male,4,"Harju, Rapla",MADIS,36,309,Higher education,1260,Saue Linnavolikogu liige,13
+40.50632911,REF,31935,TÄPSI,47.546,237,Estonian Reform Party,Male,4,"Harju, Rapla",AIN,104,310,Secondary education,96,Ettevõtja,14
+51.70068027,REF,31936,SOODLA,37.153,147,Estonian Reform Party,Female,4,"Harju, Rapla",ENA,108,311,Higher education,76,SA Väärtustades Elu tegevjuht,15
+50.87281796,REF,31938,RADVILAVIČIUS,42.957,401,Estonian Reform Party,Male,4,"Harju, Rapla",VLADAS,80,312,Secondary education,204,Ettevõtja,16
+37.7459315,REF,31916,TIIDUS,60.734,4117,Estonian Reform Party,Female,5,"Hiiu, Lääne, Saare",URVE,7,313,Higher education,1554,kultuuriminister,1
+39.11222781,REF,31919,LAANET,49.429,2388,Estonian Reform Party,Male,5,"Hiiu, Lääne, Saare",KALLE,24,314,Higher education,934,Riigikogu õiguskomisjoni liige,2
+36.60818713,REF,31922,LUIK,32.854,855,Estonian Reform Party,Male,5,"Hiiu, Lääne, Saare",LAURI,13,315,Higher education,313,Riigikogu kultuurikomisjoni esimees,3
+31.22465531,REF,31925,MÄND,64.531,1233,Estonian Reform Party,Male,5,"Hiiu, Lääne, Saare",TARMO,95,316,Higher education,385,Riigikogu rahanduskomisjoni liige,4
+54.12474849,REF,31927,UUSTULND,33.07,497,Estonian Reform Party,Female,5,"Hiiu, Lääne, Saare",KAIRI,54,317,Higher education,269,lapsehooldepuhkusel,5
+37.8214826,REF,31930,SUKLES,56.26,661,Estonian Reform Party,Male,5,"Hiiu, Lääne, Saare",URMAS,55,318,Higher education,250,Haapsalu linnapea,6
+44.80151229,REF,31931,KELDER,36.909,529,Estonian Reform Party,Male,5,"Hiiu, Lääne, Saare",KOIT,83,319,Higher education,237,ettevõtja,7
+30.14354067,REF,31933,MÄESALU,44.578,209,Estonian Reform Party,Male,5,"Hiiu, Lääne, Saare",INNAR,93,320,Higher education,63,Riigikogu riigikaitsekomisjoni liige,8
+36.62460568,REF,31937,RANDPERE,57.068,3170,Estonian Reform Party,Male,6,Lääne-Viru,VALDO,18,321,Higher education,1161,Riigikogu õiguskomisjoni liige,1
+38.89447236,REF,31939,KIVI,58.012,995,Estonian Reform Party,Female,6,Lääne-Viru,SIGNE,30,322,Higher education,387,Eesti Kunstiakadeemia rektor,2
+32.70386266,REF,31942,TORM,34.995,1165,Estonian Reform Party,Male,6,Lääne-Viru,MARKO,119,323,Higher education,381,Lääne-Viru maavanem,3
+30.65049614,REF,31945,VAREK,66.732,907,Estonian Reform Party,Male,6,Lääne-Viru,TOOMAS,89,324,Higher education,278,Rakvere Linnavolikogu esimees,4
+33.33333333,REF,31948,AADEL,46.612,255,Estonian Reform Party,Male,6,Lääne-Viru,LEO,82,325,Higher education,85,"Haljala Vallavalitsus, vallavanem",5
+28.69955157,REF,31952,VESKI,33.684,223,Estonian Reform Party,Male,6,Lääne-Viru,KAIDO,117,326,Secondary education,64,Kunda Linnavolikogu esimees,6
+28.38345865,REF,31955,KESKÜLA,43.477,532,Estonian Reform Party,Male,6,Lääne-Viru,INDREK,114,327,Secondary education,151,Väike-Maarja vallavanem,7
+24.4473342,REF,31941,BORODITŠ,35.329,769,Estonian Reform Party,Male,7,Ida-Viru,DENISS,35,328,Higher education,188,Riigikogu majanduskomisjoni liige,1
+34.7972973,REF,31944,ASMER,68.142,296,Estonian Reform Party,Male,7,Ida-Viru,TOIVO,120,329,Higher education,103,Ettevõtja,2
+34.65648855,REF,31946,AIDMA,64.422,655,Estonian Reform Party,Male,7,Ida-Viru,REIN,75,330,Higher education,227,Riigikogu sotsiaalkomisjoni liige,3
+29.44297082,REF,31949,SURVA,52.928,754,Estonian Reform Party,Male,7,Ida-Viru,AIVAR,79,331,Higher education,222,Jõhvi vallavanem,4
+34.20560748,REF,31951,SAARELA,52.148,535,Estonian Reform Party,Male,7,Ida-Viru,AIVAR,59,332,Higher education,183,Avinurme vallavanem,5
+34.69387755,REF,31954,KEIS,46.349,98,Estonian Reform Party,Female,7,Ida-Viru,AIME,103,333,Higher education,34,SA Ida-Viru Keskhaigla ülemarst,6
+28.76712329,REF,31956,KUUSMIK,64.994,438,Estonian Reform Party,Male,7,Ida-Viru,TIIT,107,334,Higher education,126,Toila vallavanem,7
+34.56790123,REF,31958,VINNI,57.747,243,Estonian Reform Party,Male,7,Ida-Viru,ENNO,113,335,Higher education,84,"Lüganuse Vallavolikogu liige, SA Aidu Veespordikeskus nõukogu esimees",8
+28.52760736,REF,31960,SEPPIK,62.968,326,Estonian Reform Party,Male,7,Ida-Viru,AIN,47,336,Higher education,93,Tallinna Linnavolikogu Reformierakonna fraktsiooni aseesimees,9
+37.33905579,REF,31961,LIGI,55.625,6757,Estonian Reform Party,Male,8,"Järva, Viljandi",JÜRGEN,2,337,Higher education,2523,Riigikogu riigikaitsekomisjoni esimees,1
+30.96590909,REF,31964,JENTS,57.689,704,Estonian Reform Party,Male,8,"Järva, Viljandi",KALLE,63,338,Higher education,218,Riigikogu õiguskomisjoni liige,2
+42.81914894,REF,31966,KERT,55.242,752,Estonian Reform Party,Male,8,"Järva, Viljandi",JOHANNES,32,339,Higher education,322,"Kaitseministeerium, nõunik",3
+37.98076923,REF,31969,ARU,61.862,416,Estonian Reform Party,Male,8,"Järva, Viljandi",PEEP,26,340,Higher education,158,Riigikogu liige,4
+42.29691877,REF,31972,KÕLJALG,32.178,714,Estonian Reform Party,Male,8,"Järva, Viljandi",KRISTJAN,48,341,Secondary education,302,Järvamaa Omavalitsuste Liidu esimees,5
+34.18604651,REF,31977,TIMPSON,40.413,430,Estonian Reform Party,Male,8,"Järva, Viljandi",MADIS,51,342,Higher education,147,Siseministri nõunik,6
+38.87530562,REF,31987,PIHELGAS,29.837,409,Estonian Reform Party,Male,8,"Järva, Viljandi",RAIT,56,344,Higher education,159,Ambla vallavanem,8
+20.7293666,REF,31990,JUUL,56.86,521,Estonian Reform Party,Male,8,"Järva, Viljandi",TÕNU,73,345,Higher education,108,arst,9
+35,REF,31962,KRUUSE,49.629,5960,Estonian Reform Party,Male,9,"Jõgeva, Tartu",URMAS,10,346,Higher education,2086,Tervise- ja tööminister,1
+35.52965028,REF,31967,GRÄZIN,62.675,1973,Estonian Reform Party,Male,9,"Jõgeva, Tartu",IGOR,9,347,Higher education,701,Riigikogu õiguskomisjoni liige,2
+41.39728884,REF,31971,RAIDMA,49.897,959,Estonian Reform Party,Male,9,"Jõgeva, Tartu",MATI,34,348,Higher education,397,Keskkonnaminister,3
+34.29084381,REF,31973,TREI,47.833,557,Estonian Reform Party,Female,9,"Jõgeva, Tartu",TERJE,20,349,Higher education,191,Riigikogu majanduskomisjoni liige,4
+45.22058824,REF,31975,LAIDRE,37.596,544,Estonian Reform Party,Male,9,"Jõgeva, Tartu",RENO,78,350,Higher education,246,"Tartu Maavalitsus, maavanem",5
+35.01683502,REF,31978,SVJATÕŠEV,59.025,297,Estonian Reform Party,Male,9,"Jõgeva, Tartu",VIKTOR,100,351,Higher education,104,Jõgeva maavanem,6
+34.58382181,REF,31981,JÄRVEOJA,53.854,853,Estonian Reform Party,Male,9,"Jõgeva, Tartu",TOOMAS,64,352,Higher education,295,Elva linnapea,7
+31.97492163,REF,31983,LAIN,46.73,319,Estonian Reform Party,Male,9,"Jõgeva, Tartu",KALMER,86,353,Higher education,102,Riigikogu riigikaitsekomisjoni liige,8
+43.12977099,REF,31986,EDENBERG,27.277,262,Estonian Reform Party,Female,9,"Jõgeva, Tartu",KAISA,88,354,Secondary education,113,"FIE, treener",9
+34.30232558,REF,31988,VADI,57.555,172,Estonian Reform Party,Male,9,"Jõgeva, Tartu",RAIVO,110,355,Higher education,59,Pala Vallavolikogu liige,10
+34.59459459,REF,31965,LAANEOTS,67.121,5920,Estonian Reform Party,Male,10,Tartu linn,ANTS,12,356,Higher education,2048,Erukindral,1
+44.72242078,REF,31968,SULLING,38.382,4197,Estonian Reform Party,Female,10,Tartu linn,ANNE,17,357,Higher education,1877,Väliskaubanduse- ja ettevõtlusminister,2
+30.9793471,REF,31970,KLAAS,43.956,1501,Estonian Reform Party,Male,10,Tartu linn,URMAS,19,358,Higher education,465,Tartu linnapea,3
+42.57425743,REF,31974,MARUSTE,61.424,808,Estonian Reform Party,Male,10,Tartu linn,RAIT,28,359,Higher education,344,Riigikogu põhiseaduskomisjoni esimees,4
+33.15143247,REF,31976,HANSON,57.147,733,Estonian Reform Party,Male,10,Tartu linn,MARGUS,46,360,Higher education,243,Riigikogu riigieelarve kontrolli erikomisjoni aseesimees,5
+48.58757062,REF,31979,LEES,28.11,354,Estonian Reform Party,Male,10,Tartu linn,MIHKEL,45,361,Higher education,172,"Tartu Linnavolikogu liige, tervise- ja tööministri nõunik",6
+29.6625222,REF,31980,PARMAS,31.113,563,Estonian Reform Party,Male,10,Tartu linn,MARTIN,70,362,Higher education,167,Tantsukool Prestige peatreener-manager,7
+43.87351779,REF,31982,KAASIK,43.031,253,Estonian Reform Party,Female,10,Tartu linn,TRIIN ANETTE,84,363,Higher education,111,"Estiko-Plastar AS juhataja, Tartu Linnavolikogu aseesimees",8
+46.91358025,REF,31984,JÕGI,63.159,243,Estonian Reform Party,Male,10,Tartu linn,HELMER,85,364,Higher education,114,Tartu Jaan Poska Gümnaasiumi direktor,9
+36.65048544,REF,31963,SEMILARSKI,48.873,412,Estonian Reform Party,Male,10,Tartu linn,VALVO,116,365,Higher education,151,Tartu abilinnapea,10
+36.68763103,REF,31989,PEVKUR,37.911,3816,Estonian Reform Party,Male,11,"Võru, Valga, Põlva",HANNO,3,366,Higher education,1400,Siseminister,1
+37.15961458,REF,31992,KERSNA,34.908,2387,Estonian Reform Party,Female,11,"Võru, Valga, Põlva",LIINA,21,367,Higher education,887,Peaministri büroo juhataja,2
+32.5,REF,31994,MÄLBERG,44.846,1040,Estonian Reform Party,Male,11,"Võru, Valga, Põlva",MEELIS,23,368,Higher education,338,Riigikogu maaelukomisjoni liige,3
+37.21227621,REF,31995,LEPIK,45.963,782,Estonian Reform Party,Male,11,"Võru, Valga, Põlva",MARGUS,39,369,Higher education,291,Valga maavanem,4
+30.23255814,REF,31997,ROSENBERG,52.46,645,Estonian Reform Party,Male,11,"Võru, Valga, Põlva",AIVAR,94,370,Secondary education,195,Riigikogu keskkonnakomisjoni liige,5
+35.80508475,REF,32000,SEEME,45.309,472,Estonian Reform Party,Male,11,"Võru, Valga, Põlva",ANDRUS,41,371,Higher education,169,Kõlleste vallavanem,6
+22.15799615,REF,32001,KABRITS,56.764,519,Estonian Reform Party,Male,11,"Võru, Valga, Põlva",AGU,67,372,Higher education,115,"Valgamaa Omavalitsuste Liidu esimees, Õru vallavanem",7
+32.10784314,REF,32004,SIBUL,49.396,408,Estonian Reform Party,Male,11,"Võru, Valga, Põlva",PEETER,61,373,Higher education,131,Ahja vallavanem,8
+32.65822785,REF,32006,KAVER,41.005,395,Estonian Reform Party,Male,11,"Võru, Valga, Põlva",JÜRI,90,374,Higher education,129,Ettevõtja,9
+50.53763441,REF,32009,HAUGAS,22.387,186,Estonian Reform Party,Male,11,"Võru, Valga, Põlva",ANTI,68,375,Secondary education,94,Reformierakonna Noortekogu peasekretär,10
+29.16666667,REF,32011,MARAN,63.072,384,Estonian Reform Party,Female,11,"Võru, Valga, Põlva",LIIVI,72,376,Higher education,112,arst,11
+33.02643693,REF,31991,KIVIMÄGI,52.036,7603,Estonian Reform Party,Male,12,Pärnu,TOOMAS,44,377,Higher education,2511,Pärnu linnapea,1
+35.31626506,REF,31993,JAANSON,49.377,1328,Estonian Reform Party,Male,12,Pärnu,JÜRI,37,378,Secondary education,469,Riigikogu sotsiaalkomisjoni liige,2
+39.46932007,REF,31996,LINDE,56.079,1206,Estonian Reform Party,Male,12,Pärnu,VÄINO,52,379,Higher education,476,Riigikogu põhiseaduskomisjoni liige,3
+41.29692833,REF,31999,HALLIKMÄGI,61.966,293,Estonian Reform Party,Male,12,Pärnu,VÄINO,102,380,Higher education,121,Ettevõtja,4
+39.54372624,REF,32002,PÄRNA,50.475,263,Estonian Reform Party,Female,12,Pärnu,MEELI,91,381,Secondary education,104,MTÜ Valik Tantsukool WAF juht,5
+34.15841584,REF,32005,VILLUP,33.802,202,Estonian Reform Party,Male,12,Pärnu,RIIDO,121,382,Higher education,69,Tammiste Hooldekodu juhataja,6
+43.82716049,REF,32007,KÕRV,25.938,162,Estonian Reform Party,Female,12,Pärnu,MAARJA,96,383,Secondary education,71,"Eesti Reformierakond, nõunik",7
+34.375,REF,32010,PÄIT,55.587,96,Estonian Reform Party,Male,12,Pärnu,KALEV,122,384,Higher education,33,Ehitusinsener,8
+54.34782609,REF,32013,ILLAK,37.087,92,Estonian Reform Party,Female,12,Pärnu,CARMEN,57,385,Higher education,50,Arendusjuht,9
+37.7245509,REF,32014,HEAMÄE,26.042,167,Estonian Reform Party,Male,12,Pärnu,KRISTJAN,101,386,Secondary education,63,Tallinna Linnavolikogu Reformierakonna fraktsiooni nõunik,10
+41.63424125,IRL,32104,VAHER,40.485,2313,Pro Patria and Res Publica Union,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",KEN-MARTI,7,387,Higher education,963,"Riigikogu liige, Korruptsioonivastase komisjoni esimees",1
+49.44690265,IRL,32107,PAKOSTA,45.489,1808,Pro Patria and Res Publica Union,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",LIISA-LY,23,388,Higher education,894,Riigikogu liige,2
+49.04761905,IRL,32110,KRUUSIMÄE,47.893,1260,Pro Patria and Res Publica Union,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",TARMO,22,389,Secondary education,618,"Eesti Noorsoottöö Keskus, isamaalise kasvatuse nõunik",3
+26.25899281,IRL,32113,ROGALSKI,45.18,278,Pro Patria and Res Publica Union,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",MAKSIM,33,390,Secondary education,73,"Eesti Rahvusringhääling, toimetaja-saatejuht (lastehoolduspuhkusel)",4
+50.69444444,IRL,32114,INGERAINEN,43.849,288,Pro Patria and Res Publica Union,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",DIANA,49,391,Higher education,146,"Järveotsa Perearstikeskus, perearstikeskuse juhataja",5
+47.46835443,IRL,32157,RAMMUL,53.854,158,Pro Patria and Res Publica Union,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",IMRE,53,392,Higher education,75,"Arstlik Perenõuandla OÜ, kliinikujuhataja, arst",6
+47.63948498,IRL,32117,SIHVER,45.832,233,Pro Patria and Res Publica Union,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",TIIA,65,393,Higher education,111,"Eesti Hooldajate Liit, programmijuht",7
+32.38866397,IRL,32120,ÜPRUS,61.136,247,Pro Patria and Res Publica Union,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",AVO,77,394,Higher education,80,vaimulik,8
+54.10958904,IRL,32124,MEREN,59.693,292,Pro Patria and Res Publica Union,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",TIIT,89,395,Higher education,158,"AS Taastava Kirurgia Kliinik, kirurg",9
+54.02298851,IRL,32128,AAVIK,41.511,87,Pro Patria and Res Publica Union,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",HENRIK,101,396,Secondary education,47,Investofon OÜ juhatuse liige,10
+49.78165939,IRL,32132,RIISALO,48.033,229,Pro Patria and Res Publica Union,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",TIIT,20,397,Higher education,114,"Erakond Isamaa ja Res Publica Liit, peasekretär",11
+53.6252692,IRL,32086,LADÕNSKAJA,33.613,1393,Pro Patria and Res Publica Union,Female,2,"Kesklinn, Lasnamäe, Pirita",VIKTORIA,35,398,Higher education,747,Ajakirjanik,1
+45.18678161,IRL,32087,SESTER,45.629,1392,Pro Patria and Res Publica Union,Male,2,"Kesklinn, Lasnamäe, Pirita",SVEN,6,399,Higher education,629,"Riigikogu, rahanduskomisjoni aseesimees",2
+40.09803922,IRL,32088,NOOL,44.682,1020,Pro Patria and Res Publica Union,Male,2,"Kesklinn, Lasnamäe, Pirita",ERKI,21,400,Secondary education,409,Riigikogu liige,3
+55.95238095,IRL,32089,AGUR,49.407,336,Pro Patria and Res Publica Union,Male,2,"Kesklinn, Lasnamäe, Pirita",HENDRIK,54,401,Higher education,188,"Gustav Adolfi Gümnaasium, direktor",4
+40.61728395,IRL,32090,SOLMAN,42.686,810,Pro Patria and Res Publica Union,Female,2,"Kesklinn, Lasnamäe, Pirita",RIINA,48,402,Higher education,329,Kommunikatsiooni- ja arendusjuht Viimsi Vallavalitsuses,5
+51.89393939,IRL,32092,VAPPER,61.621,264,Pro Patria and Res Publica Union,Male,2,"Kesklinn, Lasnamäe, Pirita",KALEV,34,403,Higher education,137,Tööotsija,6
+43.05799649,IRL,32093,PAREK,73.87,569,Pro Patria and Res Publica Union,Female,2,"Kesklinn, Lasnamäe, Pirita",LAGLE,66,404,Higher education,245,pensionär,7
+57.48031496,IRL,32096,PÄRNA,43.767,381,Pro Patria and Res Publica Union,Male,2,"Kesklinn, Lasnamäe, Pirita",PRIIDU,78,405,Higher education,219,Tallinna notar,8
+45.16129032,IRL,32100,TREI,60.392,62,Pro Patria and Res Publica Union,Female,2,"Kesklinn, Lasnamäe, Pirita",REET,59,406,Higher education,28,"Mälutreener, Tallinna Linnavolikogu linnavarakomisjoni liige",9
+46.90721649,IRL,32102,PÄTS,48.356,194,Pro Patria and Res Publica Union,Male,2,"Kesklinn, Lasnamäe, Pirita",MADIS,102,407,Higher education,91,"OÜ Advokaadibüroo Luberg ja Päts, vandeadvokaat/ juhatuse liige",10
+63.15789474,IRL,32105,EICHLER,26.71,133,Pro Patria and Res Publica Union,Female,2,"Kesklinn, Lasnamäe, Pirita",LINDA,50,408,Higher education,84,"IRL Noorte esimees, üliõpilane, Brave Capital avalike ja investorsuhete juht",11
+48.75,IRL,32106,LEPPIK VON WIRÉN,25.369,160,Pro Patria and Res Publica Union,Male,2,"Kesklinn, Lasnamäe, Pirita",ILLIMAR,112,409,Higher education,78,ÜLIÕPILANE,12
+43.67816092,IRL,32109,SARAPUU,59.713,87,Pro Patria and Res Publica Union,Female,2,"Kesklinn, Lasnamäe, Pirita",SÜLVI,117,410,Higher education,38,"Mtü Kakora, kultuurikorraldaja/projektijuht",13
+52.10819411,IRL,32112,RAID,40.591,1257,Pro Patria and Res Publica Union,Male,2,"Kesklinn, Lasnamäe, Pirita",JUKU-KALLE,29,411,Secondary education,655,"KesKus, Peatoimetaja",14
+39.06408952,IRL,32091,REINSALU,39.691,2949,Pro Patria and Res Publica Union,Male,3,"Mustamäe, Nõmme",URMAS,2,412,Higher education,1152,Riigikogu IRL fraktsiooni esimees,1
+43.34532374,IRL,32094,KIISLER,49.314,556,Pro Patria and Res Publica Union,Male,3,"Mustamäe, Nõmme",SIIM VALMAR,8,413,Higher education,241,Riigikogu liige,2
+45.31835206,IRL,32095,NUTT,52.945,1068,Pro Patria and Res Publica Union,Male,3,"Mustamäe, Nõmme",MART,15,414,Higher education,484,"Inimõiguste Instituut, nõukogu liige",3
+39.92537313,IRL,32097,SAMUEL,39.8,268,Pro Patria and Res Publica Union,Female,3,"Mustamäe, Nõmme",EVELIN,42,415,Higher education,107,"AS Ajakirjade Kirjastus, peatoimetaja",4
+45.37037037,IRL,32098,MARDI,45.352,108,Pro Patria and Res Publica Union,Male,3,"Mustamäe, Nõmme",URMAS,55,416,Higher education,49,"Eesti Korteriühistute Liit, juhatuse liige/jurist; Nõmme halduskogu esimees",5
+54.54545455,IRL,32099,ÖPIK,67.825,198,Pro Patria and Res Publica Union,Male,3,"Mustamäe, Nõmme",ANDRES,67,417,Higher education,108,"Tallinna Tehnikaülikool, professor",6
+28.03030303,IRL,32101,ERGMA,68.378,132,Pro Patria and Res Publica Union,Male,3,"Mustamäe, Nõmme",ANDRES,79,418,Higher education,37,"Eesti Pensionäride Ühenduste Liit, juhatuse esimees",7
+43.31550802,IRL,32103,UUDMÄE,60.49,187,Pro Patria and Res Publica Union,Male,3,"Mustamäe, Nõmme",JAAK,91,419,Higher education,81,Tallinna Linnavolikogu liige,8
+31.25,IRL,32108,PAPP,56.964,144,Pro Patria and Res Publica Union,Male,3,"Mustamäe, Nõmme",TIIT,103,420,Higher education,45,"Eesti Kurtide Litt, juhatuse esimees",9
+47.6744186,IRL,32115,KÜBAR,34.363,86,Pro Patria and Res Publica Union,Male,3,"Mustamäe, Nõmme",MADIS,27,421,Secondary education,41,"Eesti Linnade Liit, arendusdirektor",10
+39.1634981,IRL,32116,PARTS,48.509,4208,Pro Patria and Res Publica Union,Male,4,"Harju, Rapla",JUHAN,1,422,Higher education,1648,Riigikogu liige,1
+53.65939479,IRL,32119,MIHKELSON,45.248,2842,Pro Patria and Res Publica Union,Male,4,"Harju, Rapla",MARKO,11,423,Higher education,1525,"Riigikogu liige, väliskomisjoni esimees",2
+34.62998102,IRL,32122,SAARE,49.169,1054,Pro Patria and Res Publica Union,Male,4,"Harju, Rapla",ANDRUS,24,424,Higher education,365,Riigikogu liige,3
+41.52186938,IRL,32125,KANGRO,53.908,1669,Pro Patria and Res Publica Union,Female,4,"Harju, Rapla",TIINA,56,425,Higher education,693,"AS SL Õhtuleht, Linnalehe peatoimetaja",4
+42.51302083,IRL,32129,RIISALU,53.966,1536,Pro Patria and Res Publica Union,Male,4,"Harju, Rapla",AIVAR,25,426,Higher education,653,Riigikogu liige,5
+52.74463007,IRL,32131,VAHTRE,54.94,419,Pro Patria and Res Publica Union,Male,4,"Harju, Rapla",LAURI,19,427,Higher education,221,"Kaitseministeerium, avalike suhete osakond, nõunik",6
+46.47160069,IRL,32134,KELAM,68.679,581,Pro Patria and Res Publica Union,Female,4,"Harju, Rapla",MARI-ANN,28,428,Higher education,270,Viimsi Vallavolikogu liige,7
+44.21052632,IRL,32136,RÄTSEPP,38.034,475,Pro Patria and Res Publica Union,Male,4,"Harju, Rapla",KAUPO,46,429,Higher education,210,"Harku Vallavalitsus, vallavanem",8
+53.38078292,IRL,32137,LAISK,44.433,281,Pro Patria and Res Publica Union,Male,4,"Harju, Rapla",ANDRES,68,430,Higher education,150,"Saue Vallavalitsus, vallavanem",9
+57.60869565,IRL,32140,TILLEMANN,37.3,92,Pro Patria and Res Publica Union,Female,4,"Harju, Rapla",KADRI,80,431,Higher education,53,"Keskkonna- ja kodanikuühiskonna ekspert, Keila Vallavolikogu liige",10
+29.50819672,IRL,32142,LEIER,39.318,183,Pro Patria and Res Publica Union,Male,4,"Harju, Rapla",TIIT,92,432,Secondary education,54,MTÜ Rapla Hokiklubi eestvedaja,11
+41.48148148,IRL,32143,TREI,35.332,135,Pro Patria and Res Publica Union,Male,4,"Harju, Rapla",JAN,104,433,Higher education,56,"Viimsi Vallavalitsus, vallavanem",12
+35.64356436,IRL,32145,PÕLDMÄE,46.571,101,Pro Patria and Res Publica Union,Male,4,"Harju, Rapla",PRIIT,113,434,Higher education,36,"Rae vald, abivallavanem",13
+43.22916667,IRL,32146,KAARMANN,38.897,192,Pro Patria and Res Publica Union,Male,4,"Harju, Rapla",ANDRES,118,435,Higher education,83,"Viimsi Vallavalitsus, abivallavanem",14
+54.33070866,IRL,32148,ROOS,41.914,254,Pro Patria and Res Publica Union,Female,4,"Harju, Rapla",REET,123,436,Higher education,138,Riigikogu liige,15
+46.75324675,IRL,32150,TÕNISTE,47.847,462,Pro Patria and Res Publica Union,Male,4,"Harju, Rapla",TOOMAS,17,437,Higher education,216,Riigikogu liige,16
+30.88455772,IRL,32118,AEG,52.657,2001,Pro Patria and Res Publica Union,Male,5,"Hiiu, Lääne, Saare",RAIVO,36,438,Higher education,618,politseipensionär,1
+33.97870281,IRL,32121,PALTS,61.922,1033,Pro Patria and Res Publica Union,Male,5,"Hiiu, Lääne, Saare",TÕNIS,16,439,Higher education,351,"Riigikogu liige, ettevõtja",2
+35.98615917,IRL,32123,MÄESALU,44.649,289,Pro Patria and Res Publica Union,Female,5,"Hiiu, Lääne, Saare",MERLE,40,440,Higher education,104,"Lääne Maavalitsus, arengu- ja planeeringuosakonna juhataja",3
+35.35564854,IRL,32126,KAASIK,46.776,478,Pro Patria and Res Publica Union,Male,5,"Hiiu, Lääne, Saare",KAIDO,39,441,Higher education,169,"Saare Maavalitsus, maavanem",4
+41.56976744,IRL,32127,LINKOV,39.165,344,Pro Patria and Res Publica Union,Male,5,"Hiiu, Lääne, Saare",GEORG,57,442,Higher education,143,Hiiu vallavanem,5
+24.16356877,IRL,32130,LUNEV,59.398,269,Pro Patria and Res Publica Union,Male,5,"Hiiu, Lääne, Saare",RAIMOND,69,443,Higher education,65,"Haapsalu Tarbijate Ühistu, Juhatuse esimees",6
+30.68592058,IRL,32133,SCHÖNBERG,40.531,277,Pro Patria and Res Publica Union,Male,5,"Hiiu, Lääne, Saare",ALAR,81,444,Higher education,85,"Puulaevaselts Vikan, juhatuse esimees",7
+43.31983806,IRL,32135,TAKKIS,56.621,247,Pro Patria and Res Publica Union,Male,5,"Hiiu, Lääne, Saare",TOOMAS,93,445,Higher education,107,"Kuressaare Gümnaasium, direktor; Kuressare Linnavolikogu, esimees",8
+34.91234614,IRL,32138,POMERANTS,50.431,2681,Pro Patria and Res Publica Union,Male,6,Lääne-Viru,MARKO,26,446,Higher education,936,Riigikogu liige,1
+27.10727969,IRL,32139,VALLBAUM,55.392,1044,Pro Patria and Res Publica Union,Male,6,Lääne-Viru,EINAR,58,447,Higher education,283,"AS Lajos, juhatuse liige",2
+38.35227273,IRL,32141,JUHKAMI,51.636,352,Pro Patria and Res Publica Union,Male,6,Lääne-Viru,MIHKEL,47,448,Higher education,135,Rakvere linnapea,3
+37.20930233,IRL,32144,NOORVÄLI,59.644,215,Pro Patria and Res Publica Union,Female,6,Lääne-Viru,HELLE,70,449,Higher education,80,Mõdriku Rakenduskõrgkooli rektor,4
+31.31313131,IRL,32147,SUURKAEV,52.079,297,Pro Patria and Res Publica Union,Male,6,Lääne-Viru,AIN,82,450,Higher education,93,"AS Rakvere Haigla, juhatuse esimees",5
+30.26315789,IRL,32149,METS,57.769,228,Pro Patria and Res Publica Union,Male,6,Lääne-Viru,HANNES,94,451,Higher education,69,"Ida-Virumaa Kutsehariduskeskus, direktor",6
+31.61290323,IRL,32151,TOOMPUU,36.159,310,Pro Patria and Res Publica Union,Male,6,Lääne-Viru,TAUNO,105,452,Higher education,98,"Rakvere Kolmainu Kogudus, vaimulik",7
+38.50197109,IRL,32152,SAMOST,43.576,761,Pro Patria and Res Publica Union,Male,7,Ida-Viru,ANVAR,12,453,Secondary education,293,Ettevõtja,1
+33.25415677,IRL,32155,KREISMAN,45.947,421,Pro Patria and Res Publica Union,Female,7,Ida-Viru,KAJA,32,454,Higher education,140,"AS Kiviõli Kaubahoov, pearaamatupidaja",2
+25.42372881,IRL,32158,PAULS,74.919,118,Pro Patria and Res Publica Union,Male,7,Ida-Viru,ANTS,71,455,Higher education,30,Pensionär,3
+21.11111111,IRL,32159,RAIK,41.969,180,Pro Patria and Res Publica Union,Male,7,Ida-Viru,JANEK,83,456,Higher education,38,Tööotsija,4
+22.68907563,IRL,32161,LINDEBERG,39.595,119,Pro Patria and Res Publica Union,Male,7,Ida-Viru,RISTO,90,457,Higher education,27,"Eesti Energia Tehnoloogiatööstus AS, allhanke projektijuht",5
+18.26923077,IRL,32163,TAMM,51.592,104,Pro Patria and Res Publica Union,Male,7,Ida-Viru,AIVO,95,458,Secondary education,19,"Jõhvi Vallavalitsus, ametnik",6
+23.1292517,IRL,32164,PÕLD,56.162,147,Pro Patria and Res Publica Union,Male,7,Ida-Viru,ARTUR,106,459,Secondary education,34,"Eesti Metodisti Kirik, pastor",7
+37.84916201,IRL,32169,VÕHMAR,43.362,716,Pro Patria and Res Publica Union,Male,7,Ida-Viru,TAUNO,114,460,Higher education,271,"AS Eesti Gaas, transpordikütuste valdkonna juht",8
+31.92307692,IRL,32175,KELAM,78.639,260,Pro Patria and Res Publica Union,Male,7,Ida-Viru,TUNNE-VÄLDO,124,461,Higher education,83,Euroopa Parlamendi liige,9
+31.91196699,IRL,32153,SEEDER,50.478,2908,Pro Patria and Res Publica Union,Male,8,"Järva, Viljandi",HELIR-VALDOR,3,462,Higher education,928,Riigikogu liige,1
+30.9976247,IRL,32154,IVA,50.839,1684,Pro Patria and Res Publica Union,Female,8,"Järva, Viljandi",KAIA,10,463,Higher education,522,Riigikogu liige,2
+34.01534527,IRL,32156,ORASTE,52.411,391,Pro Patria and Res Publica Union,Female,8,"Järva, Viljandi",TIINA,44,464,Higher education,133,"MTÜ Järvamaa Ühistranspordikeskus, juhatuse liige",3
+41.00529101,IRL,32160,KIVIBERG,45.591,378,Pro Patria and Res Publica Union,Male,8,"Järva, Viljandi",ANDO,60,465,Higher education,155,"Viljandi Linnavalitsus, linnapea",4
+32.58785942,IRL,32162,VÄRK,29.886,313,Pro Patria and Res Publica Union,Male,8,"Järva, Viljandi",PRIIT,72,466,Higher education,102,"Paide Linnavalitsus, linnapea",5
+35.42116631,IRL,32166,SAAR,59.907,463,Pro Patria and Res Publica Union,Female,8,"Järva, Viljandi",ENE,84,467,Higher education,164,"Viljandi Vallavalitsus, vallavanem",6
+30.6547619,IRL,32168,KRUUSE,54.795,336,Pro Patria and Res Publica Union,Male,8,"Järva, Viljandi",LEMBIT,43,468,Higher education,103,"Viljandi Maaomavalitsuste Liit, tegevdirektor",7
+24.3902439,IRL,32170,TIITUS,43.483,82,Pro Patria and Res Publica Union,Male,8,"Järva, Viljandi",MARKO,96,469,Higher education,20,"Eesti Evangeelne Luterlik Kirik, vaimulik, Viljandi praostkonna praost",8
+27.88104089,IRL,32172,KERTSMIK,54.776,269,Pro Patria and Res Publica Union,Male,8,"Järva, Viljandi",KALJU,107,470,Higher education,75,"Albu Vallavalitsus, vallavanem",9
+41.06761566,IRL,32165,AAVIKSOO,61.133,1405,Pro Patria and Res Publica Union,Male,9,"Jõgeva, Tartu",JAAK,4,471,Higher education,577,Riigikogu liige,1
+22.55072464,IRL,32167,KOKK,54.875,1725,Pro Patria and Res Publica Union,Male,9,"Jõgeva, Tartu",AIVAR,13,472,Higher education,389,Riigikogu liige,2
+38.11563169,IRL,32171,KULL,63.151,467,Pro Patria and Res Publica Union,Female,9,"Jõgeva, Tartu",ELLE,61,473,Higher education,178,"Tallinna Linnavolikogu liige, vabakutseline näitleja",3
+49.11838791,IRL,32173,ARRAK,56.621,794,Pro Patria and Res Publica Union,Male,9,"Jõgeva, Tartu",ANDRES,73,474,Higher education,390,majandusekspert,4
+31.78082192,IRL,32177,ORAV,44.843,365,Pro Patria and Res Publica Union,Male,9,"Jõgeva, Tartu",ANTI,45,475,Higher education,116,Ettevõtte juhatuse liige,5
+25.27881041,IRL,32180,PEETS,54.272,269,Pro Patria and Res Publica Union,Male,9,"Jõgeva, Tartu",TOIVO,30,476,Secondary education,68,"Anikor OÜ, juhatuse liige",6
+32.92978208,IRL,32182,LUHAMETS,62.949,413,Pro Patria and Res Publica Union,Male,9,"Jõgeva, Tartu",JOEL,85,477,Higher education,136,"EELK Tartu Pauluse kogudus, õpetaja",7
+31.2849162,IRL,32184,SANGERNEBO,50.669,179,Pro Patria and Res Publica Union,Male,9,"Jõgeva, Tartu",RAIN,97,478,Higher education,56,"Nõo Vallavalitsus, vallavanem",8
+35.55555556,IRL,32185,ANDERSON,48.227,180,Pro Patria and Res Publica Union,Male,9,"Jõgeva, Tartu",AARE,108,479,Higher education,64,Luunja vallavanem,9
+37.74834437,IRL,32188,KÜBAR,32.838,302,Pro Patria and Res Publica Union,Male,9,"Jõgeva, Tartu",MIHKEL,37,480,Higher education,114,IRL piirkondade koordinaator,10
+31.36303485,IRL,32191,TSAHKNA,37.881,2267,Pro Patria and Res Publica Union,Male,10,Tartu linn,MARGUS,31,481,Higher education,711,Riigikogu liige,1
+29.93079585,IRL,32194,LAURSON,44.068,578,Pro Patria and Res Publica Union,Male,10,Tartu linn,PEETER,18,482,Higher education,173,Riigikogu liige,2
+36.8729097,IRL,32196,MUULI,57.136,1196,Pro Patria and Res Publica Union,Male,10,Tartu linn,KALLE,41,483,Secondary education,441,"Õpetajate Leht, peatoimetaja",3
+38.46153846,IRL,32199,KANNUS,45.613,195,Pro Patria and Res Publica Union,Female,10,Tartu linn,ANNELI,62,484,Higher education,75,"Tartu Tervishoiu Kõrgkool, rektor",4
+49.56521739,IRL,32201,LOTMAN,62.491,460,Pro Patria and Res Publica Union,Male,10,Tartu linn,MIHHAIL,52,485,Higher education,228,"TLÜ, professor; TÜ, vaneminsener",5
+43.36283186,IRL,32204,KÕRE,62.078,113,Pro Patria and Res Publica Union,Male,10,Tartu linn,JÜRI,74,486,Higher education,49,"Tartu Ülikool, lektor",6
+38.0952381,IRL,32206,ORAV,46.461,63,Pro Patria and Res Publica Union,Female,10,Tartu linn,PIRET,86,487,Higher education,24,"Tartu Ülikool, sotsiaal- ja haridusteaduskonna dekanaadi juhataja",7
+45.92592593,IRL,32208,KULL,25.218,270,Pro Patria and Res Publica Union,Male,10,Tartu linn,KARL,98,488,Higher education,124,Healme OÜ tegevjuht,8
+34.20074349,IRL,32210,LEHTSAAR,54.828,538,Pro Patria and Res Publica Union,Male,10,Tartu linn,TÕNU,109,489,Higher education,184,TÜ professor,9
+40.22556391,IRL,32211,ERGMA,71.001,798,Pro Patria and Res Publica Union,Female,10,Tartu linn,ENE,125,490,Higher education,321,Riigikogu liige,10
+25.47864507,IRL,32174,AUNASTE,61.311,679,Pro Patria and Res Publica Union,Female,11,"Võru, Valga, Põlva",MAIRE,5,491,Higher education,173,Eesti Rahvusringhäälingu ajakirjanik,1
+25.08383635,IRL,32176,SIBUL,37.164,1491,Pro Patria and Res Publica Union,Male,11,"Võru, Valga, Põlva",PRIIT,9,492,Higher education,374,Riigikogu liige,2
+30.6122449,IRL,32178,TULIK,57.804,490,Pro Patria and Res Publica Union,Male,11,"Võru, Valga, Põlva",ÜLO,63,493,Higher education,150,Tööotsija,3
+32.28200371,IRL,32179,PREEDEN,34.836,539,Pro Patria and Res Publica Union,Female,11,"Võru, Valga, Põlva",ULLA,38,494,Higher education,174,"Põlva maavalitsus, maavanem",4
+31.16438356,IRL,32181,TILK,45.462,292,Pro Patria and Res Publica Union,Male,11,"Võru, Valga, Põlva",ARNE,75,495,Higher education,91,SK Serviti president,5
+29.09090909,IRL,32183,MÜÜRSEPP,46.549,330,Pro Patria and Res Publica Union,Male,11,"Võru, Valga, Põlva",KURMET,87,496,Higher education,96,"Antsla Vallavolikogu, esimees",6
+37.01923077,IRL,32186,MEKK,42.04,208,Pro Patria and Res Publica Union,Male,11,"Võru, Valga, Põlva",MAREK,99,497,Secondary education,77,Koolitaja,7
+21.95121951,IRL,32187,VISTER,52.712,205,Pro Patria and Res Publica Union,Male,11,"Võru, Valga, Põlva",KALLE,110,498,Higher education,45,"Valga Maavalitsus, haridus-ja kultuuritalituse juhataja",8
+29.13385827,IRL,32189,PÄCHTER,63.036,127,Pro Patria and Res Publica Union,Male,11,"Võru, Valga, Põlva",JAAK,115,499,Higher education,37,FIE,9
+44.59459459,IRL,32190,ROSENFELDT,25.881,74,Pro Patria and Res Publica Union,Female,11,"Võru, Valga, Põlva",SIRLE,119,500,Higher education,33,"ERAKOND ISAMAA JA RES PUBLICA LIIT, ARENDUSJUHT",10
+41.01497504,IRL,32192,TARO,33.58,1202,Pro Patria and Res Publica Union,Male,11,"Võru, Valga, Põlva",IGOR,121,501,Higher education,493,ERR-i Kagu-Eesti korrespondent,11
+32.08147677,IRL,32193,AKKERMANN,42.401,1571,Pro Patria and Res Publica Union,Female,12,Pärnu,ANNELY,51,502,Higher education,504,RIIGIKOGU LIIGE,1
+34.43588582,IRL,32195,METSOJA,36.263,2207,Pro Patria and Res Publica Union,Male,12,Pärnu,ANDRES,14,503,Higher education,760,RJK juhatuse esimees,2
+35,IRL,32197,KILK,61.979,260,Pro Patria and Res Publica Union,Male,12,Pärnu,REIN,64,504,Secondary education,91,"AS Pärnu Sadam, nõukogu esimees",3
+64.1025641,IRL,32198,MATSULEVITŠ,56.424,39,Pro Patria and Res Publica Union,Male,12,Pärnu,TIIT,76,505,Higher education,25,Euroopa Liidu Nõustav Missioon Ukrainas; strateegilise kommunikatsiooni nõunik,4
+33.05084746,IRL,32200,KUKK,55.598,236,Pro Patria and Res Publica Union,Male,12,Pärnu,MEELIS,88,506,Higher education,78,"Pärnu Linnavalitsus, abilinnapea",5
+28.50678733,IRL,32202,NÕMM,42.839,221,Pro Patria and Res Publica Union,Female,12,Pärnu,KRISTA,100,507,Higher education,63,"Krista Nõmm Kinnisvarabüroo, maakler; Pärnu Linnavolikogu liige, sotsiaalkomisjoni esimees",6
+30.67729084,IRL,32203,LUUR,34.111,251,Pro Patria and Res Publica Union,Male,12,Pärnu,LAURI,111,508,Higher education,77,"Are Vallavalitsus, Vallavanem",7
+23.33333333,IRL,32205,MÄNNIK,60.151,30,Pro Patria and Res Publica Union,Male,12,Pärnu,GEORG,116,509,Higher education,7,"OÜ Almacon, juhatuse liige",8
+29.57746479,IRL,32207,SUURVÄLI,66.264,71,Pro Patria and Res Publica Union,Female,12,Pärnu,MARI,120,510,Higher education,21,TÜ Pärnu Kolledž täiendkoolituse programmijuht,9
+37.02882483,IRL,32209,VELLISTE,67.825,451,Pro Patria and Res Publica Union,Male,12,Pärnu,TRIVIMI,122,511,Higher education,167,"Eesti Sõjamuuseum - Kindral Laidoneri Muuseum, projektijuht",10
+45.74898785,ROH,32525,TINN,42.125,247,Estonian Greens,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",OLEV-ANDRES,3,512,Higher education,113,ettevõtja,1
+29.72972973,ROH,32529,GUDIM,38.136,37,Estonian Greens,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",ANDREI,5,513,Higher education,11,"Reval Group OÜ, töökoja juhtaja",2
+43.52941176,ROH,32530,UUSTALU,47.806,85,Estonian Greens,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",EERO,16,514,Higher education,37,"Tartu Ülikool, spetsialist",3
+43.58974359,ROH,32532,JUURAK,66.103,39,Estonian Greens,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",RAIVO,24,515,Higher education,17,"Ajaleht Õpetajate Leht, toimetaja",4
+38.70967742,ROH,32535,KÄIGE,51.636,62,Estonian Greens,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",PIRET,23,516,Secondary education,24,"AS Tallink Grupp, kokk",5
+34.7826087,ROH,32539,VESKIMÄGI,50.012,69,Estonian Greens,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",MIHKEL,30,517,Higher education,24,"Tõstamaa perearstikekskus, arst",6
+35.89108911,ROH,32544,LAANE,46.522,404,Estonian Greens,Male,2,"Kesklinn, Lasnamäe, Pirita",ALEKSANDER,1,518,Secondary education,145,Terviselehe väljaandja,1
+39.53488372,ROH,32546,VORONTSOVA,43.376,43,Estonian Greens,Female,2,"Kesklinn, Lasnamäe, Pirita",DARJA,8,519,Secondary education,17,"ettevõtja, fotograaf",2
+40.38461538,ROH,32550,REIMAA,63.937,104,Estonian Greens,Female,2,"Kesklinn, Lasnamäe, Pirita",KÜLLIKE,7,520,Higher education,42,arhitekt,3
+40,ROH,32554,TJURIN,44.608,10,Estonian Greens,Male,2,"Kesklinn, Lasnamäe, Pirita",SERGE,21,521,Higher education,4,töötu,4
+24.32432432,ROH,32556,LANGEBRAUN,53.435,37,Estonian Greens,Male,2,"Kesklinn, Lasnamäe, Pirita",EVALD,31,522,Higher education,9,"OÜ Antikvaar, juhataja",5
+34.58213256,ROH,32558,TRUBETSKY,51.852,347,Estonian Greens,Male,3,"Mustamäe, Nõmme",TÕNU,9,523,Secondary education,120,"kirjanik, muusik, filmirežissöör",1
+55.38461538,ROH,32562,KÄIGE,30.902,65,Estonian Greens,Female,3,"Mustamäe, Nõmme",MAIGI,14,524,Higher education,36,"Kaitsevägi, admistratiivtöötaja",2
+48.8372093,ROH,32565,ARTUS,65.58,43,Estonian Greens,Female,3,"Mustamäe, Nõmme",ANNE,20,525,Higher education,21,"IMG Numeri OÜ, raamatupidaja",3
+30.43478261,ROH,32566,PARIS,30.732,23,Estonian Greens,Male,3,"Mustamäe, Nõmme",MIKK,36,526,Secondary education,7,"Barona, renditööline",4
+61.76470588,ROH,32567,TALU,41.626,34,Estonian Greens,Male,3,"Mustamäe, Nõmme",ALLAN,33,527,Higher education,21,"Eesti Kunstimuuseum, restauraator-konservaator",5
+41.21779859,ROH,32531,LAHTVEE,57.112,427,Estonian Greens,Male,4,"Harju, Rapla",VALDUR,6,528,Higher education,176,"SA SÄÄSTVA EESTI INSTITUUT, PROGRAMMIJUHT",1
+55.55555556,ROH,32533,MEESAK,44.501,63,Estonian Greens,Male,4,"Harju, Rapla",ANDRES,11,529,Higher education,35,VÄIKEETTEVÕTJA,2
+38.29787234,ROH,32536,SOONE,39.652,94,Estonian Greens,Male,4,"Harju, Rapla",IVAR,12,530,Higher education,36,"Tallinna Tehnikakõrgkool, lektor",3
+34.83870968,ROH,32537,LAKS,27.819,155,Estonian Greens,Male,4,"Harju, Rapla",JOONAS,37,531,Secondary education,54,"AS Teede REV-2, liikluskorralduse juht",4
+38.63636364,ROH,32540,KABAL,52.723,44,Estonian Greens,Male,4,"Harju, Rapla",AIN,39,532,Higher education,17,"ADVOKAADIBÜROO HANSA LAW OFFICES OÜ, ÕIGUSNÕUNIK",5
+35.8490566,ROH,32542,VALDMANN,55.937,53,Estonian Greens,Male,4,"Harju, Rapla",KALJU,38,533,Secondary education,19,"P-System OÜ, juhataja",6
+42.5,ROH,32534,KANNIK,26.281,160,Estonian Greens,Male,5,"Hiiu, Lääne, Saare",KRISTEN,22,534,Secondary education,68,"Kodumaa Kapitali Hoiu-laenuühistu, juhatuse liige",1
+53.02325581,ROH,32538,LOTMAN,54.817,430,Estonian Greens,Male,5,"Hiiu, Lääne, Saare",ALEKSEI,40,535,Higher education,228,"Eestimaa Looduse Fond, merekeskkonna kaitse ekspert",2
+44.35483871,ROH,32541,KIVIMÄGI,51.814,124,Estonian Greens,Male,6,Lääne-Viru,AGU,4,536,Higher education,55,Kodune,1
+40,ROH,32543,LEHTLA,44.498,75,Estonian Greens,Male,6,Lääne-Viru,REIGO,28,537,Higher education,30,Keskkonnaekspert,2
+33.33333333,ROH,32545,POTOTSKI,56.394,57,Estonian Greens,Male,7,Ida-Viru,ALEKSANDER,10,538,Higher education,19,ÜLIÕPILANE/DOKTORANT,1
+30.23255814,ROH,32548,SELIN,50.379,43,Estonian Greens,Male,7,Ida-Viru,ALLAN,26,539,Secondary education,13,A.S KAMINAD OÜ JUHATAJA,2
+33.98058252,ROH,32551,ILSEN,46.793,103,Estonian Greens,Male,8,"Järva, Viljandi",ERNO,25,540,Secondary education,35,Vabakutseline,1
+30,ROH,32553,KUNINGAS,64.181,80,Estonian Greens,Male,8,"Järva, Viljandi",AIN,29,541,Secondary education,24,Pensionär,2
+45.48286604,ROH,32547,LAHTVEE,34.45,321,Estonian Greens,Male,9,"Jõgeva, Tartu",RASMUS,17,542,Secondary education,146,"RMIT, peaspetsialist",1
+27.08333333,ROH,32549,KUIV,65.259,48,Estonian Greens,Male,9,"Jõgeva, Tartu",ARVO,34,543,Secondary education,13,Pensionär,2
+37.45583039,ROH,32552,KAASIK,48.6,283,Estonian Greens,Male,10,Tartu linn,MARKO,2,544,Higher education,106,"Tartu Ülikool, Füüsika Instituut, vanemteadur",1
+39.89361702,ROH,32555,JÜSSI,49.944,376,Estonian Greens,Male,10,Tartu linn,MART,15,545,Higher education,150,"SA Eestimaa Looduse Fond, MTÜ Pro Mare, teadur",2
+54.54545455,ROH,32557,TRUUSALU,51.68,66,Estonian Greens,Male,10,Tartu linn,PRIIT,19,546,Higher education,36,"Kernel AS, nõukogu esimees",3
+36.2244898,ROH,32559,SAMOSON,59.644,196,Estonian Greens,Male,11,"Võru, Valga, Põlva",AGO,35,547,Higher education,71,"JUHTIVTEADUR, TEHNOMEEDIKUM, TTÜ",1
+38.46153846,ROH,32561,MELLOV,65.07,52,Estonian Greens,Female,11,"Võru, Valga, Põlva",ZOJA,13,548,Higher education,20,Tallinna Tugikeskus Juks sotsiaalpedagoog,2
+37.20930233,ROH,32563,MATVEI,51.932,43,Estonian Greens,Male,11,"Võru, Valga, Põlva",ARVI,27,549,Secondary education,16,VABAKUTSELINE FOTOGRAAF,3
+41.08910891,ROH,32560,SAARSO,51.428,202,Estonian Greens,Male,12,Pärnu,MART,18,550,Secondary education,83,"Saaremaa Laevakompanii, vahimadrus",1
+40.81632653,ROH,32564,VARIK,52.923,49,Estonian Greens,Male,12,Pärnu,OVE,32,551,Secondary education,20,Leiutaja,2
+12.5,EÜVP,32460,POLYAKOFF,57.81,16,Estonian United Left Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",VICTOR,4,552,Higher education,2,"Maardu Kultuuri- ja Infokeskus, direktori kt",1
+0,EÜVP,32464,VINOGRADOVA,29.941,9,Estonian United Left Party,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",DIANA,23,553,Secondary education,0,"kodune, lapsepuhkusel",2
+0,EÜVP,32466,LEIST,62.078,3,Estonian United Left Party,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",ADA,22,554,Secondary education,0,"Maxima OÜ, peakassapidaja",3
+9.090909091,EÜVP,32468,KRAVTSOVA,57.306,11,Estonian United Left Party,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",JEKATERINA,24,555,Higher education,1,"töötu, invaliid-pensionär",4
+23.33333333,EÜVP,32470,KALD,30.423,30,Estonian United Left Party,Male,2,"Kesklinn, Lasnamäe, Pirita",VALEV,1,556,Higher education,7,"Maardu Linnavalitsus, abilinnapea",1
+9.090909091,EÜVP,32471,KRUTŠININ,58.593,11,Estonian United Left Party,Male,2,"Kesklinn, Lasnamäe, Pirita",VLADIMIR,13,557,Higher education,1,töötu,2
+11.76470588,EÜVP,32472,DAVÕDOV,34.122,17,Estonian United Left Party,Male,2,"Kesklinn, Lasnamäe, Pirita",ALEKSEI,18,558,Higher education,2,"Maardu Põhikool, õpetaja",3
+7.142857143,EÜVP,32473,DROZDOV,62.439,28,Estonian United Left Party,Male,3,"Mustamäe, Nõmme",VLADIMIR,3,559,Higher education,2,"OÜ Allaneks, juhatuse liige",1
+9.090909091,EÜVP,32474,MOSKVINA,54.875,11,Estonian United Left Party,Female,3,"Mustamäe, Nõmme",SVETLANA,19,560,Higher education,1,"Fortis Koolitus OÜ, raamatupidaja",2
+9.871244635,EÜVP,32496,BÕSTROV,70.387,233,Estonian United Left Party,Male,4,"Harju, Rapla",GEORGI,2,561,Higher education,23,Maardu linnavalitsus - linnavolikogu esimees,1
+8.235294118,EÜVP,32475,GOLOVATŠ,36.903,85,Estonian United Left Party,Male,4,"Harju, Rapla",JEVGENI,5,562,Higher education,7,"MTÜ Maardu Noorte Keskus, juhataja",2
+5.263157895,EÜVP,32476,RÜÜTEL,67.702,19,Estonian United Left Party,Male,4,"Harju, Rapla",HEINO,9,563,Secondary education,1,pensionär,3
+100,EÜVP,32477,PAURI,41.106,2,Estonian United Left Party,Male,4,"Harju, Rapla",ALEKSANDR,15,564,Secondary education,2,"Zim Company OÜ, juhatuse liige",4
+0,EÜVP,32478,TÄNAVSUU,73.977,12,Estonian United Left Party,Male,4,"Harju, Rapla",MADIS,16,565,Secondary education,0,pensionär,5
+6.666666667,EÜVP,32479,KALD,27.666,15,Estonian United Left Party,Female,5,"Hiiu, Lääne, Saare",INNA,25,566,Secondary education,1,lapsehoolduspuhkusel,1
+17.64705882,EÜVP,32480,VEEREMAA,70.182,17,Estonian United Left Party,Male,6,Lääne-Viru,TÕNU,21,567,Secondary education,3,pensionär,1
+12.06896552,EÜVP,32481,MALÕGIN,65.884,58,Estonian United Left Party,Male,7,Ida-Viru,VIKTOR,17,568,Secondary education,7,pensionär,1
+5.882352941,EÜVP,32482,TANVEL,56.468,17,Estonian United Left Party,Male,8,"Järva, Viljandi",EDUARD,10,569,Higher education,1,"Maardu Linnavarahooldus OÜ, operatiivkorraldaja",1
+0,EÜVP,32483,SUMIN,38.456,21,Estonian United Left Party,Male,9,"Jõgeva, Tartu",SERGEI,8,570,Secondary education,0,"KMS Viimistlus OÜ, juhatuse liige",1
+0,EÜVP,32484,RANNAK,64.909,8,Estonian United Left Party,Female,9,"Jõgeva, Tartu",MARIJAM,6,571,Higher education,0,"Maardu Põhikool, direktor",2
+6.896551724,EÜVP,32485,ŠIROKOV,59.321,58,Estonian United Left Party,Male,9,"Jõgeva, Tartu",ALEKSANDR,12,572,Secondary education,4,talunik,3
+0,EÜVP,32486,PELJUHHOVSKA,73.607,16,Estonian United Left Party,Female,10,Tartu linn,VIIVI-HELBE,7,573,Secondary education,0,pensionär,1
+16.66666667,EÜVP,32487,LAIDVEE,45.128,6,Estonian United Left Party,Male,10,Tartu linn,ANDRES,14,574,Basic education,1,"USS, turvatöötaja",2
+7.5,EÜVP,32488,NETŠAJEVA,58.053,40,Estonian United Left Party,Female,11,"Võru, Valga, Põlva",NIINA,20,575,Secondary education,3,"AS Vedru, direktor",1
+4.761904762,EÜVP,32489,VEREŠTŠAGIN,59.409,21,Estonian United Left Party,Male,12,Pärnu,GENNADI,11,576,Higher education,1,kirjanik,1
+44.44901316,EVA,32213,KUNINGAS,59.379,2432,Estonian Free Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",NEEME,36,577,Higher education,1081,Vabakutseline lavastaja,1
+52.81007752,EVA,32214,KÜBARSEPP,33.676,1032,Estonian Free Party,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",KÜLLIKI,4,578,Higher education,545,Eesti Vabaerakonna juhatuse liige,2
+52.42290749,EVA,32215,MILLER,52.903,227,Estonian Free Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",ANTS,19,579,Secondary education,119,,3
+51.5625,EVA,32216,RAMJALG,38.125,192,Estonian Free Party,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",LII,17,580,Secondary education,99,"Eesti Post AS, müügijuht",4
+55.23809524,EVA,32217,TEEVEER,51.921,210,Estonian Free Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",TÕNU,30,581,Higher education,116,TVR LIIGA OÜ JUHATAJA,5
+42.85714286,EVA,32218,PUUST,25.7,70,Estonian Free Party,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",IVIKA,48,582,Secondary education,30,"Ettevõtja, OÜ Blue Productions",6
+57.54189944,EVA,32219,KIRSBERG,31.674,179,Estonian Free Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",GEORG,59,583,Higher education,103,"LAEVAKAITSJA, Solace Global; kirjanik",7
+38,EVA,32220,KÕLUVERE,60.323,50,Estonian Free Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",PEETER,122,584,Secondary education,19,"ALTHEIM OÜ, PROJKETIJUHT",8
+73.68421053,EVA,32221,MURTUZALIEV,35.641,19,Estonian Free Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",MAGOMED,82,585,Higher education,14,"Metaphora OÜ, esimees",9
+52.87356322,EVA,32222,MERITS,52.627,87,Estonian Free Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",KUIDO,91,586,Higher education,46,tööotsija; vabakutseline,10
+49.15254237,EVA,32223,PAASOJA,39.332,59,Estonian Free Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",JAANUS,101,587,Secondary education,29,"Tallinna Südalinna Kool, infojuht",11
+45.91909155,EVA,32224,HERKEL,52.545,4227,Estonian Free Party,Male,2,"Kesklinn, Lasnamäe, Pirita",ANDRES,1,588,Higher education,1941,Riigikogu liige,1
+56.05381166,EVA,32225,KRIŠTAFOVITŠ,31.997,446,Estonian Free Party,Male,2,"Kesklinn, Lasnamäe, Pirita",JEVGENI,9,589,Higher education,250,"MTÜ Euroopa Algatuste Keskus, juhataja",2
+59.77777778,EVA,32226,HAUKANÕMM,42.773,450,Estonian Free Party,Female,2,"Kesklinn, Lasnamäe, Pirita",MONIKA,6,590,Higher education,269,"Eesti Puuetega Inimeste Koda, juhatuse esimees",3
+42.51968504,EVA,32227,MERISTE,53.136,127,Estonian Free Party,Female,2,"Kesklinn, Lasnamäe, Pirita",MARIS,34,591,Higher education,54,"MTÜ Pro Civitas, sotsiaaltöötaja",4
+30,EVA,32228,OLMET,63.425,20,Estonian Free Party,Male,2,"Kesklinn, Lasnamäe, Pirita",RAIVO,37,592,Higher education,6,OÜ Ordior Eesti müügiesindaja,5
+56.48854962,EVA,32229,MAIDLA,45.733,131,Estonian Free Party,Male,2,"Kesklinn, Lasnamäe, Pirita",MARGUS,21,593,Higher education,74,"ettevõtja, teadusajakirjanik",6
+59.42028986,EVA,32230,LUKA,25.194,69,Estonian Free Party,Male,2,"Kesklinn, Lasnamäe, Pirita",JAANUS,49,594,Secondary education,41,"Tallinna Raekoda, vanemspetsialist",7
+20.68965517,EVA,32231,DORMIDONTOV,64.435,29,Estonian Free Party,Male,2,"Kesklinn, Lasnamäe, Pirita",ALEKSANDR,60,595,Secondary education,6,"Vene arhiiv, direktor",8
+40,EVA,32233,MAAS,54.68,25,Estonian Free Party,Male,2,"Kesklinn, Lasnamäe, Pirita",ALAR,71,596,Higher education,10,vabakutseline,9
+47.03389831,EVA,32236,RIIS,56.49,236,Estonian Free Party,Male,2,"Kesklinn, Lasnamäe, Pirita",JAAN,125,597,Higher education,111,"OÜ Looduskiri, juhataja",10
+39.58333333,EVA,32238,VAINO,43.775,48,Estonian Free Party,Male,2,"Kesklinn, Lasnamäe, Pirita",ALDO,123,598,Higher education,19,"Aldoris OY, tegevjuht",11
+59.72222222,EVA,32240,KESKÜLA,50.768,72,Estonian Free Party,Male,2,"Kesklinn, Lasnamäe, Pirita",KULNO,108,599,Higher education,43,"Hewlett Packard OY, konsultant",12
+46.31578947,EVA,32242,PEEL,55.781,95,Estonian Free Party,Male,2,"Kesklinn, Lasnamäe, Pirita",HOLGER,113,600,Secondary education,44,"kergejõustikutreener, ettevõtja",13
+28.84615385,EVA,32244,SEEDER,54.784,104,Estonian Free Party,Male,2,"Kesklinn, Lasnamäe, Pirita",HELDUR-VALDEK,116,601,Higher education,30,finantsanalüütik,14
+42.71112193,EVA,32232,LUTSEPP,60.819,4109,Estonian Free Party,Male,3,"Mustamäe, Nõmme",AIN,10,602,Higher education,1755,"SA Eesti Draamateater, näitleja; Eesti Teatriliit, esimees",1
+49.50884086,EVA,32234,METLEV,23.529,509,Estonian Free Party,Male,3,"Mustamäe, Nõmme",SERGEI,12,603,Secondary education,252,"MTÜ AVATUD VABARIIK, TEGEVJUHT",2
+46.82539683,EVA,32235,HANSBERG,68.438,126,Estonian Free Party,Female,3,"Mustamäe, Nõmme",ANNE,33,604,Higher education,59,"SA Keskkonnainvesteeringute Keskus, audiitor",3
+46.15384615,EVA,32237,PLOOMPUU,55.118,143,Estonian Free Party,Male,3,"Mustamäe, Nõmme",TÕNU,38,605,Higher education,66,"Tallinna Ülikool, lektor",4
+61.8556701,EVA,32239,KALDMA,49.812,97,Estonian Free Party,Male,3,"Mustamäe, Nõmme",TARMO,50,606,Higher education,60,"Veeteede amet, vanemspetsialist",5
+40.57971014,EVA,32241,SIMSON,25.684,69,Estonian Free Party,Male,3,"Mustamäe, Nõmme",TAAVI,61,607,Higher education,28,"Tallinna Tehnikaülikool,  mehaanikateaduskond, materjalitehnika instituut, nooremteadur",6
+63.88888889,EVA,32243,JAAGO,51.439,36,Estonian Free Party,Male,3,"Mustamäe, Nõmme",MARGUS,72,608,Higher education,23,Event Center OÜ juhatuse liige/projektijuht; Epicest OÜ juhatuse liige,7
+55.67010309,EVA,32245,HEINLA,61.728,97,Estonian Free Party,Female,3,"Mustamäe, Nõmme",EDA,92,609,Higher education,54,"Tallinna Ülikool, dotsent",8
+57.35294118,EVA,32246,UUSTALU,60.742,68,Estonian Free Party,Male,3,"Mustamäe, Nõmme",JAAN MIHKEL,102,610,Higher education,39,"Nõukogu liige, VKG",9
+53.89221557,EVA,32247,MATTHEUS,58.229,167,Estonian Free Party,Male,3,"Mustamäe, Nõmme",ÜLO,23,611,Higher education,90,"TEA Kirjastus, entsüklopeedia tegevtoimetaja",10
+45.06020799,EVA,32266,TALVIK,50.713,7308,Estonian Free Party,Male,4,"Harju, Rapla",ARTUR,2,612,Higher education,3293,"KASS ARTURI POSTKONTOR OÜ, PRODUTSENT",1
+39.79899497,EVA,32268,MUTLI,48.531,995,Estonian Free Party,Male,4,"Harju, Rapla",ALAR,25,613,Higher education,396,ettevõtja,2
+43.52941176,EVA,32270,VÄLK,54.094,255,Estonian Free Party,Female,4,"Harju, Rapla",TIIA,39,614,Higher education,111,FIE,3
+55.69007264,EVA,32273,ALTOSAAR,55.929,413,Estonian Free Party,Male,4,"Harju, Rapla",AIMAR,42,615,Higher education,230,"SISEMINISTEERIUM, IDA-VIRU NÕUNIK",4
+41.74757282,EVA,32274,KOITLA,53.832,103,Estonian Free Party,Male,4,"Harju, Rapla",AIVAR,51,616,Higher education,43,"EESTI KLIIMA OÜ, TEGEVJUHT",5
+47.27272727,EVA,32278,MESILANE,48.315,110,Estonian Free Party,Female,4,"Harju, Rapla",KATRIN,62,617,Higher education,52,Vide Astra OÜ juhatuse liige,6
+41.89189189,EVA,32280,KÄRSNA,46.078,296,Estonian Free Party,Male,4,"Harju, Rapla",PRIIT,73,618,Higher education,124,"Vigala Vallavalitsus, vallavanem",7
+43.75,EVA,32281,OJANGU,24.953,112,Estonian Free Party,Female,4,"Harju, Rapla",LIISA,83,619,Higher education,49,ettevõtja,8
+51.11111111,EVA,32284,HERODES,45.451,135,Estonian Free Party,Male,4,"Harju, Rapla",VEIKO,93,620,Higher education,69,"PÕHJA EESTI REGIONAALHAIGLA, ARST",9
+28.57142857,EVA,32288,LENNUK,53.079,70,Estonian Free Party,Female,4,"Harju, Rapla",ÜLLE,103,621,Higher education,20,"If P&C Insurace AS, müügitoe spetsialist",10
+33.33333333,EVA,32291,MUTSO,73.125,57,Estonian Free Party,Male,4,"Harju, Rapla",MART,109,622,Higher education,19,pensionär,11
+51.35135135,EVA,32292,JÕEKALDA,63.455,37,Estonian Free Party,Male,4,"Harju, Rapla",LOIT,114,623,Higher education,19,vabakutseline,12
+30.08849558,EVA,32295,KRISTAL,46.155,113,Estonian Free Party,Male,4,"Harju, Rapla",URMAS,117,624,Secondary education,34,Ettevõtja,13
+61.79775281,EVA,32296,KULBOK-LATTIK,48.504,89,Estonian Free Party,Female,4,"Harju, Rapla",EGGE,119,625,Higher education,55,sotsiaalteaduste doktorant Jyväskylä Ülikoolis,14
+63.33333333,EVA,32299,SAREVET,49.016,60,Estonian Free Party,Male,4,"Harju, Rapla",MATI,120,626,Higher education,38,"REYKTAL AS, Juhatuse liige",15
+29.8245614,EVA,32300,HERM,47.463,57,Estonian Free Party,Male,4,"Harju, Rapla",VAHUR,121,627,Higher education,17,"CHW OÜ, juhatuse liige",16
+38.62291555,EVA,32272,AMMAS,53.01,1859,Estonian Free Party,Male,5,"Hiiu, Lääne, Saare",ANDRES,22,628,Higher education,718,"Noarootsi Gümnaasium, õpetaja",1
+37.05991353,EVA,32275,MERI,73.123,1619,Estonian Free Party,Male,5,"Hiiu, Lääne, Saare",ENN,16,629,Higher education,600,"Merinvest OÜ, nõukogu esimees",2
+30.57324841,EVA,32282,NÕUKAS,48.717,157,Estonian Free Party,Male,5,"Hiiu, Lääne, Saare",MIKKO,40,630,Secondary education,48,Ettevõtja,3
+47.56554307,EVA,32285,LEMBER,51.099,267,Estonian Free Party,Male,5,"Hiiu, Lääne, Saare",JÜRI,28,631,Higher education,127,"Eesti Meremeeste Sõltumatu AÜ, esimees",4
+48.61111111,EVA,32287,TAAL,41.358,72,Estonian Free Party,Male,5,"Hiiu, Lääne, Saare",ARLES,52,632,Higher education,35,"AS Viru Elektrikaubandus, juhataja",5
+56.89655172,EVA,32290,VAHER,49.755,58,Estonian Free Party,Male,5,"Hiiu, Lääne, Saare",OLEV,63,633,Higher education,33,"Hardmeier, programmeerija",6
+28.57142857,EVA,32293,LAATS,55.239,63,Estonian Free Party,Male,5,"Hiiu, Lääne, Saare",JAAN,74,634,Higher education,18,"AS K.MET, müügiesindaja",7
+44.55445545,EVA,32297,LIGE,43.669,202,Estonian Free Party,Male,5,"Hiiu, Lääne, Saare",RINNO,84,635,Higher education,90,"Toikako Kaubandus OÜ, autorühm",8
+33.46741754,EVA,32276,RUTIKU,51.313,1243,Estonian Free Party,Male,6,Lääne-Viru,EMIL,20,636,Higher education,416,vabakutseline,1
+41.79104478,EVA,32277,KOPPELMANN,56.627,469,Estonian Free Party,Male,6,Lääne-Viru,ELMU,41,637,Higher education,196,Tapa Gümnaasiumi direktor,2
+60.60606061,EVA,32279,KOTŠIN,48.381,33,Estonian Free Party,Male,6,Lääne-Viru,REIN,53,638,Secondary education,20,"talupidaja, talutooraine töötleja",3
+28.84615385,EVA,32283,TALI,48.005,104,Estonian Free Party,Female,6,Lääne-Viru,MARIKA,64,639,Higher education,30,"MTÜ T6 Lapsevanemad, juhatuse liige",4
+43.15789474,EVA,32286,KRUMM,42.505,95,Estonian Free Party,Male,6,Lääne-Viru,KRISTO,75,640,Higher education,41,"TTÜ Tallinna Kolledž, lektor",5
+31.57894737,EVA,32289,HEINMETS,27.838,19,Estonian Free Party,Female,6,Lääne-Viru,VEANA,85,641,Basic education,6,"OÜ Cleaning Angels, töödejuhataja",6
+33.19502075,EVA,32294,HALLIK,46.738,241,Estonian Free Party,Male,6,Lääne-Viru,HEIKI,94,642,Higher education,80,"Päts OÜ, pagar-tootmisjuht",7
+39.62264151,EVA,32298,KAPTEN,52.162,265,Estonian Free Party,Male,7,Ida-Viru,PEETER,13,643,Higher education,105,"Repnau Õigusbüroo, jurist",1
+35.18518519,EVA,32301,ROSE,56.89,108,Estonian Free Party,Female,7,Ida-Viru,INNA,29,644,Secondary education,38,ettevõtja,2
+50.68493151,EVA,32302,SOONE,74.645,73,Estonian Free Party,Male,7,Ida-Viru,JÜRI,54,645,Higher education,37,"Oil Shale Institute OÜ juhataja, emeriitprofessor",3
+9.644670051,EVA,32303,LUIGAS,56.671,197,Estonian Free Party,Female,7,Ida-Viru,TAMARA,65,646,Higher education,19,Narva Linnavolikogu liige,4
+37.93103448,EVA,32304,KIVIRAND,60.693,58,Estonian Free Party,Male,7,Ida-Viru,OLAV,76,647,Higher education,22,"AXIOMA OÜ , juhataja",5
+36,EVA,32305,TSYBULENKO,42.357,25,Estonian Free Party,Male,7,Ida-Viru,EVHEN,86,648,Higher education,9,"Professor KyMU, teadur TTÜ",6
+38.46153846,EVA,32306,GORDEEV,41.804,26,Estonian Free Party,Male,7,Ida-Viru,YURY,95,649,Higher education,10,"Narva Pähklimäe Gümnaasium, õpetaja",7
+33.33333333,EVA,32307,MURUSTE,75.811,18,Estonian Free Party,Male,7,Ida-Viru,EINO,104,650,Secondary education,6,pensionär,8
+32.72727273,EVA,32308,BLANKIN,67.113,55,Estonian Free Party,Male,7,Ida-Viru,AVO,110,651,Secondary education,18,pensionär,9
+35.90697674,EVA,32317,ILISSON,54.768,1075,Estonian Free Party,Male,8,"Järva, Viljandi",MATI,14,652,Higher education,386,"Wilson Learning Estonia OÜ, juhatuse liige, konsultant",1
+39.49903661,EVA,32327,PALMISTE,41.774,519,Estonian Free Party,Male,8,"Järva, Viljandi",ARLET,43,653,Higher education,205,"juhatuse liige, Arulepiku talu OÜ",2
+36.47058824,EVA,32331,OSTRA,44.041,170,Estonian Free Party,Male,8,"Järva, Viljandi",AIN,26,654,Secondary education,62,"BALTIC BOLT OÜ,  kaupluse juhataja-müüja",3
+38.46153846,EVA,32333,LAST,55.984,143,Estonian Free Party,Female,8,"Järva, Viljandi",ILME,55,655,Higher education,55,PEREARST ILME LAST; TÖÖANDJA,4
+44.09448819,EVA,32336,RAJANGU,69.314,127,Estonian Free Party,Male,8,"Järva, Viljandi",VÄINO,66,656,Higher education,56,TALLINNA TEHNIKAÜLIKOOLI EMERIITPROFESSOR,5
+51.61290323,EVA,32338,SARDIS,46.576,62,Estonian Free Party,Male,8,"Järva, Viljandi",MARGUS,77,657,Higher education,32,"ATHENA ÕIGUSBÜROO, JURIST",6
+32.69230769,EVA,32340,RAHNU,72.008,104,Estonian Free Party,Male,8,"Järva, Viljandi",OLEV,87,658,Higher education,34,pensionär,7
+35,EVA,32342,KIRSCHFELDT,58.88,40,Estonian Free Party,Female,8,"Järva, Viljandi",EVI,96,659,Secondary education,14,"OÜ ""ERIRIIE"", ÕMBLEJA",8
+46.09375,EVA,32344,ÕUN,50.418,128,Estonian Free Party,Male,8,"Järva, Viljandi",MATS,105,660,Higher education,59,vabakutseline kunstnik,9
+37.65996344,EVA,32309,MEESAK,33.914,1094,Estonian Free Party,Male,9,"Jõgeva, Tartu",MÄRT,8,661,Higher education,412,Konguta Vallavolikogu esimees,1
+40.43367347,EVA,32311,LUTSEPP,55.272,784,Estonian Free Party,Female,9,"Jõgeva, Tartu",ELO,18,662,Higher education,317,SA Eesti Vabaõhumuuseumi Maaarhitektuuri Keskuse juhataja,2
+47.05882353,EVA,32313,KURE,57.766,119,Estonian Free Party,Male,9,"Jõgeva, Tartu",TAUNO,44,663,Higher education,56,"AS KONESKO, automaatik-mehaanik",3
+36.76012461,EVA,32315,AVI,60.257,321,Estonian Free Party,Male,9,"Jõgeva, Tartu",MADIS,56,664,Higher education,118,TÜ Kaarli juhatuse esimees,4
+35.9375,EVA,32316,HAUK,57.52,128,Estonian Free Party,Female,9,"Jõgeva, Tartu",KATRIN,67,665,Higher education,46,ettevõtja,5
+28.07017544,EVA,32318,KALJUORG,50.812,57,Estonian Free Party,Female,9,"Jõgeva, Tartu",VALERIA,78,666,Higher education,16,OÜ LETRUM juhatuse liige,6
+33.89830508,EVA,32319,KALJURAND,36.767,59,Estonian Free Party,Male,9,"Jõgeva, Tartu",HEINO,88,667,Higher education,20,"Liivimaa Viljad OÜ, juhatuse liige",7
+53.71900826,EVA,32321,MIKELSAAR,75.381,121,Estonian Free Party,Male,9,"Jõgeva, Tartu",RAIK-HIIO,97,668,Higher education,65,Tartu Ülikooli emeriitprofessor,8
+36.25,EVA,32323,RILLO,44.03,80,Estonian Free Party,Male,9,"Jõgeva, Tartu",AGU,106,669,Higher education,29,"Viru Vangla, jurist",9
+44.47852761,EVA,32324,LÄÄNEMETS,52.63,326,Estonian Free Party,Male,9,"Jõgeva, Tartu",MÄRT,31,670,Higher education,145,"Tartu Ülikool, vanemteadur",10
+36.89205219,EVA,32310,ARU,56.58,2529,Estonian Free Party,Female,10,Tartu linn,KRISTA,3,671,Higher education,933,"Eesti Teadusagentuur, sihtasutuse juhatuse liige",1
+43.33333333,EVA,32312,ADAMS,67.272,720,Estonian Free Party,Male,10,Tartu linn,JÜRI,5,672,Secondary education,312,Pensionär,2
+40.93886463,EVA,32314,VOLKONSKI,60.465,916,Estonian Free Party,Male,10,Tartu linn,PEETER,27,673,Higher education,375,Vabakutseline,3
+29.19254658,EVA,32320,TARTO,46.721,161,Estonian Free Party,Female,10,Tartu linn,PIRET,35,674,Secondary education,47,"Tartu Ülikool, üliõpilane",4
+51.35135135,EVA,32322,KLAAS,31.713,148,Estonian Free Party,Male,10,Tartu linn,HANNES,45,675,Higher education,76,"Tartu Ülikool, spetsialist",5
+36.29032258,EVA,32325,KRIPS,62.294,124,Estonian Free Party,Male,10,Tartu linn,HEIKI,57,676,Higher education,45,"Tartu Ülikool, lektor",6
+54.20560748,EVA,32326,KÜLAOTS,40.805,107,Estonian Free Party,Male,10,Tartu linn,URMET,68,677,Higher education,58,"Infosüsteemide OÜ, spetsialist",7
+15.15151515,EVA,32328,PÄIKE,63.324,66,Estonian Free Party,Male,10,Tartu linn,ARVO,79,678,Higher education,10,Pensionär,8
+45.33333333,EVA,32329,JÕGIAAS,41.054,75,Estonian Free Party,Female,10,Tartu linn,LAILI,98,679,Higher education,34,"Tartu Linnaraamatukogu, harukogu juhataja",9
+53.50318471,EVA,32330,PILT,48.709,157,Estonian Free Party,Male,10,Tartu linn,KALLE,15,680,Higher education,84,"Eesti Mükoloogiauuringute Keskus SA, nõukogu liige",10
+38.70722433,EVA,32249,NURM,63.929,1315,Estonian Free Party,Male,11,"Võru, Valga, Põlva",KAUL,46,681,Higher education,509,"Eestimaa Talupidajate Keskliit, peadirektor",1
+39.04665314,EVA,32250,JÄÄGER,49.363,986,Estonian Free Party,Female,11,"Võru, Valga, Põlva",MERLE,24,682,Higher education,385,"Vanemuine, draamaartist",2
+34.375,EVA,32253,KALJUSTE,53.864,96,Estonian Free Party,Male,11,"Võru, Valga, Põlva",KALLE,58,683,Higher education,33,pensionär,3
+37.39837398,EVA,32256,PILL,59.901,123,Estonian Free Party,Male,11,"Võru, Valga, Põlva",IVO,69,684,Higher education,46,"EELK Sangaste ja Laatre koguduse õpetaja, Tsirguliina Keskkooli ajalooõpetaja",4
+36.21621622,EVA,32259,HERKEL,55.299,185,Estonian Free Party,Female,11,"Võru, Valga, Põlva",KAIE,80,685,Higher education,67,töötu,5
+49.46236559,EVA,32261,HEINASTE,53.585,93,Estonian Free Party,Male,11,"Võru, Valga, Põlva",URMAS,89,686,Higher education,46,"Tartu Annelinna Gümnaasium, õpetaja",6
+20,EVA,32264,KASSIN,53.884,15,Estonian Free Party,Male,11,"Võru, Valga, Põlva",EDUARD,99,687,Higher education,3,"ETA Uudistetalituse OÜ, toimetaja",7
+26.70807453,EVA,32265,VALK,39.411,161,Estonian Free Party,Male,11,"Võru, Valga, Põlva",TANEL,107,688,Secondary education,43,"Vandervalk OÜ, juhatuse liige",8
+57.62711864,EVA,32267,SAARVA,38.075,59,Estonian Free Party,Male,11,"Võru, Valga, Põlva",SILVER,111,689,Higher education,34,"direktor, Blue Brilliant Enterprise",9
+36.11111111,EVA,32269,ELERAND,56.63,72,Estonian Free Party,Male,11,"Võru, Valga, Põlva",VALEV,115,690,Higher education,26,"Helme Koduloomuuseum, juhataja",10
+28.68217054,EVA,32271,OTT,32.411,129,Estonian Free Party,Male,11,"Võru, Valga, Põlva",URMAS,118,691,Higher education,37,"Misso Kool, sekretär/majandusjuhataja",11
+38.58742463,EVA,32248,SAAR,58.357,1161,Estonian Free Party,Male,12,Pärnu,JÜRI,7,692,Higher education,448,"Tartu Ülikool, professor",1
+42.75184275,EVA,32251,JÄÄTMA,54.067,407,Estonian Free Party,Female,12,Pärnu,KADRI,32,693,Higher education,174,MTÜ Pro Civitas projektijuht; keraamik,2
+37.02422145,EVA,32252,JOA,54.344,289,Estonian Free Party,Male,12,Pärnu,ELMO,47,694,Higher education,107,"Pärnu Rääma Põhikool, direktor",3
+39.63963964,EVA,32254,ERM,61.495,111,Estonian Free Party,Male,12,Pärnu,ANTS,124,695,Higher education,44,"Tallinna tehnikaülikooli Meresüsteemide Instituut, vanemteadur",4
+40.79422383,EVA,32255,KÜNNAPAS,32.975,277,Estonian Free Party,Female,12,Pärnu,HELI,70,696,Higher education,113,"KUUSE FARM OÜ, juhataja",5
+20.49180328,EVA,32257,KASS,65.769,122,Estonian Free Party,Male,12,Pärnu,JOHANNES,81,697,Higher education,25,pensionär,6
+25.53191489,EVA,32258,RÄHN,71.118,47,Estonian Free Party,Male,12,Pärnu,ENN,100,698,Higher education,12,pensionär,7
+43.47826087,EVA,32260,VAIK,64.567,46,Estonian Free Party,Male,12,Pärnu,HILLAR,90,699,Higher education,20," OÜ DORMIKOR, vanem-klienditeenindaja",8
+22.03389831,EVA,32262,PRINS,55.02,59,Estonian Free Party,Male,12,Pärnu,REIN,112,700,Secondary education,13,"Haikkobi Invest OÜ, tegevdirektor",9
+35.06493506,EVA,32263,OJANGU,48.474,77,Estonian Free Party,Male,12,Pärnu,JAANUS,11,701,Higher education,27,"AS MERKO INFRA ELO, TEHNIKAJUHT",10
+7.902873772,KESK,32332,KÕLVART,37.265,10996,Estonian Centre Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",MIHHAIL,34,702,Higher education,869,"Tallinna Linnavalitsus, abilinnapea",1
+11.06337272,KESK,32334,VASSILJEV,61.892,1862,Estonian Centre Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",VIKTOR,45,703,Higher education,206,Riigikogu liige,2
+9.565217391,KESK,32335,KALLO,66.231,575,Estonian Centre Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",KALEV,5,704,Higher education,55,Riigikogu liige,3
+9.828009828,KESK,32337,LAASI,40.465,407,Estonian Centre Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",LAURI,13,705,Higher education,40,Riigikogu liige,4
+7.491486947,KESK,32339,TAMMEMÄGI,39.74,881,Estonian Centre Party,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",KARIN,51,706,Higher education,66,Põhja-Tallinna Valitsus linnaosa vanem,5
+8.211678832,KESK,32345,NOVIKOV,32.928,1096,Estonian Centre Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",ANDREI,64,707,Higher education,90,"Kristiine Linnaosa Valitsus, linnaosa vanem",6
+15.57496361,KESK,32346,JÜRGENSON,37.473,687,Estonian Centre Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",MAREK,79,708,Higher education,107,"Haabersti Linnaosa Valitsus, linnaosa vanem",7
+9.310344828,KESK,32347,ANTONJUK,59.135,290,Estonian Centre Party,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",IRINA,91,709,Higher education,27,"Haabersti Vene Gümnaasuim, direktor",8
+15.89595376,KESK,32348,TAMM,54.762,346,Estonian Centre Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",ENNO,86,710,Higher education,55,"Tallinna Linnatranspordi AS, juhatuse esimees",9
+12.62729124,KESK,32350,STALNUHHIN,30.393,491,Estonian Centre Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",ANTON,101,711,Higher education,62,"Nortal, vanem Java arendaja",10
+10.19455253,KESK,32354,SULTS,53.936,1285,Estonian Centre Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",MÄRT,47,712,Higher education,131,"Tallinna Kunstigümnaasiumi, direktor",11
+7.323302869,KESK,32341,SAVISAAR,64.75,25057,Estonian Centre Party,Male,2,"Kesklinn, Lasnamäe, Pirita",EDGAR,1,713,Higher education,1835,"Tallinna Linnavalitsus, linnapea",1
+11.13963039,KESK,32343,IVANOVA,30.374,1948,Estonian Centre Party,Female,2,"Kesklinn, Lasnamäe, Pirita",OLGA,16,714,Secondary education,217,Tallinna Lasnamäe linnaosa vanem,2
+14.71172962,KESK,32353,VITSUT,55.162,503,Estonian Centre Party,Male,2,"Kesklinn, Lasnamäe, Pirita",TOOMAS,9,715,Higher education,74,Tallinna Linnavolikogu esimees,3
+16.4516129,KESK,32355,GLEBOVA,25.706,310,Estonian Centre Party,Female,2,"Kesklinn, Lasnamäe, Pirita",ELENA,40,716,Higher education,51,Tondiraba Spordikeskuse juhataja,4
+18.25,KESK,32357,KLANDORF,59.146,400,Estonian Centre Party,Male,2,"Kesklinn, Lasnamäe, Pirita",KALLE,52,717,Higher education,73,"Tallinna Linnavalitsus, abilinnapea",5
+12.17948718,KESK,32360,AAS,49.136,156,Estonian Centre Party,Male,2,"Kesklinn, Lasnamäe, Pirita",TAAVI,22,718,Higher education,19,"Tallinna Linnavalitsus, abilinnapea",6
+15.81395349,KESK,32365,KRIIS,39.488,215,Estonian Centre Party,Male,2,"Kesklinn, Lasnamäe, Pirita",TARMO,18,719,Secondary education,34,"AS Sillamäe Sadam, haldusjuht",7
+12.3853211,KESK,32387,HÄRM,52.838,218,Estonian Centre Party,Female,2,"Kesklinn, Lasnamäe, Pirita",AINI,76,720,Higher education,27,Tallinna Kultuuriväärtuste Ameti juhataja,8
+19.52662722,KESK,32390,MÖLDER,25.391,169,Estonian Centre Party,Male,2,"Kesklinn, Lasnamäe, Pirita",TÕNIS,66,721,Secondary education,33,"Pirita Linnaosa Valitsus, linnaosa vanem",9
+15.42553191,KESK,32393,JUFEREVA,35.387,376,Estonian Centre Party,Female,2,"Kesklinn, Lasnamäe, Pirita",MARIA,107,722,Higher education,58,"Tallinna Linnakantselei, meediaspetsialist",10
+9.248554913,KESK,32396,DANILOV,27.513,173,Estonian Centre Party,Male,2,"Kesklinn, Lasnamäe, Pirita",JURI,93,723,Secondary education,16,"Citadele Banka Eesti Filiaal AS, ärikliendihaldur",11
+18.36734694,KESK,32399,LAUSMA-SAAR,26.877,49,Estonian Centre Party,Female,2,"Kesklinn, Lasnamäe, Pirita",HELEN,110,724,Higher education,9,"Tallinna Kesklinna Valitsus, vanema asetäitja - Rahvarinde muuseumi juhataja",12
+15.78947368,KESK,32402,PRIVALOVA,70.059,228,Estonian Centre Party,Female,2,"Kesklinn, Lasnamäe, Pirita",NELLI,113,725,Higher education,36,"Raadio 4, lepingu alusel saatejuht",13
+10.13655462,KESK,32405,KORB,34.574,1904,Estonian Centre Party,Male,2,"Kesklinn, Lasnamäe, Pirita",MIHHAIL,121,726,Higher education,193,Riigikogu liige,14
+7.70156438,KESK,32349,SARAPUU,61.511,1662,Estonian Centre Party,Male,3,"Mustamäe, Nõmme",ARVO,33,727,Higher education,128,"Tallinna Linnavalitsus, abilinnapea",1
+11.205074,KESK,32351,MARTINSON,74.39,946,Estonian Centre Party,Female,3,"Mustamäe, Nõmme",MERIKE,42,728,Higher education,106,Tallinna Linnavalitsus abilinnapea,2
+5.69550931,KESK,32352,SAVISAAR,36.706,1826,Estonian Centre Party,Male,3,"Mustamäe, Nõmme",ERKI,14,729,Higher education,104,"Tallinna Linnatranspordi Aktsiaselts, IT osakond, juhataja ",3
+8.872136851,KESK,32356,RATAS,76.81,3449,Estonian Centre Party,Male,3,"Mustamäe, Nõmme",REIN,37,730,Higher education,306,"Jõelähtme Vallavalitsus, keskkonnanõunik, Euroakadeemia, professor",4
+7.782101167,KESK,32358,KALDA,65.032,771,Estonian Centre Party,Female,3,"Mustamäe, Nõmme",HELLE,32,731,Higher education,60,"Mustamäe Linnaosa Valitsus, linnaosa vanem",5
+11.8251928,KESK,32359,TERIK,35.71,389,Estonian Centre Party,Male,3,"Mustamäe, Nõmme",TIIT,25,732,Higher education,46,"Nõmme Linnaosa Valitsus, linnaosa vanem",6
+7.506471096,KESK,32361,TŠERNOGOROVA,81.941,1159,Estonian Centre Party,Female,3,"Mustamäe, Nõmme",MARGARITA,65,733,Higher education,87,FIE,7
+14.28571429,KESK,32362,EMBRICH,34.634,217,Estonian Centre Party,Female,3,"Mustamäe, Nõmme",IRINA,80,734,Higher education,31,Treener,8
+12.38195173,KESK,32363,TOMAN,54.765,953,Estonian Centre Party,Male,3,"Mustamäe, Nõmme",EDUARD,118,735,Higher education,118,Vene Kultuurikeskus arengudirektor,9
+6.764705882,KESK,32364,KRAVTŠENKO,41.925,1360,Estonian Centre Party,Male,3,"Mustamäe, Nõmme",IGOR,95,736,Higher education,92,Tallinna Linnavolikogu liige,10
+13.89309128,KESK,32366,RATAS,36.663,7932,Estonian Centre Party,Male,4,"Harju, Rapla",JÜRI,125,737,Higher education,1102,Riigikogu aseesimees,1
+18.07909605,KESK,32369,LOONE,36.066,354,Estonian Centre Party,Female,4,"Harju, Rapla",KERSTIN-OUDEKKI,21,738,Higher education,64,"Vabakutseline poliitikateadlane, Tallinna Ülikooli doktorant",2
+16.17647059,KESK,32373,LOOTSMANN,69.533,136,Estonian Centre Party,Male,4,"Harju, Rapla",VÄRNER,23,739,Higher education,22,"Loksa Linnavalitus, linnapea",3
+10.35548686,KESK,32377,VELMAN,69.429,1294,Estonian Centre Party,Male,4,"Harju, Rapla",VLADIMIR,39,740,Higher education,134,Riigikogu liige,4
+19.76047904,KESK,32378,TOOMSE,42.817,167,Estonian Centre Party,Male,4,"Harju, Rapla",RENÉ,53,741,Higher education,33,"Aburgus OÜ, tegevjuht",5
+12.4260355,KESK,32381,VÕIGEMAST,58.281,169,Estonian Centre Party,Male,4,"Harju, Rapla",JÜRI,36,742,Higher education,21,"Eesti Linnade Liit, tegevdirektor",6
+7.517899761,KESK,32385,ARHIPOV,59.428,838,Estonian Centre Party,Male,4,"Harju, Rapla",VLADIMIR,67,743,Secondary education,63,"Maardu Linnavalitsus, abilinnapea",7
+10.25641026,KESK,32389,TŠUBAROV,37.949,351,Estonian Centre Party,Male,4,"Harju, Rapla",OLEG,77,744,Secondary education,36,"Eesti Raudteelaste Ametiühing, juhatuse esimees",8
+12.06896552,KESK,32394,KOKSER,63.014,116,Estonian Centre Party,Male,4,"Harju, Rapla",AGO,92,745,Higher education,14,Keila Linnavolikogu liige,9
+10.99099099,KESK,32397,MALLEUS,61.101,555,Estonian Centre Party,Female,4,"Harju, Rapla",NATALIA,69,746,Higher education,61,"vabakutseline ajakirjanik, Tallinna Linnavolikogu liige",10
+27.27272727,KESK,32401,REBANE,41.851,88,Estonian Centre Party,Male,4,"Harju, Rapla",PEETER,68,747,Higher education,24,"BDG Holdings, juhatuse liige",11
+16.41791045,KESK,32406,PAI,47.055,67,Estonian Centre Party,Male,4,"Harju, Rapla",MEELIS,72,748,Higher education,11,"Tallinna Linnavalitsus, linnapea nõunik",12
+10.52631579,KESK,32408,UUEMAA,56.712,95,Estonian Centre Party,Male,4,"Harju, Rapla",INDREK,96,749,Higher education,10,"Vaida Põhikool, direktor",13
+25.92592593,KESK,32410,SASSI,63.699,54,Estonian Centre Party,Male,4,"Harju, Rapla",VÄINO,100,750,Higher education,14,"Rapla Tarbijate Ühistu, juhatuse liige",14
+2.469135802,KESK,32415,LIIDEMANN,31.658,81,Estonian Centre Party,Male,4,"Harju, Rapla",OLIVER,108,751,Higher education,2,Viimsi Vallavolikogu liige,15
+26,KESK,32418,JÕGISOO,55.485,100,Estonian Centre Party,Male,4,"Harju, Rapla",VELLO,111,752,Higher education,26,"MTÜ Harjumaa Ühistranspordikeskus, tegevjuht",16
+12.39296981,KESK,32367,EESMAA,68.731,2219,Estonian Centre Party,Male,5,"Hiiu, Lääne, Saare",ENN,3,753,Higher education,275,Riigikogu liige,1
+10.03787879,KESK,32368,KARILAID,38.075,1056,Estonian Centre Party,Male,5,"Hiiu, Lääne, Saare",JAANUS,15,754,Higher education,106,Haapsalu Linnavolikogu esimees,2
+17.14285714,KESK,32370,NURMIK,43.469,245,Estonian Centre Party,Female,5,"Hiiu, Lääne, Saare",JANNE,46,755,Higher education,42,TÖÖTU,3
+27.69230769,KESK,32371,KAMPMANN,41.689,65,Estonian Centre Party,Male,5,"Hiiu, Lääne, Saare",ANDRES,55,756,Higher education,18,"Oru Kool, direktor",4
+14.58333333,KESK,32372,VAHTRAS,61.596,192,Estonian Centre Party,Male,5,"Hiiu, Lääne, Saare",ANTS,70,757,Higher education,28,PILDIKODA OÜ tegevjuht,5
+14.95327103,KESK,32374,MÄEKER,57.714,321,Estonian Centre Party,Male,5,"Hiiu, Lääne, Saare",MART,82,758,Higher education,48,MTÜ Keskkonnateenused tegevjuht,6
+11.76470588,KESK,32375,TÕRU,50.601,68,Estonian Centre Party,Male,5,"Hiiu, Lääne, Saare",HARALD,88,759,Higher education,8,"KURESSAARE AMETIKOOL, ÕPPEDIREKTOR",7
+20.2970297,KESK,32376,KUUSKEMAA,72.348,202,Estonian Centre Party,Male,5,"Hiiu, Lääne, Saare",JÜRI,120,760,Higher education,41,"Tallinna Linnakantselei, linnapea nõunik",8
+8.209538702,KESK,32379,KOTKA,28.594,2558,Estonian Centre Party,Female,6,Lääne-Viru,SIRET,10,761,Higher education,210,Riigikogu liige,1
+12.28978008,KESK,32380,VÄINASTE,65.098,773,Estonian Centre Party,Male,6,Lääne-Viru,TOOMAS,27,762,Higher education,95,VINNI VALLAVALITSUS VALLAVANEM,2
+12.08053691,KESK,32383,JAADLA,49.974,298,Estonian Centre Party,Male,6,Lääne-Viru,ANDRES,56,763,Higher education,36,"SA VIRUMAA KOMPETENTSI KESKUS, koolitus- ja arendussuuna juht",3
+13.40659341,KESK,32384,FJODOROVA,36.632,455,Estonian Centre Party,Female,6,Lääne-Viru,JELENA,71,764,Higher education,61,"KARELL KIIRABI, õde",4
+11.83206107,KESK,32388,MUTLI,40.983,262,Estonian Centre Party,Male,6,Lääne-Viru,JAANUS,83,765,Higher education,31,"Tallinna Linnavalitsus, Tln Ettevõtlusamet, Ettevõtluse arendamise osakonna juhataja",5
+17.16981132,KESK,32392,SÕBER,58.847,530,Estonian Centre Party,Male,6,Lääne-Viru,ANDRES,116,766,Higher education,91,KORVPALLIMEESKOND TARVAS PEATREENER,6
+12.05479452,KESK,32395,TAMM,60.203,365,Estonian Centre Party,Male,6,Lääne-Viru,URMAS,97,767,Higher education,44,"Tallinna Linnatransport AS, nõunik",7
+6.445481251,KESK,32398,TOOM,48.375,11574,Estonian Centre Party,Female,7,Ida-Viru,YANA,4,768,Secondary education,746,"Euroopa Parlament, liige",1
+6.222587719,KESK,32400,STALNUHHIN,53.457,3648,Estonian Centre Party,Male,7,Ida-Viru,MIHHAIL,31,769,Higher education,227,Riigikogu liige,2
+8.604206501,KESK,32403,KORB,60.66,1046,Estonian Centre Party,Male,7,Ida-Viru,VALERI,20,770,Higher education,90,XII Riigikogu liige,3
+12.68533773,KESK,32404,EFENDIJEV,60.671,607,Estonian Centre Party,Male,7,Ida-Viru,ELDAR,48,771,Higher education,77,Riigikogu liige,4
+12.82051282,KESK,32407,TAMMISTE,52.537,429,Estonian Centre Party,Male,7,Ida-Viru,TARMO,57,772,Higher education,55,NARVA LINNAVOLIKOGU ESIMEES,5
+6.572769953,KESK,32409,PAASMÄE,62.804,639,Estonian Centre Party,Female,7,Ida-Viru,EEVI,30,773,Higher education,42,"SILLAMÄE LINNAVALITSUS, ASELINNAPEA",6
+8.419497784,KESK,32411,DMITRIJEV,32.704,677,Estonian Centre Party,Male,7,Ida-Viru,DMITRI,54,774,Higher education,57,"KIVIÕLI LINNAVALITSUS, LINNAPEA",7
+10.52631579,KESK,32413,KUTSAR,56.099,152,Estonian Centre Party,Male,7,Ida-Viru,RIHO,84,775,Higher education,16,"SILLAMÄE LINNAVALITSUS, peaspetsialist",8
+7.969151671,KESK,32417,REPINSKI,28.567,1556,Estonian Centre Party,Male,7,Ida-Viru,MARTIN,103,776,Secondary education,124,"Konju Mõisa Talu, Tegevjuht",9
+12.37839651,KESK,32412,REPS,40.129,2981,Estonian Centre Party,Female,8,"Järva, Viljandi",MAILIS,6,777,Higher education,369,Riigikogu liige,1
+8.803827751,KESK,32414,TOOBAL,31.329,1045,Estonian Centre Party,Male,8,"Järva, Viljandi",PRIIT,7,778,Secondary education,92,Riigikogu liige,2
+10.91065292,KESK,32416,SARAPUU,60.821,1164,Estonian Centre Party,Female,8,"Järva, Viljandi",KERSTI,12,779,Higher education,127,"AS Kingstor, AS Neli Kuningat, Kingstor Varad Grupp OÜ juhatuse liige",3
+10.11494253,KESK,32419,HALLEMAA,60.668,435,Estonian Centre Party,Male,8,"Järva, Viljandi",HELMUT,26,780,Higher education,44,"Loodus ja Meie OÜ, arenduskonsultant",4
+5.714285714,KESK,32420,MATSINA,49.821,140,Estonian Centre Party,Male,8,"Järva, Viljandi",RAIVO,102,781,Secondary education,8,Stiilimees OÜ juhataja,5
+19.04761905,KESK,32422,MÄNNIK,48.827,105,Estonian Centre Party,Male,8,"Järva, Viljandi",HANNES,58,782,Higher education,20,Võhma Gümnaasiumi direktor,6
+36.73469388,KESK,32423,RIISTAN,67.89,49,Estonian Centre Party,Male,8,"Järva, Viljandi",ARE,81,783,Higher education,18,"Paide Vallavolikogu liige, Ojaküla külavanem, ettevõtja",7
+22.78481013,KESK,32426,LEESMAA,42.984,79,Estonian Centre Party,Female,8,"Järva, Viljandi",ÜLLE,73,784,Higher education,18,Lõuna-Järvamaa Koostöökogu tegevjuht,8
+17.05426357,KESK,32429,MALTIS,64.016,129,Estonian Centre Party,Male,8,"Järva, Viljandi",MAIT,123,785,Secondary education,22,"muusik, laulja",9
+8.574380165,KESK,32421,TUUS-LAUL,63.803,2904,Estonian Centre Party,Female,9,"Jõgeva, Tartu",MARIKA,8,786,Higher education,249,Riigikogu liige,1
+6.496519722,KESK,32424,VAARMANN,38.146,431,Estonian Centre Party,Male,9,"Jõgeva, Tartu",URBO,41,787,Secondary education,28,Riigikogu liige,2
+10.4368932,KESK,32432,ERNITS,61.719,824,Estonian Centre Party,Male,9,"Jõgeva, Tartu",PEETER,17,788,Higher education,86,"Maaleht, peatoimetaja asetäitja",3
+11.98380567,KESK,32436,VÕSA,47.173,1235,Estonian Centre Party,Male,9,"Jõgeva, Tartu",PEETER,122,789,Secondary education,148,Riigikogu liige,4
+8.888888889,KESK,32439,OLGO,60.778,270,Estonian Centre Party,Male,9,"Jõgeva, Tartu",AARE,29,790,Higher education,24,"Jõgeva Linnavalitsus, linnapea",5
+8.550185874,KESK,32441,KAUR,45.224,269,Estonian Centre Party,Male,9,"Jõgeva, Tartu",MAX,60,791,Higher education,23,"Mustvee Linnavalitsus, linnapea",6
+19.13580247,KESK,32442,VÄÄN,54.631,162,Estonian Centre Party,Male,9,"Jõgeva, Tartu",ANDRES,74,792,Higher education,31,"Tallinna Linnatranspordi AS, sisekontrolör",7
+18.30508475,KESK,32446,RAID,59.825,295,Estonian Centre Party,Male,9,"Jõgeva, Tartu",ANDRES,90,793,Higher education,54,vabakutseline ajakirjanik,8
+16.23931624,KESK,32448,MIHKELS,69.755,117,Estonian Centre Party,Male,9,"Jõgeva, Tartu",KALLE,104,794,Higher education,19,"Tallinna Linnatranspordi AS, avalike suhete spetsialist",9
+7.739665787,KESK,32453,ŠIROKOV,36.876,1137,Estonian Centre Party,Male,9,"Jõgeva, Tartu",ALEKSANDR,85,795,Higher education,88,"Peipsiääre Vallavalitsus, vallavanem",10
+10.42543245,KESK,32425,MUST,63.934,2139,Estonian Centre Party,Male,10,Tartu linn,AADU,24,796,Higher education,223,"Tartu Ülikool, professor, Tartu Linnavolikogu esimees",1
+5.607476636,KESK,32427,RIISALU,50.653,1284,Estonian Centre Party,Female,10,Tartu linn,MARINA,43,797,Higher education,72,AS ASTRI NARVA JURIST,2
+6.153846154,KESK,32428,PÕDRAMÄGI,71.146,1105,Estonian Centre Party,Male,10,Tartu linn,NIKOLAI,59,798,Higher education,68,"SA TÜ KLIINIKUM, ARST-ÕPPEJÕUD",3
+8.440629471,KESK,32430,SUVOROV,26.059,699,Estonian Centre Party,Male,10,Tartu linn,ARTJOM,62,799,Higher education,59,Tartu Linnavolikogu liige,4
+4.519774011,KESK,32431,TROŠINA,51.628,354,Estonian Centre Party,Female,10,Tartu linn,NATALJA,105,800,Higher education,16,"TARTU I MUUSIKAKOOL, ÕPETAJA",5
+7.100591716,KESK,32434,ABARENKOV,51.513,507,Estonian Centre Party,Male,10,Tartu linn,IGOR,87,801,Higher education,36,OÜ FENOALFA juhatuse liige,6
+16.56441718,KESK,32435,KLAS,47.617,163,Estonian Centre Party,Female,10,Tartu linn,DIANA,119,802,Secondary education,27,näitleja,7
+21.53846154,KESK,32437,SUURSAAR,32.06,65,Estonian Centre Party,Male,10,Tartu linn,RAIN,114,803,Higher education,14,LuxGraveer OÜ juhataja,8
+6.172839506,KESK,32438,TAKIS,31.964,81,Estonian Centre Party,Female,10,Tartu linn,KÄTLIN,112,804,Secondary education,5,KÄTY OÜ JUHATUSE LIIGE/ KANE HALL OÜ OSANIK,9
+7.692307692,KESK,32440,ŠOKMAN,66.845,390,Estonian Centre Party,Male,10,Tartu linn,VLADIMIR,99,805,Higher education,30,TARTU LINNAVALITSUS ABILINNAPEA,10
+8.210712184,KESK,32433,LENK,68.452,3398,Estonian Centre Party,Male,11,"Võru, Valga, Põlva",HEIMAR,35,806,Higher education,279,Riigikogu liige,1
+11.52815013,KESK,32445,OTT,38.828,1119,Estonian Centre Party,Female,11,"Võru, Valga, Põlva",ANNELI,19,807,Higher education,129,Võru Linnavolikogu esimees,2
+11.8535735,KESK,32449,TAMM,61.24,1721,Estonian Centre Party,Male,11,"Võru, Valga, Põlva",TARMO,11,808,Secondary education,204,Riigikogu liige,3
+14,KESK,32451,USIN,42.519,200,Estonian Centre Party,Female,11,"Võru, Valga, Põlva",JANIKA,49,809,Higher education,28,"Põlva Vallavalitus, abivallavanem",4
+12.28070175,KESK,32454,NÄÄME,31.192,798,Estonian Centre Party,Male,11,"Võru, Valga, Põlva",ALAR,63,810,Higher education,98,"Tallinna Kesklinna Valitsus, linnaosavanem",5
+9.821428571,KESK,32456,SALUNDI,48.621,224,Estonian Centre Party,Female,11,"Võru, Valga, Põlva",EVE,75,811,Secondary education,22,"Põlva Koit OÜ, arvamustoimetaja",6
+24.87309645,KESK,32459,LAINE,31.953,197,Estonian Centre Party,Male,11,"Võru, Valga, Põlva",ANDRE,61,812,Higher education,49,"Põlva Vallavalitsus, noorsootöö spetsialist",7
+12.25806452,KESK,32462,TAPPO-TREIAL,45.158,155,Estonian Centre Party,Female,11,"Võru, Valga, Põlva",LIIS,115,813,Secondary education,19,Tallinna Linnavolikogu Kantselei aseesimehe nõunik,8
+12.5,KESK,32465,TOOTSEN,71.704,232,Estonian Centre Party,Male,11,"Võru, Valga, Põlva",TOIVO,117,814,Higher education,29,Tallinna Linnavolikogu aseesimees,9
+11.30434783,KESK,32467,TAMME,71.904,115,Estonian Centre Party,Female,11,"Võru, Valga, Põlva",HEIDY,124,815,Higher education,13,Pensionär,10
+8.219178082,KESK,32469,PAUR,65.955,511,Estonian Centre Party,Male,11,"Võru, Valga, Põlva",TOOMAS,38,816,Higher education,42,"Eesti Keskerakond, koordinaator",11
+11.28187216,KESK,32443,SIMSON,38.103,5726,Estonian Centre Party,Female,12,Pärnu,KADRI,2,817,Higher education,646,Riigikogu liige,1
+9.913793103,KESK,32444,ŠORIN,40.726,464,Estonian Centre Party,Male,12,Pärnu,MARKO,28,818,Higher education,46,"Sindi Linnavalitsus, linnapea",2
+7.924528302,KESK,32447,TALVIK,65.96,265,Estonian Centre Party,Male,12,Pärnu,HILLAR,44,819,Higher education,21,"OÜ ""Hinsotal"" tegevjuht",3
+10.22727273,KESK,32450,ALLIKSOO,47.091,264,Estonian Centre Party,Male,12,Pärnu,RIHO,94,820,Higher education,27,PÄRNU VENE GÜMNAASIUM DIREKTOR,4
+18.47826087,KESK,32452,SONG,52.972,184,Estonian Centre Party,Male,12,Pärnu,KALLE,78,821,Secondary education,34,SAARDE VALLAVOLIKOGU LIIGE,5
+9.274193548,KESK,32455,TŠIPURINA,62.108,248,Estonian Centre Party,Female,12,Pärnu,SVETLANA,89,822,Higher education,23,Pärnu Lasteaed Kelluke majandusalajuhataja,6
+14.70588235,KESK,32457,KEEL,52.413,102,Estonian Centre Party,Male,12,Pärnu,AVO,50,823,Secondary education,15,Pärnu Võrkpalliklubi treener,7
+14,KESK,32458,LOPSIK,65.429,100,Estonian Centre Party,Male,12,Pärnu,ANTS,98,824,Higher education,14,"OÜ AL Metsamajand, juhatuse esimees",8
+6.086956522,KESK,32461,BETKER,46.423,115,Estonian Centre Party,Female,12,Pärnu,ANNE,106,825,Secondary education,7,Pärnu korteriühistute juhatuse liige,9
+10.52631579,KESK,32463,MENGEL,40.794,76,Estonian Centre Party,Male,12,Pärnu,ARGO,109,826,Secondary education,8,Tahkuranna Vallavolikogu esimees,10
+44.81837607,SDE,31827,NESTOR,61.484,3744,Social Democratic Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",EIKI,124,827,Higher education,1678,"Riigikogu, esimees",1
+46.79860303,SDE,31832,MIKKO,53.426,859,Social Democratic Party,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",MARIANNE,7,828,Higher education,402,Riigikogu liige,2
+42.41745943,SDE,31835,TUROVSKI,68.572,1787,Social Democratic Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",ALEKSEI,40,829,Higher education,758,"Tallinna Loomaaed, vanem-metoodik",3
+49.15966387,SDE,31837,JUSKE,38.215,476,Social Democratic Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",JAAK,39,830,Secondary education,234,"GUSTAV ADOLFI GÜMAASIUM, ÕPETAJA",4
+60.24096386,SDE,31842,KEEVALLIK,71.803,166,Social Democratic Party,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",SIRJE,42,831,Higher education,100,"TTÜ Meresüsteemide Instituut, professor",5
+51.72413793,SDE,31846,SILD,27.962,87,Social Democratic Party,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",MARIS,44,832,Secondary education,45,"TALLINNA LINNAVOLIKOGU, VOLIKOGU LIIGE",6
+53.17460317,SDE,31850,KAMILOVA,27.992,126,Social Democratic Party,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",SANDRA,63,833,Higher education,67,"Kaitseministeerium, kaitseministri nõunik",7
+42.85714286,SDE,31853,PUUSTUSMAA,25.295,56,Social Democratic Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",RAIKO,96,834,Secondary education,24,üliõpilane,8
+47.43589744,SDE,31857,TIIK,45.268,78,Social Democratic Party,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",TIIA,109,835,Higher education,37,"Tallinna Sotsiaal- ja Tervishoiuamet, sotsiaaltöötaja",9
+27.08333333,SDE,31861,PUHKIM,64.123,48,Social Democratic Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",HEINART,94,836,Higher education,13,personalikonsultant,10
+47.42268041,SDE,31863,SAKS,58.251,291,Social Democratic Party,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",KATRIN,103,837,Higher education,138,"TLÜ Balti Filmi- ja Meediakool, direktor",11
+42.13041034,SDE,31838,ANVELT,45.415,3558,Social Democratic Party,Male,2,"Kesklinn, Lasnamäe, Pirita",ANDRES,123,838,Higher education,1499,JUSTIITSMINISTER,1
+53.13531353,SDE,31840,PILVRE-STORGARD,51.866,909,Social Democratic Party,Female,2,"Kesklinn, Lasnamäe, Pirita",BARBI-JENNY,27,839,Higher education,483,Riigikogu liige,2
+38.92215569,SDE,31841,POVERINA-TŠERNÕH,42.253,167,Social Democratic Party,Female,2,"Kesklinn, Lasnamäe, Pirita",JELENA,4,840,Higher education,65,UUDISTETOIMETAJA,3
+32.04134367,SDE,31843,BELOBROVTSEV,36.805,387,Social Democratic Party,Male,2,"Kesklinn, Lasnamäe, Pirita",VADIM,23,841,Higher education,124,"RIIGIKOGU, SDE FRAKTSIOONI NÕUNIK",4
+44.68085106,SDE,31849,VEIDEMANN,59.619,235,Social Democratic Party,Female,2,"Kesklinn, Lasnamäe, Pirita",ANDRA,32,842,Higher education,105,Riigikogu pensionär,5
+57.8358209,SDE,31852,PÄRNA,39.083,268,Social Democratic Party,Male,2,"Kesklinn, Lasnamäe, Pirita",OTT,14,843,Higher education,155,"ESTONIAN INVESTMENT CORPORATION, JUHATUSE ESIMEES",6
+33.99209486,SDE,31855,ALATALU,72.52,253,Social Democratic Party,Male,2,"Kesklinn, Lasnamäe, Pirita",TOOMAS,30,844,Higher education,86,FIE,7
+61.56716418,SDE,31856,TUISK,30.105,268,Social Democratic Party,Male,2,"Kesklinn, Lasnamäe, Pirita",SIIM,110,845,Secondary education,165,"OÜ INSPIRATIO, JUHATUSE LIIGE",8
+48.30508475,SDE,31859,LAJA,64.6,118,Social Democratic Party,Female,2,"Kesklinn, Lasnamäe, Pirita",REET,31,846,Higher education,57,"Eesti Haridusfoorum, juhatuse liige",9
+25.37313433,SDE,31860,KIRILOVA,29.897,67,Social Democratic Party,Female,2,"Kesklinn, Lasnamäe, Pirita",JEVGENIA,70,847,Higher education,17,"EUMAR SANTEHNIKA OÜ, TURUNDUSJUHT",10
+42.63959391,SDE,31862,KUURME,61.799,197,Social Democratic Party,Female,2,"Kesklinn, Lasnamäe, Pirita",TIIU,74,848,Higher education,84,"Tallinna Ülikool, dotsent",11
+63.15789474,SDE,31864,KIMMEL,34.757,95,Social Democratic Party,Male,2,"Kesklinn, Lasnamäe, Pirita",REIGO,69,849,Higher education,60,üliõpilane,12
+50.08849558,SDE,31866,SINIJÄRV,43.74,565,Social Democratic Party,Male,2,"Kesklinn, Lasnamäe, Pirita",KARL-MARTIN,45,850,Secondary education,283,"EESTI KIRJANIKE LIIT, ESIMEES",13
+44.45945946,SDE,31868,HVOSTOV,51.641,740,Social Democratic Party,Male,2,"Kesklinn, Lasnamäe, Pirita",ANDREI,125,851,Higher education,329,"Eesti Ekspress, ajakirjanik",14
+33.47047435,SDE,31867,VAKRA,33.974,4132,Social Democratic Party,Male,3,"Mustamäe, Nõmme",RAINER,122,852,Higher education,1383,Riigikogu liige,1
+45.05076142,SDE,31870,MERI,56.038,788,Social Democratic Party,Male,3,"Mustamäe, Nõmme",MART,41,853,Higher education,355,Riigikogu liige,2
+44.13407821,SDE,31872,SÕTNIK,34.242,358,Social Democratic Party,Female,3,"Mustamäe, Nõmme",OLGA,21,854,Higher education,158,Riigikogu liige,3
+26.95035461,SDE,31875,LAATS,33.856,282,Social Democratic Party,Male,3,"Mustamäe, Nõmme",LAURI,75,855,Higher education,76,"Tallinna Linnavolikogu, volikogu liige",4
+44.48979592,SDE,31881,PÄRNITS,49.678,245,Social Democratic Party,Female,3,"Mustamäe, Nõmme",KADI,46,856,Higher education,109,"EEK - Mainor, õppejõud",5
+52.69121813,SDE,31886,LIIVAT,32.49,353,Social Democratic Party,Male,3,"Mustamäe, Nõmme",ANTO,16,857,Higher education,186,"Estonian Business School, juhtimise õppetooli lektor",6
+47.15909091,SDE,31887,URB,64.225,176,Social Democratic Party,Female,3,"Mustamäe, Nõmme",KÜLLI,111,858,Secondary education,83,"Nõmme Sotsiaalkeskus, pedagoog",7
+40.84507042,SDE,31891,KANGILASKI,75.222,142,Social Democratic Party,Male,3,"Mustamäe, Nõmme",JAAK,65,859,Higher education,58,Tartu Ülikooli emeriitprofessor,8
+29.89690722,SDE,31894,TARAND,29.465,97,Social Democratic Party,Male,3,"Mustamäe, Nõmme",GERD,108,860,Secondary education,29,"Mustamäe halduskogu liige, omanik ja tegevjuht Word Link Estonian OÜ (kirjalik ja suuline tõlge, turunduskonsultatsioonid)",9
+42.68292683,SDE,31897,MEIKAR,37.046,738,Social Democratic Party,Male,3,"Mustamäe, Nõmme",SILVER,17,861,Higher education,315,vabakutseline ajakirjanik,10
+36.82833568,SDE,31839,MIKSER,41.309,4969,Social Democratic Party,Male,4,"Harju, Rapla",SVEN,1,862,Higher education,1830,"EV Kaitseministeerium, kaitseminister",1
+34.96055227,SDE,31844,PALO,42.639,2028,Social Democratic Party,Female,4,"Harju, Rapla",URVE,2,863,Higher education,709,"Majandus- ja Kommunikatsiooniministeerium, minister",2
+39.93174061,SDE,31847,RÜÜTLI,36.181,293,Social Democratic Party,Male,4,"Harju, Rapla",KAREL,5,864,Higher education,117,Riigikogu liige,3
+45.23326572,SDE,31848,OVIIR,37.999,493,Social Democratic Party,Female,4,"Harju, Rapla",LIISA,8,865,Higher education,223,"AS Eesti Energia, juhtiv jurist",4
+32.4137931,SDE,31851,TAMMSAAR,63.313,290,Social Democratic Party,Male,4,"Harju, Rapla",TIIT,43,866,Higher education,94,Riigikogu liige,5
+38.68613139,SDE,31854,ALT,36.674,137,Social Democratic Party,Female,4,"Harju, Rapla",MAILIS,35,867,Higher education,53,"Majandus- ja Kommunikatsioonimisteerium, majandus- ja taristuministri nõunik",6
+33.21799308,SDE,31858,UUKKIVI,52.977,578,Social Democratic Party,Male,4,"Harju, Rapla",RAIVO,112,868,Higher education,192,"Raasiku Vallavalitsus, vallavanem",7
+21.62162162,SDE,31865,TŠEREPANOV,46.037,111,Social Democratic Party,Male,4,"Harju, Rapla",STANISLAV,10,869,Higher education,24,"Statam International OÜ Õigusbüroo, juhataja",8
+29.26829268,SDE,31869,OJASOON,64.975,287,Social Democratic Party,Female,4,"Harju, Rapla",ASTRID,88,870,Higher education,84,Kaitseministeerium. Ministri nõunik,9
+38.43283582,SDE,31871,BLANK,60.318,268,Social Democratic Party,Male,4,"Harju, Rapla",TÕNIS,56,871,Higher education,103,Eesti Raamatupidajate Kogu juhatuse esimees,10
+27.77777778,SDE,31873,KISLOV,48.257,108,Social Democratic Party,Female,4,"Harju, Rapla",EVE,71,872,Higher education,30,"Riito Ehituse OÜ, kvaliteedijuht",11
+31.50684932,SDE,31874,ROODLA,23.389,146,Social Democratic Party,Male,4,"Harju, Rapla",MADIS,99,873,Secondary education,46,Üliõpilane,12
+41.52542373,SDE,31877,LEHT,51.209,118,Social Democratic Party,Female,4,"Harju, Rapla",ANNE,77,874,Higher education,49,"Vallavanem, Raikküla Vallavalitsus",13
+29.59183673,SDE,31879,ÕUNLOO,56.468,98,Social Democratic Party,Male,4,"Harju, Rapla",MATI,89,875,Higher education,29,"OÜ Valdek, kliendihaldur",14
+29.375,SDE,31882,PURRE,38.965,160,Social Democratic Party,Female,4,"Harju, Rapla",EVELY,95,876,Higher education,47,Lapsehoolduspuhkusel,15
+37.53056235,SDE,31884,VOLMER,57.309,818,Social Democratic Party,Male,4,"Harju, Rapla",HARDI,47,877,Higher education,307,Vabakutseline kunstnik-lavastaja,16
+40.38272816,SDE,31998,HANSO,43.4,2038,Social Democratic Party,Male,5,"Hiiu, Lääne, Saare",HANNES,121,878,Higher education,823,"Kuressaare Linnavalitsus, Kuressaare linnapea",1
+30.91508656,SDE,32003,SUUR,46.491,1213,Social Democratic Party,Male,5,"Hiiu, Lääne, Saare",NEEME,22,879,Higher education,375,Riigikogu liige,2
+37.4422188,SDE,32008,KOTKAS,54.888,649,Social Democratic Party,Male,5,"Hiiu, Lääne, Saare",KALEV,26,880,Higher education,243,Riigikogu liige,3
+23.27586207,SDE,32012,KAASIK,65.317,232,Social Democratic Party,Female,5,"Hiiu, Lääne, Saare",VEEVE,61,881,Higher education,54,"MTÜ Saarte Nõuandekeskus, taimekasvatuse konsulent",4
+24.74226804,SDE,32017,SAHK,61.969,97,Social Democratic Party,Male,5,"Hiiu, Lääne, Saare",JAANUS,102,882,Higher education,24,pensionär,5
+45.02923977,SDE,32023,RAND,23.951,342,Social Democratic Party,Female,5,"Hiiu, Lääne, Saare",REILI,98,883,Higher education,154,"Majandus- ja Kommunikatsiooniministeerium, nõunik",6
+30.3030303,SDE,32028,PEKSAR,53.843,132,Social Democratic Party,Male,5,"Hiiu, Lääne, Saare",ARNO,93,884,Higher education,40,Hanila vallavanem,7
+25.07936508,SDE,32032,AARDAM,62.891,315,Social Democratic Party,Male,5,"Hiiu, Lääne, Saare",RAIMU,52,885,Higher education,79,"Kihelkonna Vallavalitsus, vallavanem",8
+28.68324125,SDE,32015,VASSILJEV,33.309,2172,Social Democratic Party,Male,6,Lääne-Viru,RANNAR,120,886,Higher education,623,RIIGIKOGU RAHANDUSKOMISJONI ESIMEES,1
+32.40223464,SDE,32016,PIHLAK,46.034,537,Social Democratic Party,Female,6,Lääne-Viru,KAIRIT,33,887,Higher education,174,"RAKVERE LINNAVALITSUS, ABILINNAPEA",2
+24.79784367,SDE,32019,LUMISTE,45.336,371,Social Democratic Party,Male,6,Lääne-Viru,EERIK,81,888,Higher education,92,"LÄÄNE-VIRU MAAVALITSUS, PEASPETSIALIST",3
+23.39181287,SDE,32020,AUGASMÄGI,39.655,342,Social Democratic Party,Female,6,Lääne-Viru,ENE,55,889,Higher education,80,"SOTSIAALMINISTEERIUM, TERVISEPOLIITIKA JUHT",4
+26.15384615,SDE,32022,LETTENS,66.103,65,Social Democratic Party,Male,6,Lääne-Viru,PAUL,79,890,Higher education,17,"ENERGIAHOID OÜ, Juhataja",5
+43.92523364,SDE,32025,RAAGMAA,48.205,214,Social Democratic Party,Male,6,Lääne-Viru,GARRI,97,891,Higher education,94,"TARTU ÜLIKOOL, DOTSENT",6
+35.11705686,SDE,32026,BERG,69.509,299,Social Democratic Party,Female,6,Lääne-Viru,MAIMU,25,892,Higher education,105,EV Riigikogu liige,7
+21.1566092,SDE,32018,OSSINOVSKI,28.961,2784,Social Democratic Party,Male,7,Ida-Viru,JEVGENI,119,893,Higher education,589,Haridus- ja teadusminister,1
+31.28295255,SDE,32021,KAGAROV,59.088,569,Social Democratic Party,Female,7,Ida-Viru,ETTI,49,894,Higher education,178,Riigikogu liige,2
+25.20325203,SDE,32024,ALLIK,68.394,369,Social Democratic Party,Male,7,Ida-Viru,JAAK,29,895,Higher education,93,Riigikogu liige,3
+28.32369942,SDE,32027,ODINETS,38.76,173,Social Democratic Party,Male,7,Ida-Viru,EDUARD,87,896,Higher education,49,"Kultuuriministeerium, välisvahendite ekspert",4
+14.49275362,SDE,32030,NAZAROVA,53.599,207,Social Democratic Party,Female,7,Ida-Viru,INNA,84,897,Higher education,30,"Sillamäe Kutsekool, direktor",5
+21.99312715,SDE,32034,KALLAS,39.086,291,Social Democratic Party,Female,7,Ida-Viru,KRISTINA,15,898,Higher education,64,"Balti Uuringute Instituut, juhatuse liige",6
+18.91891892,SDE,32037,AFANASSJEV,52.808,37,Social Democratic Party,Male,7,Ida-Viru,GENADI,53,899,Higher education,7,"OÜ Lederson, grupijuhendaja",7
+31.1023622,SDE,32040,KUTTI,36.775,254,Social Democratic Party,Male,7,Ida-Viru,ANTS,73,900,Higher education,79,"Maksu- ja Tolliamet, osakonnajuhataja asetäitja",8
+36.65338645,SDE,32044,NÕMMISTE,42.557,251,Social Democratic Party,Male,7,Ida-Viru,TOOMAS,86,901,Higher education,92,R-Kiosk Estonia piirkonna juht,9
+25.75320933,SDE,32029,KÜTT,53.591,3817,Social Democratic Party,Female,8,"Järva, Viljandi",HELMEN,118,902,Higher education,983,"Sotsiaalministeerium, sotsiaalkaitseminister",1
+26.95238095,SDE,32031,MARRANDI,51.94,1050,Social Democratic Party,Male,8,"Järva, Viljandi",JAANUS,6,903,Higher education,283,"OÜ ESTONIA HALDUSJUHT, NÕUKOGU ESIMEES",2
+18.2748538,SDE,32033,LUMI,61.478,684,Social Democratic Party,Female,8,"Järva, Viljandi",ÜLLE,80,904,Higher education,125,"AS VILJANDI HAMBAKLIINIK JUHATAJA, Viljandi Linnavalitsuse liige, SA Viljandi Haigla nõukogu liige",3
+31.38856476,SDE,32036,AASMA,29.123,857,Social Democratic Party,Male,8,"Järva, Viljandi",ALO,36,905,Higher education,269,Järva maavanem,4
+35.10273973,SDE,32038,LÄNTS,36.791,584,Social Democratic Party,Male,8,"Järva, Viljandi",RANDEL,11,906,Secondary education,205,Viljandi Linnavolikogu esimees,5
+35.26570048,SDE,32041,SAAR,32.214,621,Social Democratic Party,Male,8,"Järva, Viljandi",ARTO,101,907,Higher education,219,"Järva-Jaani Vallavalitsus, Vallavanem",6
+40,SDE,32042,PALM,53.032,260,Social Democratic Party,Male,8,"Järva, Viljandi",ERICH,90,908,Higher education,104,"Viljandi Maavalitsus, maavanem",7
+27.49003984,SDE,32043,KÄND,44.419,251,Social Democratic Party,Male,8,"Järva, Viljandi",KAUPO,64,909,Higher education,69,"vanemnõunik, diplomaat OSCE",8
+37.59689922,SDE,32046,RAUD,26.784,774,Social Democratic Party,Female,8,"Järva, Viljandi",LIINA,19,910,Secondary education,291,üliõpilane,9
+28.54181064,SDE,32035,ÕUNAPUU,56.463,1447,Social Democratic Party,Male,9,"Jõgeva, Tartu",JAAN,117,911,Higher education,413,Riigikogu liige,1
+30.12205754,SDE,32039,TALVE,38.546,2294,Social Democratic Party,Male,9,"Jõgeva, Tartu",TANEL,20,912,Secondary education,691,"AS Kanal 2, saatejuht; MTÜ Voose Külaselts, juhatuse liige, OÜ Winter Media Group, juhatuse liige",2
+25.97701149,SDE,32045,MOROZOV,56.471,870,Social Democratic Party,Male,9,"Jõgeva, Tartu",JÜRI,13,913,Higher education,226,Riigikogu liige,3
+30.57090239,SDE,32047,LOMP,30.642,543,Social Democratic Party,Male,9,"Jõgeva, Tartu",PRIIT,50,914,Secondary education,166,"Haaslava Vallavalitsus, vallavanem",4
+39.54983923,SDE,32051,PÄRSIM,38.086,311,Social Democratic Party,Female,9,"Jõgeva, Tartu",TRIIN,91,915,Higher education,123,"Torma Vallavalitsus, vallavanem",5
+45.45454545,SDE,32054,KELL,33.311,176,Social Democratic Party,Female,9,"Jõgeva, Tartu",KAIRI,68,916,Higher education,80,OÜ Mustpanter juhatuse liige,6
+25.68807339,SDE,32057,AIAOTS,62.127,654,Social Democratic Party,Male,9,"Jõgeva, Tartu",JAAN,54,917,Higher education,168,"Põltsamaa Linnavalitsus, linnapea",7
+30.99173554,SDE,32061,KARRO,34.856,242,Social Democratic Party,Male,9,"Jõgeva, Tartu",MEELIS,66,918,Higher education,75,Elva Linnavolikogu esimees,8
+43.6,SDE,32063,NETTAN,26.5,500,Social Democratic Party,Male,9,"Jõgeva, Tartu",ASSO,85,919,Higher education,218,"Tartu Regiooni Energiaagentuur, projektijuht",9
+34.61538462,SDE,32066,SÕRRA,60.334,546,Social Democratic Party,Male,9,"Jõgeva, Tartu",JAAN,105,920,Secondary education,189,"Tartumaa Põllumeeste Liit MTÜ, juhatuse esimees",10
+35.33601734,SDE,32048,RAUD,46.114,3229,Social Democratic Party,Male,10,Tartu linn,MIHKEL,116,921,Higher education,1141,"RAUD MEEDIA OÜ, TEGEVJUHT",1
+23.6043095,SDE,32050,PIKHOF,56.361,2042,Social Democratic Party,Female,10,Tartu linn,HELJO,3,922,Higher education,482,Riigikogu liige,2
+46.63402693,SDE,32052,JÜRGENSTEIN,50.604,817,Social Democratic Party,Male,10,Tartu linn,TOOMAS,38,923,Higher education,381,"HUGO TREFFNERI GÜMNAASIUM, ÕPETAJA",3
+51.2455516,SDE,32055,LEETMAA,39.529,281,Social Democratic Party,Female,10,Tartu linn,KADRI,48,924,Higher education,144,"Tartu Ülikool, inimgeograafia teadur",4
+50.92436975,SDE,32058,KANGILASKI,36.235,595,Social Democratic Party,Female,10,Tartu linn,GEA,18,925,Higher education,303,"Tartu linnavolikogu, volikogu liige",5
+26.25,SDE,32060,INTS,49.298,80,Social Democratic Party,Male,10,Tartu linn,TÕNU,59,926,Secondary education,21,"JOHANNES MIHKELSONI KESKUS, JUHATAJA",6
+25.5033557,SDE,32062,KASELO,32.375,149,Social Democratic Party,Male,10,Tartu linn,HENRI,67,927,Higher education,38,"EUROOPA PARLAMENT, EP SAADIKU MARJU LAURISTINI NÕUNIK",7
+29.50819672,SDE,32065,MERKULJEVA,52.23,61,Social Democratic Party,Female,10,Tartu linn,TIINA,83,928,Higher education,18,"EEK MAINOR, ÕPPEJÕUD, INTERNATIONAL SUPERVISION AND COACHING INSTITUTE MTÜ - SUPERVIISOR",8
+37.5,SDE,32068,LAUR,39.463,96,Social Democratic Party,Male,10,Tartu linn,JARNO,76,929,Higher education,36,"Tartu Linnavalitsus, abilinnapea",9
+31.93717277,SDE,32069,LEMBER,38.453,191,Social Democratic Party,Male,10,Tartu linn,KAJAR,78,930,Higher education,61,"Tartu Linnavalitsus, abilinnapea",10
+29.65931864,SDE,32049,PADAR,49.969,3992,Social Democratic Party,Male,11,"Võru, Valga, Põlva",IVARI,115,931,Higher education,1184,Põllumajandusminister,1
+25.55948174,SDE,32053,TOBRELUTS,60.227,849,Social Democratic Party,Female,11,"Võru, Valga, Põlva",SIRJE,37,932,Higher education,217,"Laheda Vallavalitsus, vallavanem",2
+22.93120638,SDE,32056,RANDVER,58.683,1003,Social Democratic Party,Male,11,"Võru, Valga, Põlva",REIN,34,933,Higher education,230,Riigikogu liige,3
+26.62181643,SDE,32059,KÕVA,40.287,2081,Social Democratic Party,Male,11,"Võru, Valga, Põlva",KALVI,24,934,Secondary education,554,Riigikogu liige,4
+24.08163265,SDE,32064,KUDRE,44.219,245,Social Democratic Party,Male,11,"Võru, Valga, Põlva",RAUL,72,935,Higher education,59,"Värska Vallavalitsus, vallavanem",5
+21.90265487,SDE,32067,TAMM,49.78,452,Social Democratic Party,Male,11,"Võru, Valga, Põlva",TARMO,107,936,Higher education,99,"Helme Vallavalitsus, vallavanem",6
+35.64102564,SDE,32070,SUIJA,40.709,390,Social Democratic Party,Female,11,"Võru, Valga, Põlva",SILJA,106,937,Secondary education,139,Ettevõtja,7
+28.44036697,SDE,32072,JÄRVELILL,48.873,218,Social Democratic Party,Male,11,"Võru, Valga, Põlva",REIN,60,938,Higher education,62,Meremäe vallavanem,8
+35.60209424,SDE,32073,HÄRK,43.962,191,Social Democratic Party,Male,11,"Võru, Valga, Põlva",KALEV,57,939,Higher education,68,"Valga Linnavalitsus, linnapea",9
+40.88669951,SDE,32075,SILD,50.697,203,Social Democratic Party,Male,11,"Võru, Valga, Põlva",SIXTEN,104,940,Higher education,83,"Võru Linnavalitsus, abilinnapea",10
+21.56040268,SDE,32077,LUIGAS,56.129,1192,Social Democratic Party,Female,11,"Võru, Valga, Põlva",INARA,9,941,Higher education,257,Riigikogu liige,11
+30.70987654,SDE,32071,SAAR,42.023,1944,Social Democratic Party,Male,12,Pärnu,INDREK,114,942,Higher education,597,Riigikogu liige,1
+27.82608696,SDE,32074,JAANSON,48.268,230,Social Democratic Party,Female,12,Pärnu,TATJANA,28,943,Higher education,64,Riigikogu liige,2
+37.5,SDE,32076,MAATEE,53.303,504,Social Democratic Party,Female,12,Pärnu,AET,12,944,Higher education,189,Eesti Laulu- ja Tantsupeo SA juhataja,3
+28.87438825,SDE,32078,SOOSAAR,69.131,613,Social Democratic Party,Male,12,Pärnu,MARK,51,945,Higher education,177,"Pärnu RVA ühing, juhatuse esimees",4
+36.94779116,SDE,32079,MERIMAA,60.454,249,Social Democratic Party,Female,12,Pärnu,MERCEDES,82,946,Higher education,92,Pärnu Lahe Partnerluskogu tegevjuht,5
+32.78236915,SDE,32080,PARVE,70.048,363,Social Democratic Party,Male,12,Pärnu,VALTER,92,947,Higher education,119,"TÜ Pärnu kolledž, lektor",6
+31.93717277,SDE,32081,RUUT,40.654,191,Social Democratic Party,Male,12,Pärnu,PRIIT,100,948,Higher education,61,"Sauga Vallavalitsus, vallavanem",7
+27.47252747,SDE,32082,KALJUSTE,37.008,182,Social Democratic Party,Male,12,Pärnu,KALEV,62,949,Higher education,50,"Tootsi Vallavalitsus, vallavanem",8
+33.33333333,SDE,32083,HIRVELA,59.409,144,Social Democratic Party,Male,12,Pärnu,ANDRES,58,950,Higher education,48,FIE,9
+29.41176471,SDE,32084,VIIK,48.277,221,Social Democratic Party,Female,12,Pärnu,KADRI-AIJA,113,951,Higher education,65,"OÜ Hundimõisa, metsakonsultant",10
+21.4953271,EIP,32568,ORGUSAAR,46.341,107,Estonian Independence Party,Male,1,"Haabersti, Kristiine, Põhja-Tallinn",RAIVO,5,952,Secondary education,23,Ettevõtja,1
+13.79310345,EIP,32571,LIIKANE,46.721,58,Estonian Independence Party,Male,2,"Kesklinn, Lasnamäe, Pirita",LAURI,4,953,Secondary education,8,"Leksiko Koolituskeskus, juhataja",1
+17.91044776,EIP,32572,OTSMAA,52.676,67,Estonian Independence Party,Female,3,"Mustamäe, Nõmme",MERLE,7,954,Higher education,12,Doktorant,1
+12.03007519,EIP,32574,LEITO,73.514,133,Estonian Independence Party,Male,4,"Harju, Rapla",VELLO,1,955,Higher education,16,Eesti Iseseisvuspartei esimees,1
+24.77876106,EIP,32575,AIT,68.14,113,Estonian Independence Party,Male,5,"Hiiu, Lääne, Saare",OLEV,8,956,Higher education,28,Pensionär,1
+16.86746988,EIP,32570,TAMM,44.068,83,Estonian Independence Party,Male,6,Lääne-Viru,TOOMAS,12,957,Higher education,14,"õpetaja, tööotsija",1
+18.51851852,EIP,32569,KÄNGSEPP,49.752,54,Estonian Independence Party,Female,7,Ida-Viru,HELE,6,958,Higher education,10,õpilane,1
+16.41791045,EIP,32573,KRUUSMAA,50.497,67,Estonian Independence Party,Male,8,"Järva, Viljandi",JAANUS,9,959,Secondary education,11,"Lignatherm OÜ, juhatuse liige; MTÜ Abivägi in Corpore, juhatuse esimees",1
+18.11023622,EIP,32576,ÕUNAPUU,71.995,127,Estonian Independence Party,Male,9,"Jõgeva, Tartu",TOIVO,10,960,Basic education,23,pensionär,1
+15.38461538,EIP,32577,RÄMMEL,50.374,39,Estonian Independence Party,Male,10,Tartu linn,VEIKO,3,961,Higher education,6,"vabakutseline, jutlustaja",1
+17.11711712,EIP,32578,MÕTTUS,29.394,111,Estonian Independence Party,Male,11,"Võru, Valga, Põlva",ARGO,11,962,Higher education,19,Vabakutseline,1
+17.04545455,EIP,32579,PAEMURRU,66.675,88,Estonian Independence Party,Male,12,Pärnu,PEETER,2,963,Higher education,15,"Eesti Muusika- ja Teatriakadeemia, professor",1
+23.07692308,Single candidate,32581,IBRAGIMOV,42.023,26,Single candidates,Male,2,"Kesklinn, Lasnamäe, Pirita",ILMAR,1,964,Higher education,6,"Tallinna Majanduskool, teadur",1
+35.44303797,Single candidate,31705,VACKERMANN,51.269,79,Single candidates,Male,4,"Harju, Rapla",JAAK,2,965,Secondary education,28,"Jaak Vackermanni Laatsi talu, peremees",2
+42.85714286,Single candidate,32580,REINSON,22.856,42,Single candidates,Female,2,"Kesklinn, Lasnamäe, Pirita",GREETE,3,966,Without basic education,18,Reinson & Partnerid õigusbüroo OÜ juhatuse liige,3
+42.10526316,Single candidate,31706,RANNE,41.188,114,Single candidates,Male,11,"Võru, Valga, Põlva",MAREK,4,967,Higher education,48,"Menetlusteenstus, juhataja",4
+19.04761905,Single candidate,31736,LEETNA,66.407,42,Single candidates,Male,2,"Kesklinn, Lasnamäe, Pirita",HENN,5,968,Higher education,8,"OÜ Elekter EURONA juhatuse esimees, elektriinsener",5
+20.72072072,Single candidate,31732,KARUSOO,33.295,111,Single candidates,Male,10,Tartu linn,URMO,6,969,Secondary education,23,Lihttööline,6
+17.39130435,Single candidate,32212,IVNITSKAJA,58.209,46,Single candidates,Female,1,"Haabersti, Kristiine, Põhja-Tallinn",SVETLANA,7,970,Secondary education,8,töötu,7
+29.26829268,Single candidate,32382,PÄHKLEMÄE,48.093,82,Single candidates,Female,2,"Kesklinn, Lasnamäe, Pirita",MAARIKA,8,971,Higher education,24,"M. Pähklemäe & Co Law Office juhatuse liige, jurist, Eesti Naisjuristide Liit, juhatuse liige",8
+27.11864407,Single candidate,32522,PORROSON,45.084,59,Single candidates,Male,11,"Võru, Valga, Põlva",TARMO,9,972,Secondary education,16,Eesti Kristlik Nelipühi Kirik Valga Kogudus tööline,9
+23.63636364,Single candidate,32391,HIRV,54.795,110,Single candidates,Female,4,"Harju, Rapla",EGE,10,973,Higher education,26,Ettevõtja,10
+32.95454545,Single candidate,32386,KOIT,39.107,176,Single candidates,Female,8,"Järva, Viljandi",HELI,11,974,Higher education,58,Kaurix OÜ juhatuse liige,11
