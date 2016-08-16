@@ -4,6 +4,7 @@
   <head>
     <meta charset="utf-8">
     <script src="http://d3js.org/d3.v3.min.js"></script>
+
         <style>
 
             circle {
@@ -40,7 +41,7 @@
             fill: #636363;
             font-style: italic;
           }
-          .legend{
+          .legend, .labels{
             font: sans-serif;
             font-size: 14px;
           }
@@ -456,6 +457,7 @@
                 var ord_scale = d3.scale.ordinal().domain(nested_array_keys).rangeBands([margin,x_axis_end],0.4);
 
                 var x_function = function(data_line){
+                  
                   var jitter = Math.random() * ord_scale.rangeBand();
                   return ord_scale(data_line[active_menu_value]) + jitter;
                   }
@@ -463,6 +465,7 @@
                 //rescale evf axis
                 var evf_max = d3.max(data_on_screen, function(d){return d["e_vote_fraction"];});
                 evf_scale.domain([0,evf_max]).nice();
+
 
                 //Create black lines representing the mean values of groups
                 svg.selectAll("line")
@@ -494,9 +497,9 @@
                   .attr("text-anchor", "middle")
                   .text(function(d){return d.values.mean.toString().substring(0,4)})
                 //  .text(function(d){return Math.round(d.values.mean)})
-                  .attr("font-size","0px")
+                  .attr("font-size","12px")
                   .on("mouseover",function(d){
-                    debugger;
+                    
                     d3.select(".tooltip")
                     tooltip.transition()
                         .duration(200)
@@ -513,9 +516,10 @@
                        .duration(500)
                        .style("opacity",0)
                   })
+                  .attr("opacity",0)
                   .transition()
                   .delay(function(d,i){return 1000 + i*(1000/nested.length);})
-                  .attr("font-size","12px")
+                  .attr("opacity",1)
 
                 //Create group labels
                 var xAxis = d3.svg.axis()
@@ -557,16 +561,16 @@
                     .attr("y", function(d,i){return 385 + i*25;})
                     .attr("text-anchor", "left")
                     .text(function(d) {return d;})
-                    .attr("font-size","0px")
+                    .attr("opacity",0)
                     .transition()
                     .delay(500)
-                    .attr("font-size","16px");
+                    .attr("opacity",1);
 
                   d3.select(".hover.legendGuide").transition().delay(500).style("fill","#636363");
 
 
 
-                  function draw_annotation_rects(category){debugger;
+                  function draw_annotation_rects(category){
 
                       //filter out data that is not currently on screen
                       filtered_annotation_data = annotation_data.filter(function(d){
